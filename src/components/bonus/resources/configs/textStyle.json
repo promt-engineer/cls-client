@@ -1,0 +1,49 @@
+{
+  "textStyle": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 65,
+    "fill": "#ffffff",
+    "align": "center",
+    "wordWrapWidth": 800,
+    "wordWrap": true,
+    "lineHeight": 80,
+    "dropShadow": true,
+    "dropShadowDistance": 0,
+    "dropShadowBlur": 15,
+    "dropShadowAngle": 0,
+    "dropShadowColor": "#330d00"
+  },
+  "plate": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 30,
+    "fill": [
+      "#fffee4",
+      "#f5ed10",
+      "#f5e999",
+      "#f5c40c",
+      "#f5efa7",
+      "#f5e933"
+    ],
+    "align": "center",
+    "dropShadow": true,
+    "dropShadowDistance": 0,
+    "dropShadowBlur": 4,
+    "dropShadowAngle": 0,
+    "dropShadowColor": "#330d00",
+    "stroke": "#330d00",
+    "strokeThickness": 5
+  },
+  "plateTitle": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 30,
+    "fill": "#ffffff",
+    "align": "center",
+    "dropShadow": true,
+    "dropShadowDistance": 0,
+    "dropShadowBlur": 6,
+    "dropShadowAngle": 0,
+    "dropShadowColor": "#000000",
+    "stroke": "#000000",
+    "strokeThickness": 2
+  }
+}

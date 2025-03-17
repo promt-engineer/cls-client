@@ -1,0 +1,244 @@
+
+Cat_stone_size_1.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+braslet_1
+  rotate: true
+  xy: 62, 9
+  size: 32, 21
+  orig: 34, 23
+  offset: 1, 1
+  index: -1
+braslet_1_shadow
+  rotate: true
+  xy: 85, 11
+  size: 30, 7
+  orig: 33, 11
+  offset: 1, 2
+  index: -1
+braslet_2
+  rotate: true
+  xy: 2, 3
+  size: 38, 16
+  orig: 40, 18
+  offset: 1, 1
+  index: -1
+braslet_2_shadow
+  rotate: true
+  xy: 20, 4
+  size: 37, 8
+  orig: 41, 10
+  offset: 2, 1
+  index: -1
+cat_base
+  rotate: false
+  xy: 400, 5
+  size: 211, 363
+  orig: 211, 363
+  offset: 0, 0
+  index: -1
+cat_shadow_1
+  rotate: true
+  xy: 1024, 1823
+  size: 222, 85
+  orig: 229, 89
+  offset: 4, 2
+  index: -1
+cat_shadow_2
+  rotate: false
+  xy: 878, 1580
+  size: 226, 68
+  orig: 238, 73
+  offset: 10, 4
+  index: -1
+cat_tail
+  rotate: false
+  xy: 504, 1446
+  size: 151, 120
+  orig: 151, 128
+  offset: 0, 0
+  index: -1
+dark_eye
+  rotate: true
+  xy: 94, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+front_leg_1
+  rotate: true
+  xy: 712, 1573
+  size: 75, 164
+  orig: 75, 164
+  offset: 0, 0
+  index: -1
+front_leg_2
+  rotate: false
+  xy: 657, 1448
+  size: 95, 118
+  orig: 96, 118
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 398, 1568
+  size: 312, 477
+  orig: 334, 500
+  offset: 11, 11
+  index: -1
+glow1
+  rotate: false
+  xy: 142, 14
+  size: 53, 27
+  orig: 55, 29
+  offset: 1, 1
+  index: -1
+glow2
+  rotate: false
+  xy: 30, 9
+  size: 30, 32
+  orig: 32, 34
+  offset: 1, 1
+  index: -1
+gold_1
+  rotate: false
+  xy: 2, 796
+  size: 395, 622
+  orig: 398, 622
+  offset: 2, 0
+  index: -1
+gold_2
+  rotate: false
+  xy: 679, 1033
+  size: 395, 413
+  orig: 396, 414
+  offset: 0, 0
+  index: -1
+gold_3
+  rotate: false
+  xy: 2, 43
+  size: 396, 310
+  orig: 397, 310
+  offset: 0, 0
+  index: -1
+gold_4
+  rotate: true
+  xy: 613, 6
+  size: 401, 249
+  orig: 401, 249
+  offset: 0, 0
+  index: -1
+gold_5
+  rotate: false
+  xy: 798, 826
+  size: 396, 205
+  orig: 396, 205
+  offset: 0, 0
+  index: -1
+gold_6
+  rotate: false
+  xy: 399, 824
+  size: 397, 176
+  orig: 397, 176
+  offset: 0, 0
+  index: -1
+gold_stroke_1
+  rotate: false
+  xy: 399, 1002
+  size: 278, 416
+  orig: 278, 416
+  offset: 0, 0
+  index: -1
+gold_stroke_2
+  rotate: false
+  xy: 305, 370
+  size: 286, 424
+  orig: 286, 424
+  offset: 0, 0
+  index: -1
+green_eye
+  rotate: true
+  xy: 398, 1420
+  size: 23, 16
+  orig: 24, 17
+  offset: 1, 1
+  index: -1
+green_gem
+  rotate: true
+  xy: 94, 13
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 398, 1445
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+necklace_shadow
+  rotate: true
+  xy: 754, 1454
+  size: 117, 98
+  orig: 117, 98
+  offset: 0, 0
+  index: -1
+size_1
+  rotate: false
+  xy: 2, 1420
+  size: 394, 625
+  orig: 396, 627
+  offset: 1, 1
+  index: -1
+size_2
+  rotate: false
+  xy: 593, 409
+  size: 394, 413
+  orig: 394, 413
+  offset: 0, 0
+  index: -1
+size_3
+  rotate: true
+  xy: 712, 1650
+  size: 395, 310
+  orig: 395, 310
+  offset: 0, 0
+  index: -1
+size_4
+  rotate: true
+  xy: 864, 6
+  size: 401, 249
+  orig: 401, 249
+  offset: 0, 0
+  index: -1
+size_5
+  rotate: true
+  xy: 989, 428
+  size: 396, 205
+  orig: 396, 205
+  offset: 0, 0
+  index: -1
+size_6
+  rotate: true
+  xy: 1115, 30
+  size: 396, 176
+  orig: 396, 176
+  offset: 0, 0
+  index: -1
+stand
+  rotate: false
+  xy: 854, 1474
+  size: 272, 97
+  orig: 274, 99
+  offset: 1, 1
+  index: -1
+stone_stroke
+  rotate: false
+  xy: 2, 355
+  size: 301, 439
+  orig: 301, 439
+  offset: 0, 0
+  index: -1

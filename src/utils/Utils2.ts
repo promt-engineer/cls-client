@@ -1,0 +1,1 @@
+export const getRandomItem = <T>(list: T[]) => list[~~(Math.random() * list.length)];

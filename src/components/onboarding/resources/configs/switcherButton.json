@@ -1,0 +1,23 @@
+{
+    "position": {
+      "desktop": {
+        "posX": 480,
+        "posY": 440
+      },
+      "landscape": {
+        "posX": 450,
+        "posY": 450
+      },
+      "portrait": {
+        "posX": -210,
+        "posY": 700
+      }
+    },
+    "width": 110,
+    "height": 72,
+    "radius": 50,
+    "textPosition": {
+        "x": 270,
+        "y": 0
+    }
+}

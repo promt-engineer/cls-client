@@ -1,0 +1,5181 @@
+{
+  "skeleton": {
+    "hash": "tEU0UMlHO1dMrd0hwQCz1nPGBMo",
+    "spine": "3.8.99",
+    "x": -544.65,
+    "y": -1023.49,
+    "width": 1084.76,
+    "height": 2023.73
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "[RED]main_bg_mobile",
+      "parent": "root"
+    },
+    {
+      "name": "[PINK]Lotus_4",
+      "parent": "[RED]main_bg_mobile",
+      "x": -162.1,
+      "y": -404.85
+    },
+    {
+      "name": "[GREEN]leaf_1",
+      "parent": "[RED]main_bg_mobile",
+      "x": -222.77,
+      "y": -435.48
+    },
+    {
+      "name": "[PINK]Lotus_2",
+      "parent": "[RED]main_bg_mobile",
+      "x": -253.98,
+      "y": -453.74
+    },
+    {
+      "name": "[PINK]Lotus_9",
+      "parent": "[RED]main_bg_mobile",
+      "x": -385.12,
+      "y": -651.89
+    },
+    {
+      "name": "[GREEN]Leaf_10",
+      "parent": "[RED]main_bg_mobile",
+      "x": -197.49,
+      "y": -623.77
+    },
+    {
+      "name": "[GREEN]Leaf_9",
+      "parent": "[RED]main_bg_mobile",
+      "x": -278.89,
+      "y": -693.53
+    },
+    {
+      "name": "[PINK]Lotus_8",
+      "parent": "[RED]main_bg_mobile",
+      "x": -83.05,
+      "y": -688.03
+    },
+    {
+      "name": "[PINK]Lotus_7",
+      "parent": "[RED]main_bg_mobile",
+      "x": 51.39,
+      "y": -786.75
+    },
+    {
+      "name": "[GREEN]Leaf_5",
+      "parent": "[RED]main_bg_mobile",
+      "x": 127.54,
+      "y": -829.99
+    },
+    {
+      "name": "[GREEN]Leaf_6",
+      "parent": "[RED]main_bg_mobile",
+      "x": 227.2,
+      "y": -759.02
+    },
+    {
+      "name": "[GREEN]Leaf_7",
+      "parent": "[RED]main_bg_mobile",
+      "x": 280.96,
+      "y": -684.78
+    },
+    {
+      "name": "[PINK]Lotus_6",
+      "parent": "[RED]main_bg_mobile",
+      "x": 412.9,
+      "y": -751.83
+    },
+    {
+      "name": "[PINK]Lotus_5",
+      "parent": "[RED]main_bg_mobile",
+      "x": 216.9,
+      "y": -496.54
+    },
+    {
+      "name": "[GREEN]leaf_2",
+      "parent": "[RED]main_bg_mobile",
+      "x": 234.98,
+      "y": -430.16
+    },
+    {
+      "name": "[PINK]Lotus_3",
+      "parent": "[RED]main_bg_mobile",
+      "x": 290.96,
+      "y": -432.55
+    },
+    {
+      "name": "[GREEN]Leaf_8",
+      "parent": "[RED]main_bg_mobile",
+      "x": 349.63,
+      "y": -738.14
+    },
+    {
+      "name": "[GREEN]Leaf_4",
+      "parent": "[RED]main_bg_mobile",
+      "x": 10.94,
+      "y": -820.12
+    },
+    {
+      "name": "[PINK]Lotus_1",
+      "parent": "[RED]main_bg_mobile",
+      "x": 376.19,
+      "y": -294.2
+    },
+    {
+      "name": "[GREEN]leaf_3",
+      "parent": "[RED]main_bg_mobile",
+      "x": 293.81,
+      "y": -460.22
+    },
+    {
+      "name": "[BLUE]curtains_right_1",
+      "parent": "[RED]main_bg_mobile",
+      "length": 102.69,
+      "rotation": -82.41,
+      "x": 437.44,
+      "y": 1001.17
+    },
+    {
+      "name": "[BLUE]curtains_right_2",
+      "parent": "[BLUE]curtains_right_1",
+      "length": 146.04,
+      "rotation": -0.03,
+      "x": 102.69
+    },
+    {
+      "name": "[BLUE]curtains_right_3",
+      "parent": "[BLUE]curtains_right_2",
+      "length": 142.06,
+      "rotation": 1.6,
+      "x": 146.04
+    },
+    {
+      "name": "[BLUE]curtains_right_4",
+      "parent": "[BLUE]curtains_right_3",
+      "length": 170.9,
+      "rotation": 4.23,
+      "x": 142.06
+    },
+    {
+      "name": "[BLUE]curtains_left_1",
+      "parent": "[RED]main_bg_mobile",
+      "length": 85.21,
+      "rotation": -98.68,
+      "x": -502.46,
+      "y": 1000.89
+    },
+    {
+      "name": "[BLUE]curtains_left_2",
+      "parent": "[BLUE]curtains_left_1",
+      "length": 82.87,
+      "rotation": 2,
+      "x": 85.21
+    },
+    {
+      "name": "[BLUE]curtains_left_3",
+      "parent": "[BLUE]curtains_left_2",
+      "length": 95.24,
+      "rotation": 2.55,
+      "x": 82.87
+    },
+    {
+      "name": "[BLUE]curtains_left_4",
+      "parent": "[BLUE]curtains_left_3",
+      "length": 99.2,
+      "rotation": -4.55,
+      "x": 95.24
+    },
+    {
+      "name": "water lines_1",
+      "parent": "[RED]main_bg_mobile",
+      "x": -209.27,
+      "y": -465.26
+    },
+    {
+      "name": "water lines_4",
+      "parent": "[RED]main_bg_mobile",
+      "x": 202.14,
+      "y": -765.65
+    },
+    {
+      "name": "water lines_3",
+      "parent": "[RED]main_bg_mobile",
+      "x": -252.94,
+      "y": -666.02
+    },
+    {
+      "name": "water lines_2",
+      "parent": "[RED]main_bg_mobile",
+      "x": 253.62,
+      "y": -447.72
+    },
+    {
+      "name": "water lines_1_1",
+      "parent": "[RED]main_bg_mobile",
+      "x": -209.27,
+      "y": -465.26
+    },
+    {
+      "name": "water lines_2_1",
+      "parent": "[RED]main_bg_mobile",
+      "x": 253.62,
+      "y": -447.72
+    },
+    {
+      "name": "water lines_3_1",
+      "parent": "[RED]main_bg_mobile",
+      "x": -252.94,
+      "y": -666.02
+    },
+    {
+      "name": "water lines_4_1",
+      "parent": "[RED]main_bg_mobile",
+      "x": 202.14,
+      "y": -765.65
+    },
+    {
+      "name": "[RED]main_bg_mobile_fs",
+      "parent": "root"
+    },
+    {
+      "name": "[PINK]Lotus_10",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -162.1,
+      "y": -404.85
+    },
+    {
+      "name": "[GREEN]leaf_4",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -222.77,
+      "y": -435.48
+    },
+    {
+      "name": "[PINK]Lotus_11",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -253.98,
+      "y": -453.74
+    },
+    {
+      "name": "[PINK]Lotus_12",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -385.12,
+      "y": -651.89
+    },
+    {
+      "name": "[GREEN]Leaf_11",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -197.49,
+      "y": -623.77
+    },
+    {
+      "name": "[GREEN]Leaf_12",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -278.89,
+      "y": -693.53
+    },
+    {
+      "name": "[PINK]Lotus_13",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -83.05,
+      "y": -688.03
+    },
+    {
+      "name": "[PINK]Lotus_14",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 51.39,
+      "y": -786.75
+    },
+    {
+      "name": "[GREEN]Leaf_13",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 127.54,
+      "y": -829.99
+    },
+    {
+      "name": "[GREEN]Leaf_14",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 227.2,
+      "y": -759.02
+    },
+    {
+      "name": "[GREEN]Leaf_15",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 280.96,
+      "y": -684.78
+    },
+    {
+      "name": "[PINK]Lotus_15",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 412.9,
+      "y": -751.83
+    },
+    {
+      "name": "[PINK]Lotus_16",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 216.9,
+      "y": -496.54
+    },
+    {
+      "name": "[GREEN]leaf_5",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 234.98,
+      "y": -430.16
+    },
+    {
+      "name": "[PINK]Lotus_17",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 290.96,
+      "y": -432.55
+    },
+    {
+      "name": "[GREEN]Leaf_16",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 349.63,
+      "y": -738.14
+    },
+    {
+      "name": "[GREEN]Leaf_17",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 10.94,
+      "y": -820.12
+    },
+    {
+      "name": "[PINK]Lotus_18",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 376.19,
+      "y": -294.2
+    },
+    {
+      "name": "[GREEN]leaf_6",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 293.81,
+      "y": -460.22
+    },
+    {
+      "name": "[BLUE]curtains_right_5",
+      "parent": "[RED]main_bg_mobile_fs",
+      "length": 102.69,
+      "rotation": -82.41,
+      "x": 437.44,
+      "y": 1001.17
+    },
+    {
+      "name": "[BLUE]curtains_right_6",
+      "parent": "[BLUE]curtains_right_5",
+      "length": 146.04,
+      "rotation": -0.03,
+      "x": 102.69
+    },
+    {
+      "name": "[BLUE]curtains_right_7",
+      "parent": "[BLUE]curtains_right_6",
+      "length": 142.06,
+      "rotation": 1.6,
+      "x": 146.04
+    },
+    {
+      "name": "[BLUE]curtains_right_8",
+      "parent": "[BLUE]curtains_right_7",
+      "length": 170.9,
+      "rotation": 4.23,
+      "x": 142.06
+    },
+    {
+      "name": "[BLUE]curtains_left_5",
+      "parent": "[RED]main_bg_mobile_fs",
+      "length": 85.21,
+      "rotation": -98.68,
+      "x": -502.46,
+      "y": 1000.89
+    },
+    {
+      "name": "[BLUE]curtains_left_6",
+      "parent": "[BLUE]curtains_left_5",
+      "length": 82.87,
+      "rotation": 2,
+      "x": 85.21
+    },
+    {
+      "name": "[BLUE]curtains_left_7",
+      "parent": "[BLUE]curtains_left_6",
+      "length": 95.24,
+      "rotation": 2.55,
+      "x": 82.87
+    },
+    {
+      "name": "[BLUE]curtains_left_8",
+      "parent": "[BLUE]curtains_left_7",
+      "length": 99.2,
+      "rotation": -4.55,
+      "x": 95.24
+    },
+    {
+      "name": "water lines_5",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -209.27,
+      "y": -465.26
+    },
+    {
+      "name": "water lines_6",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 202.14,
+      "y": -765.65
+    },
+    {
+      "name": "water lines_7",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -252.94,
+      "y": -666.02
+    },
+    {
+      "name": "water lines_8",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 253.62,
+      "y": -447.72
+    },
+    {
+      "name": "water lines_1_2",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -209.27,
+      "y": -465.26
+    },
+    {
+      "name": "water lines_2_2",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 253.62,
+      "y": -447.72
+    },
+    {
+      "name": "water lines_3_2",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": -252.94,
+      "y": -666.02
+    },
+    {
+      "name": "water lines_4_2",
+      "parent": "[RED]main_bg_mobile_fs",
+      "x": 202.14,
+      "y": -765.65
+    }
+  ],
+  "slots": [
+    {
+      "name": "masl_mobile",
+      "bone": "root",
+      "attachment": "masl_mobile"
+    },
+    {
+      "name": "sky",
+      "bone": "root",
+      "attachment": "sky_mobile"
+    },
+    {
+      "name": "sky2",
+      "bone": "root",
+      "attachment": "sky_fs"
+    },
+    {
+      "name": "base",
+      "bone": "root",
+      "attachment": "base_mobile"
+    },
+    {
+      "name": "base2",
+      "bone": "root",
+      "attachment": "base_fs"
+    },
+    {
+      "name": "curtains_left",
+      "bone": "[BLUE]curtains_left_1",
+      "attachment": "curtains_left_mobile"
+    },
+    {
+      "name": "curtains_left2",
+      "bone": "[BLUE]curtains_left_5",
+      "attachment": "curtains_left_fs"
+    },
+    {
+      "name": "curtains_right",
+      "bone": "[BLUE]curtains_right_1",
+      "attachment": "curtains_right_mobile"
+    },
+    {
+      "name": "curtains_right2",
+      "bone": "[BLUE]curtains_right_5",
+      "attachment": "curtains_right_fs"
+    },
+    {
+      "name": "water lines_4",
+      "bone": "water lines_4",
+      "attachment": "water lines_4_mobile"
+    },
+    {
+      "name": "water lines_10",
+      "bone": "water lines_6",
+      "attachment": "water lines_4_fs"
+    },
+    {
+      "name": "water lines_8",
+      "bone": "water lines_4_1",
+      "attachment": "water lines_4_mobile"
+    },
+    {
+      "name": "water lines_16",
+      "bone": "water lines_4_2",
+      "attachment": "water lines_4_fs"
+    },
+    {
+      "name": "water lines_3",
+      "bone": "water lines_3",
+      "attachment": "water lines_3_mobile"
+    },
+    {
+      "name": "water lines_11",
+      "bone": "water lines_7",
+      "attachment": "water lines_3_fs"
+    },
+    {
+      "name": "water lines_7",
+      "bone": "water lines_3_1",
+      "attachment": "water lines_3_mobile"
+    },
+    {
+      "name": "water lines_15",
+      "bone": "water lines_3_2",
+      "attachment": "water lines_3_fs"
+    },
+    {
+      "name": "Leaf_8_shadow",
+      "bone": "[GREEN]Leaf_8",
+      "attachment": "Leaf_8_shadow_mobile"
+    },
+    {
+      "name": "Leaf_8_shadow2",
+      "bone": "[GREEN]Leaf_16",
+      "attachment": "Leaf_8_shadow_fs"
+    },
+    {
+      "name": "Leaf_6_shadow",
+      "bone": "[GREEN]Leaf_6",
+      "attachment": "Leaf_6_shadow_mobile"
+    },
+    {
+      "name": "Leaf_6_shadow2",
+      "bone": "[GREEN]Leaf_14",
+      "attachment": "Leaf_6_shadow_fs"
+    },
+    {
+      "name": "Leaf_7_shadow",
+      "bone": "[GREEN]Leaf_7",
+      "attachment": "Leaf_7_shadow_mobile"
+    },
+    {
+      "name": "Leaf_7_shadow2",
+      "bone": "[GREEN]Leaf_15",
+      "attachment": "Leaf_7_shadow_fs"
+    },
+    {
+      "name": "Leaf_5_shadow",
+      "bone": "[GREEN]Leaf_5",
+      "attachment": "Leaf_5_shadow_mobile"
+    },
+    {
+      "name": "Leaf_5_shadow2",
+      "bone": "[GREEN]Leaf_13",
+      "attachment": "Leaf_5_shadow_fs"
+    },
+    {
+      "name": "Leaf_4_shadow",
+      "bone": "[GREEN]Leaf_4",
+      "attachment": "Leaf_4_shadow_mobile"
+    },
+    {
+      "name": "Leaf_4_shadow2",
+      "bone": "[GREEN]Leaf_17",
+      "attachment": "Leaf_4_shadow_fs"
+    },
+    {
+      "name": "Leaf_10_shadow",
+      "bone": "[GREEN]Leaf_10",
+      "attachment": "Leaf_10_shadow_mobile"
+    },
+    {
+      "name": "Leaf_10_shadow2",
+      "bone": "[GREEN]Leaf_11",
+      "attachment": "Leaf_10_shadow_fs"
+    },
+    {
+      "name": "Leaf_9_shadow",
+      "bone": "[GREEN]Leaf_9",
+      "attachment": "Leaf_9_shadow_mobile"
+    },
+    {
+      "name": "Leaf_9_shadow2",
+      "bone": "[GREEN]Leaf_12",
+      "attachment": "Leaf_9_shadow_fs"
+    },
+    {
+      "name": "Lotus_6_shadow1",
+      "bone": "[PINK]Lotus_6",
+      "attachment": "Lotus_6_shadow1_mobile"
+    },
+    {
+      "name": "Lotus_6_shadow2",
+      "bone": "[PINK]Lotus_15",
+      "attachment": "Lotus_6_shadow1_fs"
+    },
+    {
+      "name": "Lotus_7_shadow1",
+      "bone": "[PINK]Lotus_7",
+      "attachment": "Lotus_7_shadow1_mobile"
+    },
+    {
+      "name": "Lotus_7_shadow2",
+      "bone": "[PINK]Lotus_14",
+      "attachment": "Lotus_7_shadow1_fs"
+    },
+    {
+      "name": "Lotus_8_shadow2",
+      "bone": "[PINK]Lotus_8",
+      "attachment": "Lotus_8_shadow2_mobile"
+    },
+    {
+      "name": "Lotus_8_shadow3",
+      "bone": "[PINK]Lotus_13",
+      "attachment": "Lotus_8_shadow2_fs"
+    },
+    {
+      "name": "Lotus_8_shadow1",
+      "bone": "[PINK]Lotus_8",
+      "attachment": "Lotus_8_shadow1_mobile"
+    },
+    {
+      "name": "Lotus_8_shadow4",
+      "bone": "[PINK]Lotus_13",
+      "attachment": "Lotus_8_shadow1_fs"
+    },
+    {
+      "name": "[GREEN]Leaf_10",
+      "bone": "[GREEN]Leaf_10",
+      "attachment": "Leaf_10_mobile"
+    },
+    {
+      "name": "[GREEN]Leaf_11",
+      "bone": "[GREEN]Leaf_11",
+      "attachment": "Leaf_10_fs"
+    },
+    {
+      "name": "[GREEN]Leaf_9",
+      "bone": "[GREEN]Leaf_9",
+      "attachment": "Leaf_9_mobile"
+    },
+    {
+      "name": "[GREEN]Leaf_12",
+      "bone": "[GREEN]Leaf_12",
+      "attachment": "Leaf_9_fs"
+    },
+    {
+      "name": "Lotus_9",
+      "bone": "[PINK]Lotus_9",
+      "attachment": "Lotus_9_mobile"
+    },
+    {
+      "name": "Lotus_10",
+      "bone": "[PINK]Lotus_12",
+      "attachment": "Lotus_9_fs"
+    },
+    {
+      "name": "[PINK]Lotus_8",
+      "bone": "[PINK]Lotus_8",
+      "attachment": "Lotus_8_mobile"
+    },
+    {
+      "name": "[PINK]Lotus_9",
+      "bone": "[PINK]Lotus_13",
+      "attachment": "Lotus_8_fs"
+    },
+    {
+      "name": "[GREEN]Leaf_8",
+      "bone": "[GREEN]Leaf_8",
+      "attachment": "Leaf_8_mobile"
+    },
+    {
+      "name": "[GREEN]Leaf_16",
+      "bone": "[GREEN]Leaf_16",
+      "attachment": "Leaf_8_fs"
+    },
+    {
+      "name": "[GREEN]Leaf_7",
+      "bone": "[GREEN]Leaf_7",
+      "attachment": "Leaf_7_mobile"
+    },
+    {
+      "name": "[GREEN]Leaf_15",
+      "bone": "[GREEN]Leaf_15",
+      "attachment": "Leaf_7_fs"
+    },
+    {
+      "name": "[GREEN]Leaf_6",
+      "bone": "[GREEN]Leaf_6",
+      "attachment": "Leaf_6_mobile"
+    },
+    {
+      "name": "[GREEN]Leaf_14",
+      "bone": "[GREEN]Leaf_14",
+      "attachment": "Leaf_6_mobile"
+    },
+    {
+      "name": "[GREEN]Leaf_5",
+      "bone": "[GREEN]Leaf_5",
+      "attachment": "Leaf_5_mobile"
+    },
+    {
+      "name": "[GREEN]Leaf_13",
+      "bone": "[GREEN]Leaf_13",
+      "attachment": "Leaf_5_fs"
+    },
+    {
+      "name": "[GREEN]Leaf_4",
+      "bone": "[GREEN]Leaf_4",
+      "attachment": "Leaf_4_mobile"
+    },
+    {
+      "name": "[GREEN]Leaf_17",
+      "bone": "[GREEN]Leaf_17",
+      "attachment": "Leaf_4_fs"
+    },
+    {
+      "name": "[PINK]Lotus_7",
+      "bone": "[PINK]Lotus_7",
+      "attachment": "Lotus_7_mobile"
+    },
+    {
+      "name": "[PINK]Lotus_10",
+      "bone": "[PINK]Lotus_14",
+      "attachment": "Lotus_7_fs"
+    },
+    {
+      "name": "Lotus_6",
+      "bone": "[PINK]Lotus_6",
+      "attachment": "Lotus_6_mobile"
+    },
+    {
+      "name": "Lotus_8",
+      "bone": "[PINK]Lotus_15",
+      "attachment": "Lotus_6_fs"
+    },
+    {
+      "name": "water lines_2",
+      "bone": "water lines_2",
+      "attachment": "water lines_2_mobile"
+    },
+    {
+      "name": "water lines_12",
+      "bone": "water lines_8",
+      "attachment": "water lines_2_fs"
+    },
+    {
+      "name": "water lines_6",
+      "bone": "water lines_2_1",
+      "attachment": "water lines_2_mobile"
+    },
+    {
+      "name": "water lines_14",
+      "bone": "water lines_2_2",
+      "attachment": "water lines_2_fs"
+    },
+    {
+      "name": "water lines_1",
+      "bone": "water lines_1",
+      "attachment": "water lines_1_mobile"
+    },
+    {
+      "name": "water lines_9",
+      "bone": "water lines_5",
+      "attachment": "water lines_1_fs"
+    },
+    {
+      "name": "water lines_5",
+      "bone": "water lines_1_1",
+      "attachment": "water lines_1_mobile"
+    },
+    {
+      "name": "water lines_13",
+      "bone": "water lines_1_2",
+      "attachment": "water lines_1_fs"
+    },
+    {
+      "name": "leaf_1_shadow",
+      "bone": "[GREEN]leaf_1",
+      "attachment": "leaf_1_shadow_mobile"
+    },
+    {
+      "name": "leaf_1_shadow2",
+      "bone": "[GREEN]leaf_4",
+      "attachment": "leaf_1_shadow_fs"
+    },
+    {
+      "name": "leaf_2_shadow",
+      "bone": "[GREEN]leaf_3",
+      "attachment": "leaf_2_shadow_mobile"
+    },
+    {
+      "name": "leaf_2_shadow2",
+      "bone": "[GREEN]leaf_6",
+      "attachment": "leaf_2_shadow_fs"
+    },
+    {
+      "name": "Lotus_3_shadow",
+      "bone": "[PINK]Lotus_3",
+      "attachment": "Lotus_3_shadow_mobile"
+    },
+    {
+      "name": "Lotus_3_shadow2",
+      "bone": "[PINK]Lotus_17",
+      "attachment": "Lotus_3_shadow_fs"
+    },
+    {
+      "name": "Lotus_5_shadow2",
+      "bone": "[PINK]Lotus_5",
+      "attachment": "Lotus_5_shadow2_mobile"
+    },
+    {
+      "name": "Lotus_5_shadow3",
+      "bone": "[PINK]Lotus_16",
+      "attachment": "Lotus_5_shadow2_fs"
+    },
+    {
+      "name": "Lotus_5_shadow1",
+      "bone": "[PINK]Lotus_5",
+      "attachment": "Lotus_5_shadow1_mobile"
+    },
+    {
+      "name": "Lotus_5_shadow4",
+      "bone": "[PINK]Lotus_16",
+      "attachment": "Lotus_5_shadow1_fs"
+    },
+    {
+      "name": "Lotus_4_shadow2",
+      "bone": "[PINK]Lotus_4",
+      "attachment": "Lotus_4_shadow2_mobile"
+    },
+    {
+      "name": "Lotus_4_shadow3",
+      "bone": "[PINK]Lotus_10",
+      "attachment": "Lotus_4_shadow2_fs"
+    },
+    {
+      "name": "Lotus_4_shadow1",
+      "bone": "[PINK]Lotus_4",
+      "attachment": "Lotus_4_shadow1_mobile"
+    },
+    {
+      "name": "Lotus_4_shadow4",
+      "bone": "[PINK]Lotus_10",
+      "attachment": "Lotus_4_shadow1_fs"
+    },
+    {
+      "name": "Lotus_2_shadow2",
+      "bone": "[PINK]Lotus_2",
+      "attachment": "Lotus_2_shadow2_mobile"
+    },
+    {
+      "name": "Lotus_2_shadow3",
+      "bone": "[PINK]Lotus_11",
+      "attachment": "Lotus_2_shadow2_fs"
+    },
+    {
+      "name": "Lotus_2_shadow1",
+      "bone": "[PINK]Lotus_2",
+      "attachment": "Lotus_2_shadow1_mobile"
+    },
+    {
+      "name": "Lotus_2_shadow4",
+      "bone": "[PINK]Lotus_11",
+      "attachment": "Lotus_2_shadow1_fs"
+    },
+    {
+      "name": "[GREEN]leaf_3",
+      "bone": "[GREEN]leaf_3",
+      "attachment": "leaf_3_mobile"
+    },
+    {
+      "name": "[GREEN]leaf_5",
+      "bone": "[GREEN]leaf_6",
+      "attachment": "leaf_3_fs"
+    },
+    {
+      "name": "[GREEN]leaf_2",
+      "bone": "[GREEN]leaf_2",
+      "attachment": "leaf_2_mobile"
+    },
+    {
+      "name": "[GREEN]leaf_4",
+      "bone": "[GREEN]leaf_5",
+      "attachment": "leaf_2_fs"
+    },
+    {
+      "name": "Lotus_5",
+      "bone": "[PINK]Lotus_5",
+      "attachment": "Lotus_5_mobile"
+    },
+    {
+      "name": "Lotus_11",
+      "bone": "[PINK]Lotus_16",
+      "attachment": "Lotus_5_fs"
+    },
+    {
+      "name": "Lotus_4",
+      "bone": "[PINK]Lotus_4",
+      "attachment": "Lotus_4_mobile"
+    },
+    {
+      "name": "Lotus_7",
+      "bone": "[PINK]Lotus_10",
+      "attachment": "Lotus_4_fs"
+    },
+    {
+      "name": "leaf_1",
+      "bone": "[GREEN]leaf_1",
+      "attachment": "leaf_1_mobile"
+    },
+    {
+      "name": "leaf_2",
+      "bone": "[GREEN]leaf_4",
+      "attachment": "leaf_1_fs"
+    },
+    {
+      "name": "[GREEN]Lotus_3",
+      "bone": "[PINK]Lotus_3",
+      "attachment": "Lotus_3_mobile"
+    },
+    {
+      "name": "[GREEN]Lotus_4",
+      "bone": "[PINK]Lotus_17",
+      "attachment": "Lotus_3_fs"
+    },
+    {
+      "name": "Lotus_2",
+      "bone": "[PINK]Lotus_2",
+      "attachment": "Lotus_2_mobile"
+    },
+    {
+      "name": "Lotus_3",
+      "bone": "[PINK]Lotus_11",
+      "attachment": "Lotus_2_fs"
+    },
+    {
+      "name": "Lotus_1",
+      "bone": "[PINK]Lotus_1",
+      "attachment": "Lotus_1_mobile"
+    },
+    {
+      "name": "Lotus_12",
+      "bone": "[PINK]Lotus_18"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "Lotus_12": {
+          "Lotus_1_mobile": {
+            "x": -4.19,
+            "y": 1.2,
+            "width": 38,
+            "height": 22
+          }
+        },
+        "[GREEN]Leaf_10": {
+          "Leaf_10_mobile": {
+            "x": -3.01,
+            "y": -27.23,
+            "width": 241,
+            "height": 98
+          }
+        },
+        "masl_mobile": {
+          "masl_mobile": {
+            "type": "clipping",
+            "end": "masl_mobile",
+            "vertexCount": 4,
+            "vertices": [
+              -539.76,
+              1000.09,
+              -544.65,
+              -1015.94,
+              533.99,
+              -1023.49,
+              540.11,
+              1000.24
+            ]
+          }
+        }
+      }
+    },
+    {
+      "name": "basic",
+      "attachments": {
+        "Leaf_4_shadow": {
+          "Leaf_4_shadow_mobile": {
+            "x": 10.56,
+            "y": -5.88,
+            "width": 131,
+            "height": 88
+          }
+        },
+        "Leaf_5_shadow": {
+          "Leaf_5_shadow_mobile": {
+            "x": 46.46,
+            "y": -17.51,
+            "width": 246,
+            "height": 97
+          }
+        },
+        "Leaf_6_shadow": {
+          "Leaf_6_shadow_mobile": {
+            "x": -2.7,
+            "y": -11.48,
+            "width": 147,
+            "height": 75
+          }
+        },
+        "Leaf_7_shadow": {
+          "Leaf_7_shadow_mobile": {
+            "x": 3.04,
+            "y": -20.72,
+            "width": 160,
+            "height": 51
+          }
+        },
+        "Leaf_8_shadow": {
+          "Leaf_8_shadow_mobile": {
+            "x": 15.87,
+            "y": -18.86,
+            "width": 183,
+            "height": 88
+          }
+        },
+        "Leaf_9_shadow": {
+          "Leaf_9_shadow_mobile": {
+            "x": -49.11,
+            "y": -10.47,
+            "width": 302,
+            "height": 94
+          }
+        },
+        "Leaf_10_shadow": {
+          "Leaf_10_shadow_mobile": {
+            "x": -1.51,
+            "y": -35.73,
+            "width": 266,
+            "height": 95
+          }
+        },
+        "Lotus_1": {
+          "Lotus_1_mobile": {
+            "x": -4.19,
+            "y": 1.2,
+            "width": 38,
+            "height": 22
+          }
+        },
+        "Lotus_2": {
+          "Lotus_2_mobile": {
+            "x": -8.52,
+            "y": 3.74,
+            "width": 73,
+            "height": 44
+          }
+        },
+        "Lotus_2_shadow1": {
+          "Lotus_2_shadow1_mobile": {
+            "x": -7.02,
+            "y": -21.26,
+            "width": 58,
+            "height": 32
+          }
+        },
+        "Lotus_2_shadow2": {
+          "Lotus_2_shadow2_mobile": {
+            "x": -5.02,
+            "y": -16.26,
+            "width": 52,
+            "height": 30
+          }
+        },
+        "Lotus_3_shadow": {
+          "Lotus_3_shadow_mobile": {
+            "x": -0.46,
+            "y": -13.45,
+            "width": 59,
+            "height": 20
+          }
+        },
+        "Lotus_4": {
+          "Lotus_4_mobile": {
+            "x": -4.4,
+            "y": -1.65,
+            "width": 83,
+            "height": 51
+          }
+        },
+        "Lotus_4_shadow1": {
+          "Lotus_4_shadow1_mobile": {
+            "x": 0.6,
+            "y": -27.15,
+            "width": 53,
+            "height": 32
+          }
+        },
+        "Lotus_4_shadow2": {
+          "Lotus_4_shadow2_mobile": {
+            "x": -5.9,
+            "y": -17.65,
+            "width": 66,
+            "height": 31
+          }
+        },
+        "Lotus_5": {
+          "Lotus_5_mobile": {
+            "x": -5.4,
+            "y": 2.04,
+            "width": 93,
+            "height": 57
+          }
+        },
+        "Lotus_5_shadow1": {
+          "Lotus_5_shadow1_mobile": {
+            "x": -5.4,
+            "y": -25.96,
+            "width": 81,
+            "height": 35
+          }
+        },
+        "Lotus_5_shadow2": {
+          "Lotus_5_shadow2_mobile": {
+            "x": 17.6,
+            "y": -6.96,
+            "width": 97,
+            "height": 49
+          }
+        },
+        "Lotus_6": {
+          "Lotus_6_mobile": {
+            "x": -7.9,
+            "y": -2.67,
+            "width": 144,
+            "height": 69
+          }
+        },
+        "Lotus_6_shadow1": {
+          "Lotus_6_shadow1_mobile": {
+            "x": 2.1,
+            "y": -38.67,
+            "width": 100,
+            "height": 55
+          }
+        },
+        "Lotus_7_shadow1": {
+          "Lotus_7_shadow1_mobile": {
+            "x": 10.11,
+            "y": -26.75,
+            "width": 73,
+            "height": 51
+          }
+        },
+        "Lotus_8_shadow1": {
+          "Lotus_8_shadow1_mobile": {
+            "x": -4.45,
+            "y": -18.97,
+            "width": 131,
+            "height": 100
+          }
+        },
+        "Lotus_8_shadow2": {
+          "Lotus_8_shadow2_mobile": {
+            "x": -0.45,
+            "y": -17.97,
+            "width": 89,
+            "height": 56
+          }
+        },
+        "Lotus_9": {
+          "Lotus_9_mobile": {
+            "x": 13.12,
+            "y": 4.39,
+            "width": 144,
+            "height": 71
+          }
+        },
+        "[GREEN]Leaf_4": {
+          "Leaf_4_mobile": {
+            "x": 1.06,
+            "y": -3.88,
+            "width": 104,
+            "height": 54
+          }
+        },
+        "[GREEN]Leaf_5": {
+          "Leaf_5_mobile": {
+            "x": 24.96,
+            "y": -6.51,
+            "width": 205,
+            "height": 79
+          }
+        },
+        "[GREEN]Leaf_6": {
+          "Leaf_6_mobile": {
+            "x": -13.2,
+            "y": -6.98,
+            "width": 160,
+            "height": 74
+          }
+        },
+        "[GREEN]Leaf_7": {
+          "Leaf_7_mobile": {
+            "x": -2.46,
+            "y": -7.72,
+            "width": 133,
+            "height": 55
+          }
+        },
+        "[GREEN]Leaf_8": {
+          "Leaf_8_mobile": {
+            "x": -6.63,
+            "y": -6.86,
+            "width": 144,
+            "height": 64
+          }
+        },
+        "[GREEN]Leaf_9": {
+          "Leaf_9_mobile": {
+            "x": -41.61,
+            "y": -7.97,
+            "width": 261,
+            "height": 67
+          }
+        },
+        "[GREEN]Lotus_3": {
+          "Lotus_3_mobile": {
+            "x": -0.46,
+            "y": 6.55,
+            "width": 73,
+            "height": 44
+          }
+        },
+        "[GREEN]leaf_2": {
+          "leaf_2_mobile": {
+            "x": 1.52,
+            "y": -5.84,
+            "width": 75,
+            "height": 34
+          }
+        },
+        "[GREEN]leaf_3": {
+          "leaf_3_mobile": {
+            "x": 0.69,
+            "y": -6.28,
+            "width": 99,
+            "height": 45
+          }
+        },
+        "[PINK]Lotus_7": {
+          "Lotus_7_mobile": {
+            "x": 1.11,
+            "y": 8.25,
+            "width": 125,
+            "height": 77
+          }
+        },
+        "[PINK]Lotus_8": {
+          "Lotus_8_mobile": {
+            "x": 6.05,
+            "y": 5.53,
+            "width": 144,
+            "height": 71
+          }
+        },
+        "base": {
+          "base_mobile": {
+            "x": -11,
+            "y": -4.5,
+            "width": 2050,
+            "height": 2041
+          }
+        },
+        "curtains_left": {
+          "curtains_left_mobile": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0,
+              0.99706,
+              0.01147,
+              0.85567,
+              0.33436,
+              0.64704,
+              0.56705,
+              0.27654,
+              0.67478,
+              0.24901,
+              0.69153,
+              0.41142,
+              0.81596,
+              0.25061,
+              0.8756,
+              0.14734,
+              0.87521,
+              0.14586,
+              0.98214,
+              0.07155,
+              1,
+              0,
+              0.99803,
+              0,
+              0.98786,
+              0.03891,
+              0.71239,
+              0.01311,
+              0.7107,
+              0.01301,
+              0.53995,
+              0.01577,
+              0.19826,
+              0.14624,
+              0.17321,
+              0.1464,
+              0.30903,
+              0.1914,
+              0.31613,
+              0.79273,
+              0.31604,
+              0.86301,
+              0.29862,
+              0.86755,
+              0.06279,
+              0.84577,
+              0.06179,
+              0.65031,
+              0.07593,
+              0.6257,
+              0.07568,
+              0.99765,
+              0
+            ],
+            "triangles": [
+              9,
+              10,
+              12,
+              10,
+              11,
+              12,
+              9,
+              12,
+              8,
+              13,
+              8,
+              12,
+              7,
+              8,
+              6,
+              6,
+              13,
+              5,
+              6,
+              8,
+              13,
+              5,
+              13,
+              4,
+              4,
+              13,
+              14,
+              4,
+              14,
+              15,
+              4,
+              15,
+              3,
+              15,
+              19,
+              3,
+              3,
+              20,
+              2,
+              3,
+              19,
+              20,
+              15,
+              18,
+              19,
+              15,
+              16,
+              18,
+              2,
+              21,
+              1,
+              2,
+              20,
+              21,
+              16,
+              17,
+              18,
+              21,
+              22,
+              1,
+              23,
+              24,
+              26,
+              26,
+              24,
+              25,
+              22,
+              23,
+              1,
+              1,
+              23,
+              26,
+              1,
+              26,
+              0
+            ],
+            "vertices": [
+              4,
+              25,
+              -172.28,
+              27.78,
+              0.99993,
+              26,
+              -256.36,
+              36.73,
+              6.0E-5,
+              27,
+              -337.26,
+              51.79,
+              0,
+              28,
+              -435.25,
+              17.29,
+              0,
+              4,
+              25,
+              -149.5,
+              29.22,
+              0.99994,
+              26,
+              -233.55,
+              37.38,
+              6.0E-5,
+              27,
+              -314.44,
+              51.42,
+              0,
+              28,
+              -412.47,
+              18.74,
+              0,
+              3,
+              26,
+              413.68,
+              15.56,
+              0,
+              27,
+              331.18,
+              0.82,
+              0.25744,
+              28,
+              235.13,
+              19.55,
+              0.74256,
+              3,
+              26,
+              888.63,
+              -72.88,
+              0,
+              27,
+              801.72,
+              -108.67,
+              0.29562,
+              28,
+              712.87,
+              -52.24,
+              0.70438,
+              3,
+              26,
+              1130.39,
+              -300.45,
+              0,
+              27,
+              1033.11,
+              -346.78,
+              0.30375,
+              28,
+              962.44,
+              -271.23,
+              0.69625,
+              3,
+              26,
+              1165.59,
+              -315.34,
+              0,
+              27,
+              1067.61,
+              -363.22,
+              0.30552,
+              28,
+              998.14,
+              -284.88,
+              0.69447,
+              3,
+              26,
+              1397.69,
+              -175.96,
+              0,
+              27,
+              1305.68,
+              -234.31,
+              0.31034,
+              28,
+              1225.22,
+              -137.47,
+              0.68966,
+              3,
+              26,
+              1527.98,
+              -271.77,
+              0,
+              27,
+              1431.59,
+              -335.82,
+              0.31102,
+              28,
+              1358.79,
+              -228.67,
+              0.68898,
+              3,
+              26,
+              1535.46,
+              -342.22,
+              0,
+              27,
+              1435.92,
+              -406.53,
+              0.31153,
+              28,
+              1368.72,
+              -298.81,
+              0.68847,
+              3,
+              26,
+              1746.18,
+              -318.55,
+              0,
+              27,
+              1647.49,
+              -392.26,
+              0.3131,
+              28,
+              1578.49,
+              -267.8,
+              0.6869,
+              3,
+              26,
+              1787.29,
+              -365.05,
+              0,
+              27,
+              1686.49,
+              -440.55,
+              0.31315,
+              28,
+              1621.2,
+              -312.84,
+              0.68685,
+              2,
+              27,
+              1686.12,
+              -489.79,
+              0.31316,
+              28,
+              1624.74,
+              -361.95,
+              0.68684,
+              3,
+              26,
+              1769.09,
+              -416.61,
+              0,
+              27,
+              1666.01,
+              -491.24,
+              0.31315,
+              28,
+              1604.81,
+              -364.99,
+              0.68685,
+              3,
+              26,
+              1223.45,
+              -453.67,
+              0,
+              27,
+              1119.26,
+              -503.99,
+              0.30656,
+              28,
+              1060.8,
+              -421.1,
+              0.69343,
+              3,
+              26,
+              1222.17,
+              -471.64,
+              0,
+              27,
+              1117.19,
+              -521.89,
+              0.30632,
+              28,
+              1060.15,
+              -439.11,
+              0.69368,
+              3,
+              26,
+              885.88,
+              -511.12,
+              0,
+              27,
+              779.47,
+              -546.35,
+              0.29903,
+              28,
+              725.44,
+              -490.31,
+              0.70096,
+              3,
+              26,
+              212.7,
+              -588.1,
+              0,
+              27,
+              103.53,
+              -593.3,
+              0.29602,
+              28,
+              55.36,
+              -590.77,
+              0.70398,
+              3,
+              26,
+              152.95,
+              -504.99,
+              0,
+              27,
+              47.54,
+              -507.61,
+              0.29609,
+              28,
+              -7.26,
+              -509.79,
+              0.70391,
+              3,
+              26,
+              420.43,
+              -473.53,
+              0,
+              27,
+              316.15,
+              -488.09,
+              0.29431,
+              28,
+              258.96,
+              -469.01,
+              0.70569,
+              3,
+              26,
+              430.82,
+              -441.23,
+              0,
+              27,
+              327.97,
+              -456.28,
+              0.29341,
+              28,
+              268.21,
+              -436.37,
+              0.70658,
+              3,
+              26,
+              382.63,
+              -31.55,
+              0,
+              27,
+              298.06,
+              -44.86,
+              0.25714,
+              28,
+              205.74,
+              -28.62,
+              0.74286,
+              4,
+              25,
+              427.29,
+              24.25,
+              0,
+              26,
+              342.72,
+              12.32,
+              0,
+              27,
+              260.14,
+              0.74,
+              0.20035,
+              28,
+              164.32,
+              13.83,
+              0.79964,
+              4,
+              25,
+              -35.48,
+              -43.25,
+              0.99998,
+              26,
+              -122.12,
+              -39.02,
+              2.0E-5,
+              27,
+              -206.52,
+              -29.86,
+              0,
+              28,
+              -298.44,
+              -53.72,
+              0,
+              4,
+              25,
+              -35.19,
+              -58.32,
+              0.99998,
+              26,
+              -122.36,
+              -54.09,
+              1.0E-5,
+              27,
+              -207.43,
+              -44.9,
+              0,
+              28,
+              -298.15,
+              -68.79,
+              0,
+              3,
+              25,
+              12.77,
+              -186.64,
+              1,
+              27,
+              -169.8,
+              -176.62,
+              0,
+              28,
+              -250.18,
+              -197.1,
+              0,
+              4,
+              25,
+              14.84,
+              -203.4,
+              1,
+              26,
+              -77.41,
+              -200.82,
+              0,
+              27,
+              -169.06,
+              -193.49,
+              0,
+              28,
+              -248.11,
+              -213.86,
+              0,
+              4,
+              25,
+              -172.03,
+              26.18,
+              0.99993,
+              26,
+              -256.17,
+              35.13,
+              6.0E-5,
+              27,
+              -337.14,
+              50.18,
+              0,
+              28,
+              -435,
+              15.7,
+              0
+            ],
+            "hull": 27
+          }
+        },
+        "curtains_right": {
+          "curtains_right_mobile": {
+            "type": "mesh",
+            "uvs": [
+              0.98575,
+              0.16225,
+              0.98851,
+              0.59136,
+              0.92445,
+              0.66308,
+              0.96142,
+              0.70095,
+              1,
+              0.98471,
+              1,
+              0.99029,
+              0.96455,
+              1,
+              0.9527,
+              1,
+              0.94055,
+              0.99678,
+              0.98152,
+              0.88336,
+              0.93791,
+              0.80704,
+              0.75716,
+              0.89362,
+              0.69248,
+              0.84945,
+              0.76231,
+              0.66478,
+              0.67267,
+              0.65315,
+              0.49979,
+              0.61686,
+              0.36386,
+              0.56201,
+              0.16776,
+              0.39079,
+              0,
+              0.01109,
+              0,
+              0,
+              0.00922,
+              0.00109
+            ],
+            "triangles": [
+              16,
+              17,
+              0,
+              16,
+              0,
+              1,
+              15,
+              16,
+              1,
+              14,
+              15,
+              1,
+              1,
+              13,
+              14,
+              2,
+              13,
+              1,
+              3,
+              13,
+              2,
+              10,
+              13,
+              3,
+              12,
+              13,
+              10,
+              3,
+              4,
+              9,
+              10,
+              3,
+              9,
+              11,
+              12,
+              10,
+              4,
+              8,
+              9,
+              8,
+              6,
+              7,
+              8,
+              4,
+              6,
+              5,
+              6,
+              4,
+              18,
+              19,
+              20,
+              0,
+              18,
+              20,
+              17,
+              18,
+              0
+            ],
+            "vertices": [
+              4,
+              21,
+              25.78,
+              608.62,
+              0.46696,
+              22,
+              -77.22,
+              608.58,
+              0.33952,
+              23,
+              -206.21,
+              614.57,
+              0.06578,
+              24,
+              -301.99,
+              638.58,
+              0.12774,
+              4,
+              21,
+              833.4,
+              503.26,
+              6.7E-4,
+              22,
+              730.45,
+              503.64,
+              0.0221,
+              23,
+              598.23,
+              487.15,
+              0.01078,
+              24,
+              490.86,
+              452.18,
+              0.96645,
+              3,
+              22,
+              858.36,
+              432.82,
+              0.00407,
+              23,
+              724.1,
+              412.8,
+              0.00114,
+              24,
+              610.91,
+              368.74,
+              0.99479,
+              3,
+              22,
+              933.68,
+              453.88,
+              6.8E-4,
+              23,
+              799.99,
+              431.75,
+              5.0E-5,
+              24,
+              687.98,
+              382.05,
+              0.99927,
+              1,
+              24,
+              1219.35,
+              288.56,
+              1,
+              1,
+              24,
+              1229.66,
+              286.11,
+              1,
+              1,
+              24,
+              1240.74,
+              253.11,
+              1,
+              1,
+              24,
+              1238.45,
+              243.51,
+              1,
+              1,
+              24,
+              1230.16,
+              235.09,
+              1,
+              1,
+              24,
+              1028.65,
+              318.14,
+              1,
+              1,
+              24,
+              879.32,
+              316.36,
+              1,
+              1,
+              24,
+              1004.31,
+              131.83,
+              1,
+              1,
+              24,
+              910.27,
+              98.82,
+              1,
+              3,
+              22,
+              843.78,
+              298.5,
+              0.00251,
+              23,
+              705.79,
+              278.94,
+              2.6E-4,
+              24,
+              582.77,
+              236.6,
+              0.99723,
+              3,
+              22,
+              812.06,
+              227.39,
+              0.00229,
+              23,
+              672.1,
+              208.74,
+              4.0E-5,
+              24,
+              544,
+              169.07,
+              0.99767,
+              2,
+              22,
+              724.83,
+              93.7,
+              8.0E-5,
+              24,
+              443.65,
+              44.93,
+              0.99992,
+              1,
+              24,
+              316.14,
+              -41.11,
+              1,
+              3,
+              22,
+              263.07,
+              -123.98,
+              0.02946,
+              23,
+              113.53,
+              -127.19,
+              0.81468,
+              24,
+              -37.83,
+              -124.74,
+              0.15586,
+              1,
+              21,
+              -367.12,
+              -167.39,
+              1,
+              1,
+              21,
+              -387.98,
+              -164.61,
+              1,
+              1,
+              21,
+              -384.92,
+              -157.26,
+              1
+            ],
+            "hull": 21
+          }
+        },
+        "leaf_1": {
+          "leaf_1_mobile": {
+            "x": -2.73,
+            "y": -8.02,
+            "width": 113,
+            "height": 51
+          }
+        },
+        "leaf_1_shadow": {
+          "leaf_1_shadow_mobile": {
+            "x": -18.23,
+            "y": -13.52,
+            "width": 198,
+            "height": 84
+          }
+        },
+        "leaf_2_shadow": {
+          "leaf_2_shadow_mobile": {
+            "x": -15.81,
+            "y": 1.72,
+            "width": 158,
+            "height": 85
+          }
+        },
+        "sky": {
+          "sky_mobile": {
+            "x": -40,
+            "y": 318.5,
+            "width": 1992,
+            "height": 1413
+          }
+        },
+        "water lines_1": {
+          "water lines_1_mobile": {
+            "x": -3.73,
+            "y": 12.26,
+            "width": 178,
+            "height": 78
+          }
+        },
+        "water lines_2": {
+          "water lines_2_mobile": {
+            "x": 8.88,
+            "y": -31.78,
+            "width": 213,
+            "height": 99
+          }
+        },
+        "water lines_3": {
+          "water lines_3_mobile": {
+            "x": -2.56,
+            "y": -17.48,
+            "width": 425,
+            "height": 135
+          }
+        },
+        "water lines_4": {
+          "water lines_4_mobile": {
+            "x": -11.14,
+            "y": -22.35,
+            "width": 538,
+            "height": 208
+          }
+        },
+        "water lines_5": {
+          "water lines_1_mobile": {
+            "x": -3.73,
+            "y": 12.26,
+            "width": 178,
+            "height": 78
+          }
+        },
+        "water lines_6": {
+          "water lines_2_mobile": {
+            "x": 8.88,
+            "y": -31.78,
+            "width": 213,
+            "height": 99
+          }
+        },
+        "water lines_7": {
+          "water lines_3_mobile": {
+            "x": -2.56,
+            "y": -17.48,
+            "width": 425,
+            "height": 135
+          }
+        },
+        "water lines_8": {
+          "water lines_4_mobile": {
+            "x": -11.14,
+            "y": -22.35,
+            "width": 538,
+            "height": 208
+          }
+        }
+      }
+    },
+    {
+      "name": "fs",
+      "attachments": {
+        "Leaf_4_shadow2": {
+          "Leaf_4_shadow_fs": {
+            "x": 10.56,
+            "y": -5.88,
+            "width": 131,
+            "height": 88
+          }
+        },
+        "Leaf_5_shadow2": {
+          "Leaf_5_shadow_fs": {
+            "x": 46.46,
+            "y": -17.51,
+            "width": 246,
+            "height": 97
+          }
+        },
+        "Leaf_6_shadow2": {
+          "Leaf_6_shadow_fs": {
+            "x": -2.7,
+            "y": -11.48,
+            "width": 147,
+            "height": 75
+          }
+        },
+        "Leaf_7_shadow2": {
+          "Leaf_7_shadow_fs": {
+            "x": 3.04,
+            "y": -20.72,
+            "width": 160,
+            "height": 51
+          }
+        },
+        "Leaf_8_shadow2": {
+          "Leaf_8_shadow_fs": {
+            "x": 15.87,
+            "y": -18.86,
+            "width": 183,
+            "height": 88
+          }
+        },
+        "Leaf_9_shadow2": {
+          "Leaf_9_shadow_fs": {
+            "x": -49.11,
+            "y": -10.47,
+            "width": 302,
+            "height": 94
+          }
+        },
+        "Leaf_10_shadow2": {
+          "Leaf_10_shadow_fs": {
+            "x": -1.51,
+            "y": -35.73,
+            "width": 266,
+            "height": 95
+          }
+        },
+        "Lotus_2_shadow3": {
+          "Lotus_2_shadow2_fs": {
+            "x": -5.02,
+            "y": -16.26,
+            "width": 52,
+            "height": 30
+          }
+        },
+        "Lotus_2_shadow4": {
+          "Lotus_2_shadow1_fs": {
+            "x": -7.02,
+            "y": -21.26,
+            "width": 58,
+            "height": 32
+          }
+        },
+        "Lotus_3": {
+          "Lotus_2_fs": {
+            "x": -8.52,
+            "y": 3.74,
+            "width": 73,
+            "height": 44
+          }
+        },
+        "Lotus_3_shadow2": {
+          "Lotus_3_shadow_fs": {
+            "x": -0.46,
+            "y": -13.45,
+            "width": 59,
+            "height": 20
+          }
+        },
+        "Lotus_4_shadow3": {
+          "Lotus_4_shadow2_fs": {
+            "x": -5.9,
+            "y": -17.65,
+            "width": 66,
+            "height": 31
+          }
+        },
+        "Lotus_4_shadow4": {
+          "Lotus_4_shadow1_fs": {
+            "x": 0.6,
+            "y": -27.15,
+            "width": 53,
+            "height": 32
+          }
+        },
+        "Lotus_5_shadow3": {
+          "Lotus_5_shadow2_fs": {
+            "x": 17.6,
+            "y": -6.96,
+            "width": 97,
+            "height": 49
+          }
+        },
+        "Lotus_5_shadow4": {
+          "Lotus_5_shadow1_fs": {
+            "x": -5.4,
+            "y": -25.96,
+            "width": 81,
+            "height": 35
+          }
+        },
+        "Lotus_6_shadow2": {
+          "Lotus_6_shadow1_fs": {
+            "x": 2.1,
+            "y": -38.67,
+            "width": 100,
+            "height": 55
+          }
+        },
+        "Lotus_7": {
+          "Lotus_4_fs": {
+            "x": -4.4,
+            "y": -1.65,
+            "width": 83,
+            "height": 51
+          }
+        },
+        "Lotus_7_shadow2": {
+          "Lotus_7_shadow1_fs": {
+            "x": 10.11,
+            "y": -26.75,
+            "width": 73,
+            "height": 51
+          }
+        },
+        "Lotus_8": {
+          "Lotus_6_fs": {
+            "x": -7.9,
+            "y": -2.67,
+            "width": 144,
+            "height": 69
+          }
+        },
+        "Lotus_8_shadow3": {
+          "Lotus_8_shadow2_fs": {
+            "x": -0.45,
+            "y": -17.97,
+            "width": 89,
+            "height": 56
+          }
+        },
+        "Lotus_8_shadow4": {
+          "Lotus_8_shadow1_fs": {
+            "x": -4.45,
+            "y": -18.97,
+            "width": 131,
+            "height": 100
+          }
+        },
+        "Lotus_10": {
+          "Lotus_9_fs": {
+            "x": 13.12,
+            "y": 4.39,
+            "width": 144,
+            "height": 71
+          }
+        },
+        "Lotus_11": {
+          "Lotus_5_fs": {
+            "x": -5.4,
+            "y": 2.04,
+            "width": 93,
+            "height": 57
+          }
+        },
+        "[GREEN]Leaf_11": {
+          "Leaf_10_fs": {
+            "x": -3.01,
+            "y": -27.23,
+            "width": 241,
+            "height": 98
+          }
+        },
+        "[GREEN]Leaf_12": {
+          "Leaf_9_fs": {
+            "x": -41.61,
+            "y": -7.97,
+            "width": 261,
+            "height": 67
+          }
+        },
+        "[GREEN]Leaf_13": {
+          "Leaf_5_fs": {
+            "x": 24.96,
+            "y": -6.51,
+            "width": 205,
+            "height": 79
+          }
+        },
+        "[GREEN]Leaf_14": {
+          "Leaf_6_mobile": {
+            "x": -13.2,
+            "y": -6.98,
+            "width": 160,
+            "height": 74
+          }
+        },
+        "[GREEN]Leaf_15": {
+          "Leaf_7_fs": {
+            "x": -2.46,
+            "y": -7.72,
+            "width": 133,
+            "height": 55
+          }
+        },
+        "[GREEN]Leaf_16": {
+          "Leaf_8_fs": {
+            "x": -6.63,
+            "y": -6.86,
+            "width": 144,
+            "height": 64
+          }
+        },
+        "[GREEN]Leaf_17": {
+          "Leaf_4_fs": {
+            "x": 1.06,
+            "y": -3.88,
+            "width": 104,
+            "height": 54
+          }
+        },
+        "[GREEN]Lotus_4": {
+          "Lotus_3_fs": {
+            "x": -0.46,
+            "y": 6.55,
+            "width": 73,
+            "height": 44
+          }
+        },
+        "[GREEN]leaf_4": {
+          "leaf_2_fs": {
+            "x": 1.52,
+            "y": -5.84,
+            "width": 75,
+            "height": 34
+          }
+        },
+        "[GREEN]leaf_5": {
+          "leaf_3_fs": {
+            "x": 0.69,
+            "y": -6.28,
+            "width": 99,
+            "height": 45
+          }
+        },
+        "[PINK]Lotus_9": {
+          "Lotus_8_fs": {
+            "x": 6.05,
+            "y": 5.53,
+            "width": 144,
+            "height": 71
+          }
+        },
+        "[PINK]Lotus_10": {
+          "Lotus_7_fs": {
+            "x": 1.11,
+            "y": 8.25,
+            "width": 125,
+            "height": 77
+          }
+        },
+        "base2": {
+          "base_fs": {
+            "x": -11,
+            "y": -4.5,
+            "width": 2236,
+            "height": 2227
+          }
+        },
+        "curtains_left2": {
+          "curtains_left_fs": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              0,
+              0.99706,
+              0.01147,
+              0.85567,
+              0.33436,
+              0.64704,
+              0.56705,
+              0.27654,
+              0.67478,
+              0.24901,
+              0.69153,
+              0.41142,
+              0.81596,
+              0.25061,
+              0.8756,
+              0.14734,
+              0.87521,
+              0.14586,
+              0.98214,
+              0.07155,
+              1,
+              0,
+              0.99803,
+              0,
+              0.98786,
+              0.03891,
+              0.71239,
+              0.01311,
+              0.7107,
+              0.01301,
+              0.53995,
+              0.01577,
+              0.19826,
+              0.14624,
+              0.17321,
+              0.1464,
+              0.30903,
+              0.1914,
+              0.31613,
+              0.79273,
+              0.31604,
+              0.86301,
+              0.29862,
+              0.86755,
+              0.06279,
+              0.84577,
+              0.06179,
+              0.65031,
+              0.07593,
+              0.6257,
+              0.07568,
+              0.99765,
+              0
+            ],
+            "triangles": [
+              9,
+              10,
+              12,
+              10,
+              11,
+              12,
+              9,
+              12,
+              8,
+              13,
+              8,
+              12,
+              7,
+              8,
+              6,
+              6,
+              13,
+              5,
+              6,
+              8,
+              13,
+              5,
+              13,
+              4,
+              4,
+              13,
+              14,
+              4,
+              14,
+              15,
+              4,
+              15,
+              3,
+              15,
+              19,
+              3,
+              3,
+              20,
+              2,
+              3,
+              19,
+              20,
+              15,
+              18,
+              19,
+              15,
+              16,
+              18,
+              2,
+              21,
+              1,
+              2,
+              20,
+              21,
+              16,
+              17,
+              18,
+              21,
+              22,
+              1,
+              23,
+              24,
+              26,
+              26,
+              24,
+              25,
+              22,
+              23,
+              1,
+              1,
+              23,
+              26,
+              1,
+              26,
+              0
+            ],
+            "vertices": [
+              4,
+              61,
+              -172.28,
+              27.78,
+              0.99993,
+              62,
+              -256.36,
+              36.73,
+              6.0E-5,
+              63,
+              -337.26,
+              51.79,
+              0,
+              64,
+              -435.25,
+              17.29,
+              0,
+              4,
+              61,
+              -149.5,
+              29.22,
+              0.99994,
+              62,
+              -233.55,
+              37.38,
+              6.0E-5,
+              63,
+              -314.44,
+              51.42,
+              0,
+              64,
+              -412.47,
+              18.74,
+              0,
+              3,
+              62,
+              413.68,
+              15.56,
+              0,
+              63,
+              331.18,
+              0.82,
+              0.25744,
+              64,
+              235.13,
+              19.55,
+              0.74256,
+              3,
+              62,
+              888.63,
+              -72.88,
+              0,
+              63,
+              801.72,
+              -108.67,
+              0.29562,
+              64,
+              712.87,
+              -52.24,
+              0.70438,
+              3,
+              62,
+              1130.39,
+              -300.45,
+              0,
+              63,
+              1033.11,
+              -346.78,
+              0.30375,
+              64,
+              962.44,
+              -271.23,
+              0.69625,
+              3,
+              62,
+              1165.59,
+              -315.34,
+              0,
+              63,
+              1067.61,
+              -363.22,
+              0.30552,
+              64,
+              998.14,
+              -284.88,
+              0.69447,
+              3,
+              62,
+              1397.69,
+              -175.96,
+              0,
+              63,
+              1305.68,
+              -234.31,
+              0.31034,
+              64,
+              1225.22,
+              -137.47,
+              0.68966,
+              3,
+              62,
+              1527.98,
+              -271.77,
+              0,
+              63,
+              1431.59,
+              -335.82,
+              0.31102,
+              64,
+              1358.79,
+              -228.67,
+              0.68898,
+              3,
+              62,
+              1535.46,
+              -342.22,
+              0,
+              63,
+              1435.92,
+              -406.53,
+              0.31153,
+              64,
+              1368.72,
+              -298.81,
+              0.68847,
+              3,
+              62,
+              1746.18,
+              -318.55,
+              0,
+              63,
+              1647.49,
+              -392.26,
+              0.3131,
+              64,
+              1578.49,
+              -267.8,
+              0.6869,
+              3,
+              62,
+              1787.29,
+              -365.05,
+              0,
+              63,
+              1686.49,
+              -440.55,
+              0.31315,
+              64,
+              1621.2,
+              -312.84,
+              0.68685,
+              2,
+              63,
+              1686.12,
+              -489.79,
+              0.31316,
+              64,
+              1624.74,
+              -361.95,
+              0.68684,
+              3,
+              62,
+              1769.09,
+              -416.61,
+              0,
+              63,
+              1666.01,
+              -491.24,
+              0.31315,
+              64,
+              1604.81,
+              -364.99,
+              0.68685,
+              3,
+              62,
+              1223.45,
+              -453.67,
+              0,
+              63,
+              1119.26,
+              -503.99,
+              0.30656,
+              64,
+              1060.8,
+              -421.1,
+              0.69343,
+              3,
+              62,
+              1222.17,
+              -471.64,
+              0,
+              63,
+              1117.19,
+              -521.89,
+              0.30632,
+              64,
+              1060.15,
+              -439.11,
+              0.69368,
+              3,
+              62,
+              885.88,
+              -511.12,
+              0,
+              63,
+              779.47,
+              -546.35,
+              0.29903,
+              64,
+              725.44,
+              -490.31,
+              0.70096,
+              3,
+              62,
+              212.7,
+              -588.1,
+              0,
+              63,
+              103.53,
+              -593.3,
+              0.29602,
+              64,
+              55.36,
+              -590.77,
+              0.70398,
+              3,
+              62,
+              152.95,
+              -504.99,
+              0,
+              63,
+              47.54,
+              -507.61,
+              0.29609,
+              64,
+              -7.26,
+              -509.79,
+              0.70391,
+              3,
+              62,
+              420.43,
+              -473.53,
+              0,
+              63,
+              316.15,
+              -488.09,
+              0.29431,
+              64,
+              258.96,
+              -469.01,
+              0.70569,
+              3,
+              62,
+              430.82,
+              -441.23,
+              0,
+              63,
+              327.97,
+              -456.28,
+              0.29341,
+              64,
+              268.21,
+              -436.37,
+              0.70658,
+              3,
+              62,
+              382.63,
+              -31.55,
+              0,
+              63,
+              298.06,
+              -44.86,
+              0.25714,
+              64,
+              205.74,
+              -28.62,
+              0.74286,
+              4,
+              61,
+              427.29,
+              24.25,
+              0,
+              62,
+              342.72,
+              12.32,
+              0,
+              63,
+              260.14,
+              0.74,
+              0.20035,
+              64,
+              164.32,
+              13.83,
+              0.79964,
+              4,
+              61,
+              -35.48,
+              -43.25,
+              0.99998,
+              62,
+              -122.12,
+              -39.02,
+              2.0E-5,
+              63,
+              -206.52,
+              -29.86,
+              0,
+              64,
+              -298.44,
+              -53.72,
+              0,
+              4,
+              61,
+              -35.19,
+              -58.32,
+              0.99998,
+              62,
+              -122.36,
+              -54.09,
+              1.0E-5,
+              63,
+              -207.43,
+              -44.9,
+              0,
+              64,
+              -298.15,
+              -68.79,
+              0,
+              3,
+              61,
+              12.77,
+              -186.64,
+              1,
+              63,
+              -169.8,
+              -176.62,
+              0,
+              64,
+              -250.18,
+              -197.1,
+              0,
+              4,
+              61,
+              14.84,
+              -203.4,
+              1,
+              62,
+              -77.41,
+              -200.82,
+              0,
+              63,
+              -169.06,
+              -193.49,
+              0,
+              64,
+              -248.11,
+              -213.86,
+              0,
+              4,
+              61,
+              -172.03,
+              26.18,
+              0.99993,
+              62,
+              -256.17,
+              35.13,
+              6.0E-5,
+              63,
+              -337.14,
+              50.18,
+              0,
+              64,
+              -435,
+              15.7,
+              0
+            ],
+            "hull": 27
+          }
+        },
+        "curtains_right2": {
+          "curtains_right_fs": {
+            "type": "mesh",
+            "uvs": [
+              0.98575,
+              0.16225,
+              0.98851,
+              0.59136,
+              0.92445,
+              0.66308,
+              0.96142,
+              0.70095,
+              1,
+              0.98471,
+              1,
+              0.99029,
+              0.96455,
+              1,
+              0.9527,
+              1,
+              0.94055,
+              0.99678,
+              0.98152,
+              0.88336,
+              0.93791,
+              0.80704,
+              0.75716,
+              0.89362,
+              0.69248,
+              0.84945,
+              0.76231,
+              0.66478,
+              0.67267,
+              0.65315,
+              0.49979,
+              0.61686,
+              0.36386,
+              0.56201,
+              0.16776,
+              0.39079,
+              0,
+              0.01109,
+              0,
+              0,
+              0.00922,
+              0.00109
+            ],
+            "triangles": [
+              16,
+              17,
+              0,
+              16,
+              0,
+              1,
+              15,
+              16,
+              1,
+              14,
+              15,
+              1,
+              1,
+              13,
+              14,
+              2,
+              13,
+              1,
+              3,
+              13,
+              2,
+              10,
+              13,
+              3,
+              12,
+              13,
+              10,
+              3,
+              4,
+              9,
+              10,
+              3,
+              9,
+              11,
+              12,
+              10,
+              4,
+              8,
+              9,
+              8,
+              6,
+              7,
+              8,
+              4,
+              6,
+              5,
+              6,
+              4,
+              18,
+              19,
+              20,
+              0,
+              18,
+              20,
+              17,
+              18,
+              0
+            ],
+            "vertices": [
+              4,
+              57,
+              25.78,
+              608.62,
+              0.46696,
+              58,
+              -77.22,
+              608.58,
+              0.33952,
+              59,
+              -206.21,
+              614.57,
+              0.06578,
+              60,
+              -301.99,
+              638.58,
+              0.12774,
+              4,
+              57,
+              833.4,
+              503.26,
+              6.7E-4,
+              58,
+              730.45,
+              503.64,
+              0.0221,
+              59,
+              598.23,
+              487.15,
+              0.01078,
+              60,
+              490.86,
+              452.18,
+              0.96645,
+              3,
+              58,
+              858.36,
+              432.82,
+              0.00407,
+              59,
+              724.1,
+              412.8,
+              0.00114,
+              60,
+              610.91,
+              368.74,
+              0.99479,
+              3,
+              58,
+              933.68,
+              453.88,
+              6.8E-4,
+              59,
+              799.99,
+              431.75,
+              5.0E-5,
+              60,
+              687.98,
+              382.05,
+              0.99927,
+              1,
+              60,
+              1219.35,
+              288.56,
+              1,
+              1,
+              60,
+              1229.66,
+              286.11,
+              1,
+              1,
+              60,
+              1240.74,
+              253.11,
+              1,
+              1,
+              60,
+              1238.45,
+              243.51,
+              1,
+              1,
+              60,
+              1230.16,
+              235.09,
+              1,
+              1,
+              60,
+              1028.65,
+              318.14,
+              1,
+              1,
+              60,
+              879.32,
+              316.36,
+              1,
+              1,
+              60,
+              1004.31,
+              131.83,
+              1,
+              1,
+              60,
+              910.27,
+              98.82,
+              1,
+              3,
+              58,
+              843.78,
+              298.5,
+              0.00251,
+              59,
+              705.79,
+              278.94,
+              2.6E-4,
+              60,
+              582.77,
+              236.6,
+              0.99723,
+              3,
+              58,
+              812.06,
+              227.39,
+              0.00229,
+              59,
+              672.1,
+              208.74,
+              4.0E-5,
+              60,
+              544,
+              169.07,
+              0.99767,
+              2,
+              58,
+              724.83,
+              93.7,
+              8.0E-5,
+              60,
+              443.65,
+              44.93,
+              0.99992,
+              1,
+              60,
+              316.14,
+              -41.11,
+              1,
+              3,
+              58,
+              263.07,
+              -123.98,
+              0.02946,
+              59,
+              113.53,
+              -127.19,
+              0.81468,
+              60,
+              -37.83,
+              -124.74,
+              0.15586,
+              1,
+              57,
+              -367.12,
+              -167.39,
+              1,
+              1,
+              57,
+              -387.98,
+              -164.61,
+              1,
+              1,
+              57,
+              -384.92,
+              -157.26,
+              1
+            ],
+            "hull": 21
+          }
+        },
+        "leaf_1_shadow2": {
+          "leaf_1_shadow_fs": {
+            "x": -18.23,
+            "y": -13.52,
+            "width": 198,
+            "height": 84
+          }
+        },
+        "leaf_2": {
+          "leaf_1_fs": {
+            "x": -2.73,
+            "y": -8.02,
+            "width": 113,
+            "height": 51
+          }
+        },
+        "leaf_2_shadow2": {
+          "leaf_2_shadow_fs": {
+            "x": -15.81,
+            "y": 1.72,
+            "width": 158,
+            "height": 85
+          }
+        },
+        "sky2": {
+          "sky_fs": {
+            "x": -40,
+            "y": 318.5,
+            "width": 2076,
+            "height": 1515
+          }
+        },
+        "water lines_9": {
+          "water lines_1_fs": {
+            "x": -3.73,
+            "y": 12.26,
+            "width": 178,
+            "height": 78
+          }
+        },
+        "water lines_10": {
+          "water lines_4_fs": {
+            "x": -11.14,
+            "y": -22.35,
+            "width": 538,
+            "height": 208
+          }
+        },
+        "water lines_11": {
+          "water lines_3_fs": {
+            "x": -2.56,
+            "y": -17.48,
+            "width": 425,
+            "height": 135
+          }
+        },
+        "water lines_12": {
+          "water lines_2_fs": {
+            "x": 8.88,
+            "y": -31.78,
+            "width": 213,
+            "height": 99
+          }
+        },
+        "water lines_13": {
+          "water lines_1_fs": {
+            "x": -3.73,
+            "y": 12.26,
+            "width": 178,
+            "height": 78
+          }
+        },
+        "water lines_14": {
+          "water lines_2_fs": {
+            "x": 8.88,
+            "y": -31.78,
+            "width": 213,
+            "height": 99
+          }
+        },
+        "water lines_15": {
+          "water lines_3_fs": {
+            "x": -2.56,
+            "y": -17.48,
+            "width": 425,
+            "height": 135
+          }
+        },
+        "water lines_16": {
+          "water lines_4_fs": {
+            "x": -11.14,
+            "y": -22.35,
+            "width": 538,
+            "height": 208
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "slots": {
+        "base": {
+          "attachment": [
+            {
+              "name": "base_mobile"
+            }
+          ]
+        },
+        "base2": {
+          "attachment": [
+            {
+              "name": "base_fs"
+            }
+          ]
+        },
+        "sky": {
+          "attachment": [
+            {
+              "name": "sky_mobile"
+            }
+          ]
+        },
+        "sky2": {
+          "attachment": [
+            {
+              "name": "sky_fs"
+            }
+          ]
+        },
+        "water lines_1": {
+          "color": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 5,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "water lines_2": {
+          "color": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 5,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "water lines_3": {
+          "color": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 5,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "water lines_4": {
+          "color": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 5,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "water lines_5": {
+          "color": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 5,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "water lines_6": {
+          "color": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 5,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "water lines_7": {
+          "color": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 5,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "water lines_8": {
+          "color": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 5,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "water lines_9": {
+          "color": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 5,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "water lines_10": {
+          "color": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 5,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "water lines_11": {
+          "color": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 5,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "water lines_12": {
+          "color": [
+            {
+              "color": "ffffffff"
+            },
+            {
+              "time": 5,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "water lines_13": {
+          "color": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 5,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "water lines_14": {
+          "color": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 5,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "water lines_15": {
+          "color": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 5,
+              "color": "ffffffff"
+            }
+          ]
+        },
+        "water lines_16": {
+          "color": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 5,
+              "color": "ffffffff"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "[PINK]Lotus_9": {
+          "translate": [
+            {
+              "x": -5,
+              "curve": 0.382,
+              "c2": 0.56,
+              "c3": 0.738
+            },
+            {
+              "time": 0.9,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.4,
+              "x": -15.77,
+              "curve": 0.244,
+              "c3": 0.644,
+              "c4": 0.58
+            },
+            {
+              "time": 5,
+              "x": -5
+            }
+          ]
+        },
+        "[PINK]Lotus_8": {
+          "translate": [
+            {
+              "x": -3.43,
+              "curve": 0.381,
+              "c2": 0.59,
+              "c3": 0.728
+            },
+            {
+              "time": 0.7,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.2,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.66,
+              "c4": 0.64
+            },
+            {
+              "time": 5,
+              "x": -3.43
+            }
+          ]
+        },
+        "[PINK]Lotus_7": {
+          "translate": [
+            {
+              "x": -2.05,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 5,
+              "x": -2.05
+            }
+          ]
+        },
+        "[PINK]Lotus_6": {
+          "translate": [
+            {
+              "x": -11.56,
+              "curve": 0.349,
+              "c2": 0.39,
+              "c3": 0.757
+            },
+            {
+              "time": 1.7,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4.2,
+              "x": -15.77,
+              "curve": 0.266,
+              "c3": 0.618,
+              "c4": 0.42
+            },
+            {
+              "time": 5,
+              "x": -11.56
+            }
+          ]
+        },
+        "[PINK]Lotus_5": {
+          "translate": [
+            {
+              "x": -9.97,
+              "curve": 0.363,
+              "c2": 0.44,
+              "c3": 0.755
+            },
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4,
+              "x": -15.77,
+              "curve": 0.258,
+              "c3": 0.619,
+              "c4": 0.45
+            },
+            {
+              "time": 5,
+              "x": -9.97
+            }
+          ]
+        },
+        "[PINK]Lotus_4": {
+          "translate": [
+            {
+              "x": -8.3,
+              "curve": 0.373,
+              "c2": 0.49,
+              "c3": 0.751
+            },
+            {
+              "time": 1.3,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.8,
+              "x": -15.77,
+              "curve": 0.251,
+              "c3": 0.623,
+              "c4": 0.49
+            },
+            {
+              "time": 5,
+              "x": -8.3
+            }
+          ]
+        },
+        "[PINK]Lotus_3": {
+          "translate": [
+            {
+              "x": -6.63,
+              "curve": 0.38,
+              "c2": 0.53,
+              "c3": 0.746
+            },
+            {
+              "time": 1.1,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.6,
+              "x": -15.77,
+              "curve": 0.247,
+              "c3": 0.632,
+              "c4": 0.53
+            },
+            {
+              "time": 5,
+              "x": -6.63
+            }
+          ]
+        },
+        "[PINK]Lotus_2": {
+          "translate": [
+            {
+              "x": -5,
+              "curve": 0.382,
+              "c2": 0.56,
+              "c3": 0.738
+            },
+            {
+              "time": 0.9,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.4,
+              "x": -15.77,
+              "curve": 0.244,
+              "c3": 0.644,
+              "c4": 0.58
+            },
+            {
+              "time": 5,
+              "x": -5
+            }
+          ]
+        },
+        "[PINK]Lotus_1": {
+          "translate": [
+            {
+              "x": -3.43,
+              "curve": 0.381,
+              "c2": 0.59,
+              "c3": 0.728
+            },
+            {
+              "time": 0.7,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.2,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.66,
+              "c4": 0.64
+            },
+            {
+              "time": 5,
+              "x": -3.43
+            }
+          ]
+        },
+        "[GREEN]leaf_3": {
+          "translate": [
+            {
+              "x": -2.05,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 5,
+              "x": -2.05
+            }
+          ]
+        },
+        "[GREEN]leaf_2": {
+          "translate": [
+            {
+              "x": -12.34,
+              "curve": 0.34,
+              "c2": 0.36,
+              "c3": 0.757
+            },
+            {
+              "time": 1.8,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4.3,
+              "x": -15.77,
+              "curve": 0.272,
+              "c3": 0.619,
+              "c4": 0.41
+            },
+            {
+              "time": 5,
+              "x": -12.34
+            }
+          ]
+        },
+        "[GREEN]leaf_1": {
+          "translate": [
+            {
+              "x": -10.77,
+              "curve": 0.356,
+              "c2": 0.42,
+              "c3": 0.756
+            },
+            {
+              "time": 1.6,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4.1,
+              "x": -15.77,
+              "curve": 0.262,
+              "c3": 0.618,
+              "c4": 0.44
+            },
+            {
+              "time": 5,
+              "x": -10.77
+            }
+          ]
+        },
+        "[GREEN]Leaf_10": {
+          "translate": [
+            {
+              "x": -9.13,
+              "curve": 0.368,
+              "c2": 0.47,
+              "c3": 0.753
+            },
+            {
+              "time": 1.4,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.9,
+              "x": -15.77,
+              "curve": 0.254,
+              "c3": 0.62,
+              "c4": 0.47
+            },
+            {
+              "time": 5,
+              "x": -9.13
+            }
+          ]
+        },
+        "[GREEN]Leaf_9": {
+          "translate": [
+            {
+              "x": -7.47,
+              "curve": 0.377,
+              "c2": 0.51,
+              "c3": 0.749
+            },
+            {
+              "time": 1.2,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.7,
+              "x": -15.77,
+              "curve": 0.249,
+              "c3": 0.627,
+              "c4": 0.51
+            },
+            {
+              "time": 5,
+              "x": -7.47
+            }
+          ]
+        },
+        "[GREEN]Leaf_8": {
+          "translate": [
+            {
+              "x": -5.8,
+              "curve": 0.381,
+              "c2": 0.55,
+              "c3": 0.742
+            },
+            {
+              "time": 1,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.5,
+              "x": -15.77,
+              "curve": 0.245,
+              "c3": 0.637,
+              "c4": 0.56
+            },
+            {
+              "time": 5,
+              "x": -5.8
+            }
+          ]
+        },
+        "[GREEN]Leaf_7": {
+          "translate": [
+            {
+              "x": -4.21,
+              "curve": 0.382,
+              "c2": 0.58,
+              "c3": 0.734
+            },
+            {
+              "time": 0.8,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.3,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.651,
+              "c4": 0.61
+            },
+            {
+              "time": 5,
+              "x": -4.21
+            }
+          ]
+        },
+        "[GREEN]Leaf_6": {
+          "translate": [
+            {
+              "x": -2.74,
+              "curve": 0.379,
+              "c2": 0.6,
+              "c3": 0.723
+            },
+            {
+              "time": 0.6,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.1,
+              "x": -15.77,
+              "curve": 0.242,
+              "c3": 0.669,
+              "c4": 0.68
+            },
+            {
+              "time": 5,
+              "x": -2.74
+            }
+          ]
+        },
+        "[GREEN]Leaf_5": {
+          "translate": [
+            {
+              "x": -1.44,
+              "curve": 0.37,
+              "c2": 0.63,
+              "c3": 0.708
+            },
+            {
+              "time": 0.4,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 2.9,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.691,
+              "c4": 0.76
+            },
+            {
+              "time": 5,
+              "x": -1.44
+            }
+          ]
+        },
+        "[GREEN]Leaf_4": {
+          "translate": [
+            {
+              "x": -0.43,
+              "curve": 0.355,
+              "c2": 0.65,
+              "c3": 0.69
+            },
+            {
+              "time": 0.2,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 2.7,
+              "x": -15.77,
+              "curve": 0.246,
+              "c3": 0.718,
+              "c4": 0.86
+            },
+            {
+              "time": 5,
+              "x": -0.43
+            }
+          ]
+        },
+        "water lines_1": {
+          "scale": [
+            {},
+            {
+              "time": 5,
+              "x": 1.5,
+              "y": 1.5
+            }
+          ]
+        },
+        "water lines_1_1": {
+          "scale": [
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "time": 5
+            }
+          ]
+        },
+        "water lines_2": {
+          "scale": [
+            {},
+            {
+              "time": 5,
+              "x": 1.7,
+              "y": 1.7
+            }
+          ]
+        },
+        "water lines_2_1": {
+          "scale": [
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "time": 5
+            }
+          ]
+        },
+        "water lines_3": {
+          "scale": [
+            {},
+            {
+              "time": 5,
+              "x": 1.5,
+              "y": 1.5
+            }
+          ]
+        },
+        "water lines_3_1": {
+          "scale": [
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "time": 5
+            }
+          ]
+        },
+        "water lines_4": {
+          "scale": [
+            {},
+            {
+              "time": 5,
+              "x": 1.5,
+              "y": 1.5
+            }
+          ]
+        },
+        "water lines_4_1": {
+          "scale": [
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "time": 5
+            }
+          ]
+        },
+        "[BLUE]curtains_left_1": {
+          "rotate": [
+            {
+              "angle": -0.3,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "angle": -2.28,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 5,
+              "angle": -0.3
+            }
+          ]
+        },
+        "[BLUE]curtains_left_2": {
+          "rotate": [
+            {
+              "angle": -0.4,
+              "curve": 0.379,
+              "c2": 0.6,
+              "c3": 0.723
+            },
+            {
+              "time": 0.6,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.1,
+              "angle": -2.28,
+              "curve": 0.242,
+              "c3": 0.669,
+              "c4": 0.68
+            },
+            {
+              "time": 5,
+              "angle": -0.4
+            }
+          ]
+        },
+        "[BLUE]curtains_left_3": {
+          "rotate": [
+            {
+              "angle": -0.5,
+              "curve": 0.381,
+              "c2": 0.59,
+              "c3": 0.728
+            },
+            {
+              "time": 0.7,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.2,
+              "angle": -2.28,
+              "curve": 0.243,
+              "c3": 0.66,
+              "c4": 0.64
+            },
+            {
+              "time": 5,
+              "angle": -0.5
+            }
+          ]
+        },
+        "[BLUE]curtains_left_4": {
+          "rotate": [
+            {
+              "angle": -0.61,
+              "curve": 0.382,
+              "c2": 0.58,
+              "c3": 0.734
+            },
+            {
+              "time": 0.8,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.3,
+              "angle": -2.28,
+              "curve": 0.243,
+              "c3": 0.651,
+              "c4": 0.61
+            },
+            {
+              "time": 5,
+              "angle": -0.61
+            }
+          ]
+        },
+        "[BLUE]curtains_right_1": {
+          "rotate": [
+            {
+              "angle": 0.06,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "angle": 0.49,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 5,
+              "angle": 0.06
+            }
+          ]
+        },
+        "[BLUE]curtains_right_2": {
+          "rotate": [
+            {
+              "angle": 0.57,
+              "curve": 0.381,
+              "c2": 0.59,
+              "c3": 0.728
+            },
+            {
+              "time": 0.7,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.2,
+              "angle": 2.63,
+              "curve": 0.243,
+              "c3": 0.66,
+              "c4": 0.64
+            },
+            {
+              "time": 5,
+              "angle": 0.57
+            }
+          ]
+        },
+        "[BLUE]curtains_right_3": {
+          "rotate": [
+            {
+              "angle": 1.5,
+              "curve": 0.382,
+              "c2": 0.56,
+              "c3": 0.738
+            },
+            {
+              "time": 0.9,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.4,
+              "angle": 4.72,
+              "curve": 0.244,
+              "c3": 0.644,
+              "c4": 0.58
+            },
+            {
+              "time": 5,
+              "angle": 1.5
+            }
+          ]
+        },
+        "[BLUE]curtains_right_4": {
+          "rotate": [
+            {
+              "angle": 3.11,
+              "curve": 0.38,
+              "c2": 0.53,
+              "c3": 0.746
+            },
+            {
+              "time": 1.1,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.6,
+              "angle": 7.39,
+              "curve": 0.247,
+              "c3": 0.632,
+              "c4": 0.53
+            },
+            {
+              "time": 5,
+              "angle": 3.11
+            }
+          ]
+        },
+        "[PINK]Lotus_10": {
+          "translate": [
+            {
+              "x": -8.3,
+              "curve": 0.373,
+              "c2": 0.49,
+              "c3": 0.751
+            },
+            {
+              "time": 1.3,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.8,
+              "x": -15.77,
+              "curve": 0.251,
+              "c3": 0.623,
+              "c4": 0.49
+            },
+            {
+              "time": 5,
+              "x": -8.3
+            }
+          ]
+        },
+        "[GREEN]leaf_4": {
+          "translate": [
+            {
+              "x": -10.77,
+              "curve": 0.356,
+              "c2": 0.42,
+              "c3": 0.756
+            },
+            {
+              "time": 1.6,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4.1,
+              "x": -15.77,
+              "curve": 0.262,
+              "c3": 0.618,
+              "c4": 0.44
+            },
+            {
+              "time": 5,
+              "x": -10.77
+            }
+          ]
+        },
+        "[PINK]Lotus_11": {
+          "translate": [
+            {
+              "x": -5,
+              "curve": 0.382,
+              "c2": 0.56,
+              "c3": 0.738
+            },
+            {
+              "time": 0.9,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.4,
+              "x": -15.77,
+              "curve": 0.244,
+              "c3": 0.644,
+              "c4": 0.58
+            },
+            {
+              "time": 5,
+              "x": -5
+            }
+          ]
+        },
+        "[PINK]Lotus_12": {
+          "translate": [
+            {
+              "x": -5,
+              "curve": 0.382,
+              "c2": 0.56,
+              "c3": 0.738
+            },
+            {
+              "time": 0.9,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.4,
+              "x": -15.77,
+              "curve": 0.244,
+              "c3": 0.644,
+              "c4": 0.58
+            },
+            {
+              "time": 5,
+              "x": -5
+            }
+          ]
+        },
+        "[GREEN]Leaf_11": {
+          "translate": [
+            {
+              "x": -9.13,
+              "curve": 0.368,
+              "c2": 0.47,
+              "c3": 0.753
+            },
+            {
+              "time": 1.4,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.9,
+              "x": -15.77,
+              "curve": 0.254,
+              "c3": 0.62,
+              "c4": 0.47
+            },
+            {
+              "time": 5,
+              "x": -9.13
+            }
+          ]
+        },
+        "[GREEN]Leaf_12": {
+          "translate": [
+            {
+              "x": -7.47,
+              "curve": 0.377,
+              "c2": 0.51,
+              "c3": 0.749
+            },
+            {
+              "time": 1.2,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.7,
+              "x": -15.77,
+              "curve": 0.249,
+              "c3": 0.627,
+              "c4": 0.51
+            },
+            {
+              "time": 5,
+              "x": -7.47
+            }
+          ]
+        },
+        "[PINK]Lotus_13": {
+          "translate": [
+            {
+              "x": -3.43,
+              "curve": 0.381,
+              "c2": 0.59,
+              "c3": 0.728
+            },
+            {
+              "time": 0.7,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.2,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.66,
+              "c4": 0.64
+            },
+            {
+              "time": 5,
+              "x": -3.43
+            }
+          ]
+        },
+        "[PINK]Lotus_14": {
+          "translate": [
+            {
+              "x": -2.05,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 5,
+              "x": -2.05
+            }
+          ]
+        },
+        "[GREEN]Leaf_13": {
+          "translate": [
+            {
+              "x": -1.44,
+              "curve": 0.37,
+              "c2": 0.63,
+              "c3": 0.708
+            },
+            {
+              "time": 0.4,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 2.9,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.691,
+              "c4": 0.76
+            },
+            {
+              "time": 5,
+              "x": -1.44
+            }
+          ]
+        },
+        "[GREEN]Leaf_14": {
+          "translate": [
+            {
+              "x": -2.74,
+              "curve": 0.379,
+              "c2": 0.6,
+              "c3": 0.723
+            },
+            {
+              "time": 0.6,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.1,
+              "x": -15.77,
+              "curve": 0.242,
+              "c3": 0.669,
+              "c4": 0.68
+            },
+            {
+              "time": 5,
+              "x": -2.74
+            }
+          ]
+        },
+        "[GREEN]Leaf_15": {
+          "translate": [
+            {
+              "x": -4.21,
+              "curve": 0.382,
+              "c2": 0.58,
+              "c3": 0.734
+            },
+            {
+              "time": 0.8,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.3,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.651,
+              "c4": 0.61
+            },
+            {
+              "time": 5,
+              "x": -4.21
+            }
+          ]
+        },
+        "[PINK]Lotus_15": {
+          "translate": [
+            {
+              "x": -11.56,
+              "curve": 0.349,
+              "c2": 0.39,
+              "c3": 0.757
+            },
+            {
+              "time": 1.7,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4.2,
+              "x": -15.77,
+              "curve": 0.266,
+              "c3": 0.618,
+              "c4": 0.42
+            },
+            {
+              "time": 5,
+              "x": -11.56
+            }
+          ]
+        },
+        "[PINK]Lotus_16": {
+          "translate": [
+            {
+              "x": -9.97,
+              "curve": 0.363,
+              "c2": 0.44,
+              "c3": 0.755
+            },
+            {
+              "time": 1.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4,
+              "x": -15.77,
+              "curve": 0.258,
+              "c3": 0.619,
+              "c4": 0.45
+            },
+            {
+              "time": 5,
+              "x": -9.97
+            }
+          ]
+        },
+        "[GREEN]leaf_5": {
+          "translate": [
+            {
+              "x": -12.34,
+              "curve": 0.34,
+              "c2": 0.36,
+              "c3": 0.757
+            },
+            {
+              "time": 1.8,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 4.3,
+              "x": -15.77,
+              "curve": 0.272,
+              "c3": 0.619,
+              "c4": 0.41
+            },
+            {
+              "time": 5,
+              "x": -12.34
+            }
+          ]
+        },
+        "[PINK]Lotus_17": {
+          "translate": [
+            {
+              "x": -6.63,
+              "curve": 0.38,
+              "c2": 0.53,
+              "c3": 0.746
+            },
+            {
+              "time": 1.1,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.6,
+              "x": -15.77,
+              "curve": 0.247,
+              "c3": 0.632,
+              "c4": 0.53
+            },
+            {
+              "time": 5,
+              "x": -6.63
+            }
+          ]
+        },
+        "[GREEN]Leaf_16": {
+          "translate": [
+            {
+              "x": -5.8,
+              "curve": 0.381,
+              "c2": 0.55,
+              "c3": 0.742
+            },
+            {
+              "time": 1,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.5,
+              "x": -15.77,
+              "curve": 0.245,
+              "c3": 0.637,
+              "c4": 0.56
+            },
+            {
+              "time": 5,
+              "x": -5.8
+            }
+          ]
+        },
+        "[GREEN]Leaf_17": {
+          "translate": [
+            {
+              "x": -0.43,
+              "curve": 0.355,
+              "c2": 0.65,
+              "c3": 0.69
+            },
+            {
+              "time": 0.2,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 2.7,
+              "x": -15.77,
+              "curve": 0.246,
+              "c3": 0.718,
+              "c4": 0.86
+            },
+            {
+              "time": 5,
+              "x": -0.43
+            }
+          ]
+        },
+        "[PINK]Lotus_18": {
+          "translate": [
+            {
+              "x": -3.43,
+              "curve": 0.381,
+              "c2": 0.59,
+              "c3": 0.728
+            },
+            {
+              "time": 0.7,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.2,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.66,
+              "c4": 0.64
+            },
+            {
+              "time": 5,
+              "x": -3.43
+            }
+          ]
+        },
+        "[GREEN]leaf_6": {
+          "translate": [
+            {
+              "x": -2.05,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "x": -15.77,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 5,
+              "x": -2.05
+            }
+          ]
+        },
+        "[BLUE]curtains_right_8": {
+          "rotate": [
+            {
+              "angle": 3.11,
+              "curve": 0.38,
+              "c2": 0.53,
+              "c3": 0.746
+            },
+            {
+              "time": 1.1,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.6,
+              "angle": 7.39,
+              "curve": 0.247,
+              "c3": 0.632,
+              "c4": 0.53
+            },
+            {
+              "time": 5,
+              "angle": 3.11
+            }
+          ]
+        },
+        "[BLUE]curtains_right_7": {
+          "rotate": [
+            {
+              "angle": 1.5,
+              "curve": 0.382,
+              "c2": 0.56,
+              "c3": 0.738
+            },
+            {
+              "time": 0.9,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.4,
+              "angle": 4.72,
+              "curve": 0.244,
+              "c3": 0.644,
+              "c4": 0.58
+            },
+            {
+              "time": 5,
+              "angle": 1.5
+            }
+          ]
+        },
+        "[BLUE]curtains_right_6": {
+          "rotate": [
+            {
+              "angle": 0.57,
+              "curve": 0.381,
+              "c2": 0.59,
+              "c3": 0.728
+            },
+            {
+              "time": 0.7,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.2,
+              "angle": 2.63,
+              "curve": 0.243,
+              "c3": 0.66,
+              "c4": 0.64
+            },
+            {
+              "time": 5,
+              "angle": 0.57
+            }
+          ]
+        },
+        "[BLUE]curtains_right_5": {
+          "rotate": [
+            {
+              "angle": 0.06,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "angle": 0.49,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 5,
+              "angle": 0.06
+            }
+          ]
+        },
+        "[BLUE]curtains_left_8": {
+          "rotate": [
+            {
+              "angle": -0.61,
+              "curve": 0.382,
+              "c2": 0.58,
+              "c3": 0.734
+            },
+            {
+              "time": 0.8,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.3,
+              "angle": -2.28,
+              "curve": 0.243,
+              "c3": 0.651,
+              "c4": 0.61
+            },
+            {
+              "time": 5,
+              "angle": -0.61
+            }
+          ]
+        },
+        "[BLUE]curtains_left_7": {
+          "rotate": [
+            {
+              "angle": -0.5,
+              "curve": 0.381,
+              "c2": 0.59,
+              "c3": 0.728
+            },
+            {
+              "time": 0.7,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.2,
+              "angle": -2.28,
+              "curve": 0.243,
+              "c3": 0.66,
+              "c4": 0.64
+            },
+            {
+              "time": 5,
+              "angle": -0.5
+            }
+          ]
+        },
+        "[BLUE]curtains_left_6": {
+          "rotate": [
+            {
+              "angle": -0.4,
+              "curve": 0.379,
+              "c2": 0.6,
+              "c3": 0.723
+            },
+            {
+              "time": 0.6,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3.1,
+              "angle": -2.28,
+              "curve": 0.242,
+              "c3": 0.669,
+              "c4": 0.68
+            },
+            {
+              "time": 5,
+              "angle": -0.4
+            }
+          ]
+        },
+        "[BLUE]curtains_left_5": {
+          "rotate": [
+            {
+              "angle": -0.3,
+              "curve": 0.375,
+              "c2": 0.62,
+              "c3": 0.716
+            },
+            {
+              "time": 0.5,
+              "curve": 0.25,
+              "c3": 0.75
+            },
+            {
+              "time": 3,
+              "angle": -2.28,
+              "curve": 0.243,
+              "c3": 0.68,
+              "c4": 0.71
+            },
+            {
+              "time": 5,
+              "angle": -0.3
+            }
+          ]
+        },
+        "water lines_5": {
+          "scale": [
+            {},
+            {
+              "time": 5,
+              "x": 1.5,
+              "y": 1.5
+            }
+          ]
+        },
+        "water lines_6": {
+          "scale": [
+            {},
+            {
+              "time": 5,
+              "x": 1.5,
+              "y": 1.5
+            }
+          ]
+        },
+        "water lines_7": {
+          "scale": [
+            {},
+            {
+              "time": 5,
+              "x": 1.5,
+              "y": 1.5
+            }
+          ]
+        },
+        "water lines_8": {
+          "scale": [
+            {},
+            {
+              "time": 5,
+              "x": 1.7,
+              "y": 1.7
+            }
+          ]
+        },
+        "water lines_1_2": {
+          "scale": [
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "time": 5
+            }
+          ]
+        },
+        "water lines_2_2": {
+          "scale": [
+            {
+              "x": 0.3,
+              "y": 0.3
+            },
+            {
+              "time": 5
+            }
+          ]
+        },
+        "water lines_3_2": {
+          "scale": [
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "time": 5
+            }
+          ]
+        },
+        "water lines_4_2": {
+          "scale": [
+            {
+              "x": 0.5,
+              "y": 0.5
+            },
+            {
+              "time": 5
+            }
+          ]
+        }
+      }
+    }
+  }
+}

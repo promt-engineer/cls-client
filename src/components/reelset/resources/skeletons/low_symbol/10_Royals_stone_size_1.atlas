@@ -1,0 +1,258 @@
+
+10_Royals_stone_size_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_base
+  rotate: true
+  xy: 799, 1484
+  size: 191, 218
+  orig: 193, 220
+  offset: 1, 1
+  index: -1
+1_base
+  rotate: true
+  xy: 2, 1727
+  size: 91, 211
+  orig: 93, 213
+  offset: 1, 1
+  index: -1
+A_base
+  rotate: true
+  xy: 1778, 1192
+  size: 244, 251
+  orig: 246, 253
+  offset: 1, 1
+  index: -1
+J_base
+  rotate: true
+  xy: 912, 1677
+  size: 141, 260
+  orig: 143, 262
+  offset: 1, 1
+  index: -1
+K_base
+  rotate: true
+  xy: 948, 1236
+  size: 226, 254
+  orig: 228, 256
+  offset: 1, 1
+  index: -1
+Q_base
+  rotate: true
+  xy: 400, 1296
+  size: 221, 296
+  orig: 223, 299
+  offset: 1, 2
+  index: -1
+gold_stroke_1_0
+  rotate: true
+  xy: 1019, 1464
+  size: 201, 228
+  orig: 203, 230
+  offset: 1, 1
+  index: -1
+gold_stroke_1_1
+  rotate: true
+  xy: 215, 1717
+  size: 101, 221
+  orig: 103, 223
+  offset: 1, 1
+  index: -1
+gold_stroke_1_A
+  rotate: true
+  xy: 918, 980
+  size: 254, 261
+  orig: 256, 263
+  offset: 1, 1
+  index: -1
+gold_stroke_1_J
+  rotate: true
+  xy: 1174, 1667
+  size: 151, 270
+  orig: 153, 272
+  offset: 1, 1
+  index: -1
+gold_stroke_1_K
+  rotate: true
+  xy: 1512, 1200
+  size: 236, 264
+  orig: 238, 266
+  offset: 1, 1
+  index: -1
+gold_stroke_1_Q
+  rotate: true
+  xy: 1204, 1221
+  size: 231, 306
+  orig: 233, 309
+  offset: 1, 2
+  index: -1
+gold_stroke_2_0
+  rotate: true
+  xy: 1647, 1438
+  size: 207, 234
+  orig: 209, 236
+  offset: 1, 1
+  index: -1
+gold_stroke_2_1
+  rotate: true
+  xy: 438, 1711
+  size: 107, 227
+  orig: 111, 230
+  offset: 2, 1
+  index: -1
+gold_stroke_2_A
+  rotate: true
+  xy: 2, 828
+  size: 260, 267
+  orig: 262, 270
+  offset: 1, 2
+  index: -1
+gold_stroke_2_J
+  rotate: true
+  xy: 1446, 1661
+  size: 157, 276
+  orig: 161, 280
+  offset: 2, 2
+  index: -1
+gold_stroke_2_K
+  rotate: true
+  xy: 316, 1052
+  size: 242, 270
+  orig: 245, 273
+  offset: 2, 1
+  index: -1
+gold_stroke_2_Q
+  rotate: true
+  xy: 2, 1090
+  size: 237, 312
+  orig: 241, 316
+  offset: 2, 2
+  index: -1
+size_1
+  rotate: false
+  xy: 1459, 2
+  size: 395, 625
+  orig: 400, 627
+  offset: 3, 1
+  index: -1
+size_2
+  rotate: true
+  xy: 417, 332
+  size: 395, 413
+  orig: 398, 416
+  offset: 1, 1
+  index: -1
+size_3
+  rotate: false
+  xy: 1355, 629
+  size: 396, 310
+  orig: 399, 312
+  offset: 1, 1
+  index: -1
+size_4
+  rotate: false
+  xy: 555, 729
+  size: 401, 249
+  orig: 403, 251
+  offset: 1, 1
+  index: -1
+size_5
+  rotate: false
+  xy: 1249, 1454
+  size: 396, 205
+  orig: 398, 207
+  offset: 1, 1
+  index: -1
+size_6
+  rotate: false
+  xy: 400, 1519
+  size: 397, 176
+  orig: 399, 178
+  offset: 1, 1
+  index: -1
+stone_1
+  rotate: true
+  xy: 832, 233
+  size: 394, 625
+  orig: 396, 627
+  offset: 1, 1
+  index: -1
+stone_2
+  rotate: true
+  xy: 2, 380
+  size: 394, 413
+  orig: 396, 415
+  offset: 1, 1
+  index: -1
+stone_3
+  rotate: false
+  xy: 958, 651
+  size: 395, 310
+  orig: 397, 312
+  offset: 1, 1
+  index: -1
+stone_4
+  rotate: false
+  xy: 1469, 941
+  size: 401, 249
+  orig: 403, 251
+  offset: 1, 1
+  index: -1
+stone_5
+  rotate: false
+  xy: 2, 1329
+  size: 396, 208
+  orig: 398, 210
+  offset: 1, 1
+  index: -1
+stone_6
+  rotate: false
+  xy: 2, 1539
+  size: 396, 176
+  orig: 398, 178
+  offset: 1, 1
+  index: -1
+stone_stroke
+  rotate: true
+  xy: 271, 776
+  size: 274, 282
+  orig: 277, 284
+  offset: 1, 1
+  index: -1
+stone_stroke_0
+  rotate: true
+  xy: 698, 1261
+  size: 221, 248
+  orig: 224, 251
+  offset: 1, 2
+  index: -1
+stone_stroke_1
+  rotate: true
+  xy: 667, 1697
+  size: 121, 243
+  orig: 124, 246
+  offset: 2, 1
+  index: -1
+stone_stroke_j
+  rotate: true
+  xy: 1724, 1647
+  size: 171, 292
+  orig: 175, 294
+  offset: 2, 1
+  index: -1
+stone_stroke_k
+  rotate: true
+  xy: 1181, 963
+  size: 256, 286
+  orig: 260, 288
+  offset: 2, 1
+  index: -1
+stone_stroke_q
+  rotate: true
+  xy: 588, 1008
+  size: 251, 328
+  orig: 255, 330
+  offset: 2, 1
+  index: -1

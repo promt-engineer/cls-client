@@ -1,0 +1,96 @@
+{
+  "randomPhrase": {
+    "fontSize": "40px",
+    "fontFamily": "ResagokrBold",
+    "fontWeight": "bold",
+    "fill": [
+      "#fc972e",
+      "#fff83b",
+      "#fefda5",
+      "#fffb46",
+      "#fda633",
+      "#fffb48",
+      "#ff6600"
+    ],
+    "fillGradientType": 0,
+    "fillGradientStops": [
+      1,
+      0.83,
+      0.69,
+      0.62,
+      0.5,
+      0.37,
+      0.11
+    ],
+    "stroke": "#ffffff",
+    "strokeThickness": 3,
+    "dropShadow": true,
+    "dropShadowAngle": 1.57079,
+    "dropShadowDistance": 6,
+    "dropShadowBlur": 4,
+    "dropShadowColor": "#350000",
+    "letterSpacing": 6,
+    "align": "center"
+  },
+  "dontShow": {
+    "fontSize": "30px",
+    "fontWeight": "bold",
+    "fontFamily": "Arial",
+    "fill": "#ffffff"
+  },
+  "continueButton": {
+    "fontSize": "0",
+    "fontFamily": "ResagokrBold",
+    "fontWeight": "bold",
+    "fill": [
+      "#fc972e",
+      "#fff83b",
+      "#fefda5",
+      "#fffb46",
+      "#fda633",
+      "#fffb48",
+      "#ff6600"
+    ],
+    "stroke": "#ffffff",
+    "strokeThickness": 6,
+    "dropShadow": true,
+    "dropShadowAngle": 1.57079,
+    "dropShadowDistance": 6,
+    "dropShadowBlur": 4,
+    "dropShadowColor": "#350000",
+    "letterSpacing": 6
+  },
+  "dontShowButton": {
+    "fontSize": "40px",
+    "fontFamily": "ResagokrBold",
+    "fontWeight": "bold",
+    "fill": [
+      "#fc972e",
+      "#fff83b",
+      "#fefda5",
+      "#fffb46",
+      "#fda633",
+      "#fffb48",
+      "#ff6600"
+    ],
+    "fillGradientType": 0,
+    "fillGradientStops": [
+      1,
+      0.83,
+      0.69,
+      0.62,
+      0.5,
+      0.37,
+      0.11
+    ],
+    "stroke": "#ffffff",
+    "strokeThickness": 3,
+    "dropShadow": true,
+    "dropShadowAngle": 1.57079,
+    "dropShadowDistance": 6,
+    "dropShadowBlur": 4,
+    "dropShadowColor": "#350000",
+    "letterSpacing": 6,
+    "align": "center"
+  }
+}

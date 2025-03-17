@@ -1,0 +1,20 @@
+/* The switch - the box around the slider */
+.switch {
+    /* Hide default HTML checkbox */
+    input {
+      &:checked + .slider {
+        background-image: url('../public/images/help-page/switch/slider_short_on_1.png');
+      }
+    }
+  
+    /* The slider */
+    .slider {
+      background-image: url('../public/images/help-page/switch/slider_short_off_1.png');
+
+      &:before {
+        content: "";
+        background-image: url('../public/images/help-page/switch/Round_button_1.png');
+      }
+    }
+}
+  

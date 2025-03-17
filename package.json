@@ -1,0 +1,64 @@
+{
+  "name": "cleos-riches-flexiways-client",
+  "version": "1.1.95",
+  "description": "Cleo's Riches FlexiWays",
+  "author": "EJAW",
+  "license": "UNLICENSED",
+  "scripts": {
+    "local": "webpack serve --config-name local",
+    "dev": "webpack --config-name dev",
+    "stage": "webpack --config-name stage",
+    "prod": "webpack --config-name prod --progress --stats verbose",
+    "format": "prettier ./src --write",
+    "test": "echo PSFP5",
+    "build:assets": "assetpack -c .assetpack.js",
+    "release": "git tag -a $npm_package_version -m \"\" && git push --follow-tags"
+  },
+  "prettier": {
+    "printWidth": 100,
+    "quoteProps": "consistent",
+    "singleQuote": true,
+    "tabWidth": 2,
+    "proseWrap": "always"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run format"
+    }
+  },
+  "config": {
+    "PORT": 8080
+  },
+  "dependencies": {
+    "@pixi/layers": "^2.1.0",
+    "core-js": "^3.35.0",
+    "gh-client-base": "bitbucket:play-workspace/gh-client-base#main",
+    "gsap": "^3.12.2",
+    "pixi-spine": "^4.0.4",
+    "pixi.js": "^7.2.4",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@assetpack/cli": "^0.8.0",
+    "@assetpack/core": "^0.8.0",
+    "@assetpack/plugin-compress": "^0.8.0",
+    "@assetpack/plugin-ffmpeg": "^0.8.0",
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2",
+    "@types/webpack-env": "^1.18.1",
+    "css-loader": "^7.1.2",
+    "ecl": "git+ssh://git@bitbucket.org/play-workspace/client-library-service.git",
+    "file-loader": "^6.2.0",
+    "husky": "^8.0.3",
+    "prettier": "3.0.3",
+    "raw-loader": "^4.0.2",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.80.4",
+    "sass-loader": "^16.0.2",
+    "style-loader": "^4.0.0",
+    "ts-loader": "^9.5.1",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}

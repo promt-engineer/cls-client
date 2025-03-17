@@ -1,0 +1,47 @@
+image: atlassian/default-image:3
+
+definitions:
+  steps:
+    - step: &init-env-variables
+        name: Init env variables
+        script:
+          # init env variables
+          - export SLOT_NAME="cleos-riches-flexiways"
+          - export TAG=$BITBUCKET_TAG
+          - export ENV=prod
+          - export CONTAINER_REGISTRY=rg.fr-par.scw.cloud/gamehub
+          - export IMAGE=$CONTAINER_REGISTRY/$SLOT_NAME-client:$TAG
+          # writing variables into build.env
+          - echo export SLOT_NAME=$SLOT_NAME >> build.env
+          - echo export TAG=$TAG >> build.env
+          - echo export ENV=$ENV >> build.env
+          - echo export CONTAINER_REGISTRY=$CONTAINER_REGISTRY >> build.env
+          - echo export IMAGE=$IMAGE >> build.env
+        artifacts:
+          - build.env
+    - step: &build-and-push
+        name: Build and push image
+        services:
+          - docker
+        script:
+          - source build.env
+          - docker login $CONTAINER_REGISTRY -u nologin -p $SCW_SECRET_TOKEN_GAMEHUB
+          - docker build --build-arg ENV=$ENV --build-arg SSH_KEY="`cat /opt/atlassian/pipelines/agent/data/id_rsa`" -t $IMAGE -f Dockerfile .
+          - docker push $IMAGE
+    - step: &build-and-push-prod
+        name: Build and push image to Scaleway registry
+        services:
+          - docker
+        script:
+          - export TAG=${BITBUCKET_TAG:-latest}
+          - export IMAGE=rg.fr-par.scw.cloud/18peaches-3/cleos-riches-flexiways-client:$TAG
+          - docker login rg.fr-par.scw.cloud/18peaches-3 -u nologin -p $SCW_SECRET_TOKEN_PROD
+          - docker build --build-arg ENV=prod --build-arg SSH_KEY="`cat /opt/atlassian/pipelines/agent/data/id_rsa`" -t $IMAGE -f Dockerfile .
+          - docker push $IMAGE
+
+pipelines:
+  tags:
+    '*.*.*':
+      - step: *init-env-variables
+      - step: *build-and-push
+      - step: *build-and-push-prod

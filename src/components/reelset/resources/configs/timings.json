@@ -1,0 +1,12 @@
+{
+  "regularSpin": {
+    "reelSpinDuration": 0.2,
+    "stopDelayBetweenReels": 0.35,
+    "stopSpinDown": 0.4,
+    "stopSpinUp": 0.2,
+    "horizontalStopSpinDown": 0.55,
+    "horizontalStopSpinUp": 0.2
+  },
+  "winAnimationDuration": 1.5,
+  "pauseBetweenWinAnimationsGroups": 1
+}

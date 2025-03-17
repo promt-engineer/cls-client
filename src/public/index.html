@@ -1,0 +1,696 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <meta name="google" content="notranslate">
+  <title></title>
+
+  <link rel="apple-touch-icon" sizes="180x180" href="src/public/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="src/public/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="src/public/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="src/public/images/favicon/site.webmanifest">
+  <meta name="apple-mobile-web-app-title" content="Cleo's Riches FlexiWays">
+  <meta name="application-name" content="Cleo's Riches FlexiWays">
+  <meta name="msapplication-TileColor" content="#2b5797">
+  <meta name="msapplication-TileImage" content="src/public/images/favicon/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <style>
+    html {
+      background-color: #000000;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    html,
+    body {
+      height: 100%;
+      max-height: 100%;
+      width: 100%;
+      max-width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      overflow: hidden;
+      padding: 0;
+      margin: 0;
+      position: relative;
+    }
+    .game-ui:not(.visible), .game-ui:not(.visible) * {
+      visibility: hidden !important;
+    }
+  </style>
+</head>
+<body>
+<canvas id="game-canvas" style="width: 0;"></canvas>
+<div class="start-screen-background"></div>
+<div class="start-screen">
+  <div class="start-screen-loading-bar">
+  </div>
+  <div class="start-screen-loading-bar-progress"></div>
+  <div class="start-screen-text-logo"></div>
+  <div class="start-screen-logo"></div>
+</div>
+
+<section class="game-ui">
+  <div class="shadow"></div>
+
+  <div class="game-indicator__section">
+    <div class="game-indicator balance">
+      <span class="amount">9.000.000</span>
+      <span class="title" data-value="balance"></span>
+    </div>
+    <div class="game-indicator win">
+      <span class="amount">9.000.000</span>
+      <span class="title" data-value="win"></span>
+    </div>
+    <div class="game-indicator fs-left">
+      <span class="amount">0</span>
+      <span class="title" data-value="fsLeft"></span>
+    </div>
+    <div class="game-indicator bet">
+      <span class="amount">99.999.99</span>
+      <span class="title" data-value="bet"></span>
+    </div>
+  </div>
+
+  <div class="buttons">
+    <div class="left-side">
+      <div class="column">
+        <button type="button" tabindex="-1" class="game-ui__btn sound sound--off"></button>
+        <button type="button" tabindex="-1" class="game-ui__btn fullscreen fullscreen--off"></button>
+      </div>
+      <button type="button" tabindex="-1" class="game-ui__btn menu"></button>
+    </div>
+    <div class="right-side">
+      <div class="bet-panel">
+        <div class="bet-wagers"></div>
+        <button type="button" tabindex="-1" class="bet-panel__minus"></button>
+        <span class="amount">100</span>
+        <button type="button" tabindex="-1" class="bet-panel__plus"></button>
+      </div>
+      <button type="button" tabindex="-1" class="game-ui__btn bet"></button>
+      <button type="button" tabindex="-1" class="game-ui__btn spin spin--off"></button>
+      <button type="button" tabindex="-1" class="game-ui__btn spin-number"><span class="amount"></span></button>
+      <div class="column">
+        <button type="button" tabindex="-1" class="game-ui__btn autospin autospin--off"></button>
+        <button type="button" tabindex="-1" class="game-ui__btn turbo turbo--off"></button>
+      </div>
+    </div>
+  </div>
+
+  <section class="help-page hidden">
+    <div class="buttons">
+      <button type="button" tabindex="-1" class="info" data-value="info"></button>
+      <button type="button" tabindex="-1" class="autoplay" data-value="autoplay"></button>
+      <button type="button" tabindex="-1" class="music" data-value="music"></button>
+      <button type="button" tabindex="-1" class="history" data-value="history"></button>
+    </div>
+    <div class="info help-page__section" data-active-page="paytable">
+      <div class="paytable">
+        <p class="title" data-value="paytable"></p>
+
+        <div class="symbols__container">
+          <div class="symbols">
+            <div class="symbol">
+              <img class="image" src="" alt="">
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <!-- <div class="symbol wild">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+              </div>
+            </div> -->
+            
+          </div>
+        </div>
+      </div>
+      <div class="paytable2">
+        <p class="title" data-value="paytable"></p>
+
+        <div class="symbols__container">
+          <div class="symbols">
+            <!-- <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div> -->
+            <div class="symbol wild">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+              </div>
+            </div>
+            <div class="symbol scatter">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fsRules section__description">
+        <div class="tc">
+          <p class="title" data-value="gameFeatures"></p>
+          <img src="src/public/images/help-page/buy-bonus-button.png" alt="buy bonus button" class="buy-bonus">
+          <p class="description" data-value="buyBonusDescription"></p>
+        </div>
+        <div class="tc">
+          <img src="src/public/images/help-page/double-chance-button.png" alt="double chance button" class="double-chance">
+          <p class="description" data-value="doubleChanceDescription"></p>
+        </div>
+      </div>
+      <div class="fsRules2 section__description">
+        <div class="tc">
+          <p class="title" data-value="cascadeFeature"></p>
+          <img src="src/public/images/help-page/cascade-1.png" alt="cascade1" class="cascade-1">
+          <img src="src/public/images/help-page/cascade-2.png" alt="cascade2" class="cascade-2">
+          <p class="description" data-value="cascadeFeatureDescription"></p>
+        </div>
+      </div>
+      <div class="gameFeatures section__description">
+        <div>
+          <p class="title" data-value="waysToWin"></p>
+          <div class="gameFeatures__image-wrapper">
+            <img src="src/public/images/help-page/ways-to-win-true.png" alt="ways to win 1">
+            <img src="src/public/images/help-page/ways-to-win-false.png" alt="ways to win 2">
+          </div>
+          <p class="description" data-value="waysToWinDescription"></p>
+          <p class="description" data-value="waysToWinDescription2"></p>
+          <p class="description" data-value="waysToWinDescription3"></p>
+        </div>
+      </div>
+      <div class="generalRules section__description">
+        <div>
+          <p class="title" data-value="freeSpinsRules"></p>
+          <p class="description" data-value="freeSpinsRulesDescription"></p>
+          <div class="section__scatters-table">
+            <div>
+              <span class="scatters-title"></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+            <div>
+              <span class="scatters-title"></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+            <div>
+              <span class="scatters-title"></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </div>
+          <p class="description" data-value="freeSpinsRulesBottomDescription"></p>
+        </div>
+      </div>
+      <div class="gameRules section__description">
+        <div>
+          <p class="title" data-value="gameRules"></p>
+          <p class="description" data-value="gameRulesDescription"></p>
+        </div>
+      </div>
+      <div class="howToPlay section__description">
+        <div>
+          <p class="title" data-value="howToPlay"></p>
+          <p class="description" data-value="howToPlayDescription"></p>
+        </div>
+      </div>
+      <div class="arrows">
+        <button type="button" tabindex="-1" class="arrow left"></button>
+        <span class="page"></span>
+        <button type="button" tabindex="-1" class="arrow right"></button>
+      </div>
+    </div>
+
+
+
+
+
+    <!-- <div class="info help-page__section" data-active-page="paytable2">
+      <div class="paytable2">
+        <p class="title" data-value="paytable"></p>
+
+        <div class="symbols__container">
+          <div class="symbols">
+            <div class="symbol">
+              <img class="image" src="" alt="">
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div class="symbol wild">
+              <img class="image" src="" alt="">
+
+              <div class="table">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="fsRules section__description">
+        <div>
+          <p class="title" data-value="buyBonus"></p>
+          <p class="description" data-value="buyBonusDescription"></p>
+        </div>
+        <div>
+          <p class="title" data-value="doubleChance"></p>
+          <p class="description" data-value="doubleChanceDescription"></p>
+        </div>
+        <div>
+          <p class="title" data-value="cascadeFeature"></p>
+          <p class="description" data-value="cascadeFeatureDescription"></p>
+        </div>
+      </div>
+      <div class="gameFeatures section__description">
+        <div>
+          <p class="title" data-value="waysToWin"></p>
+          <p class="description" data-value="waysToWinDescription"></p>
+          <div class="gameFeatures__image-wrapper">
+            <img src="src/public/images/help-page/ways-to-win-true.png" alt="ways to win 1">
+            <img src="src/public/images/help-page/ways-to-win-false.png" alt="ways to win 2">
+          </div>
+        </div>
+      </div>
+      <div class="generalRules section__description">
+        <div>
+          <p class="title" data-value="freeSpinsRules"></p>
+          <p class="description" data-value="freeSpinsRulesDescription"></p>
+          <div class="section__scatters-table">
+            <div>
+              <span class="scatters-title"></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+            <div>
+              <span class="scatters-title"></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+            <div>
+              <span class="scatters-title"></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+          </div>
+          <p class="description" data-value="freeSpinsRulesBottomDescription"></p>
+        </div>
+      </div>
+      <div class="gameRules section__description">
+        <div>
+          <p class="title" data-value="gameRules"></p>
+          <p class="description" data-value="gameRulesDescription"></p>
+        </div>
+      </div>
+      <div class="howToPlay section__description">
+        <div>
+          <p class="title" data-value="howToPlay"></p>
+          <p class="description" data-value="howToPlayDescription"></p>
+        </div>
+      </div>
+      <div class="arrows">
+        <button type="button" tabindex="-1" class="arrow left"></button>
+        <span class="page"></span>
+        <button type="button" tabindex="-1" class="arrow right"></button>
+      </div>
+    </div> -->
+
+
+
+
+
+
+
+    <div class="autoplay help-page__section">
+      <p class="title" data-value="autoplay"></p>
+      <div class="values">
+        <button type="button" tabindex="-1" data-value="10">10</button>
+        <button type="button" tabindex="-1" data-value="20">20</button>
+        <button type="button" tabindex="-1" data-value="50">50</button>
+        <button type="button" tabindex="-1" data-value="75">75</button>
+        <button type="button" tabindex="-1" data-value="100">100</button>
+      </div>
+      <p class="title" data-value="autoplayStop"></p>
+      <div class="switch__row">
+        <div class="switch__element">
+          <label class="switch">
+            <input type="checkbox" data-type="any-won">
+            <span class="slider"></span>
+          </label>
+          <span class="title" data-value="anyWin"></span>
+        </div>
+        <div class="switch__element">
+          <label class="switch">
+            <input type="checkbox" data-type="specific-mode-won">
+            <span class="slider"></span>
+          </label>
+          <span class="title" data-value="fsWon"></span>
+        </div>
+      </div>
+      <div class="ranges">
+        <div class="range__element first" data-type="if-win-exceed">
+          <span class="title" data-value="ifWinExceed"></span>
+          <div class="range">
+            <div class="overlay"></div>
+            <span class="slider"></span>
+          </div>
+          <span class="value"></span>
+        </div>
+
+        <div class="range__element second" data-type="if-balance-increase">
+          <span class="title" data-value="ifBalanceIncrease"></span>
+          <div class="range">
+            <div class="overlay"></div>
+            <span class="slider"></span>
+          </div>
+          <span class="value"></span>
+        </div>
+
+        <div class="range__element third" data-type="if-balance-decrease">
+          <span class="title" data-value="ifBalanceDecrease"></span>
+          <div class="range">
+            <div class="overlay"></div>
+            <span class="slider"></span>
+          </div>
+          <span class="value"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="music help-page__section">
+      <p class="title" data-value="settings"></p>
+
+      <div class="ranges">
+        <div class="range__element first" data-type="music-volume">
+          <span class="title" data-value="musicVolume"></span>
+          <div class="range">
+            <div class="overlay"></div>
+            <span class="slider"></span>
+          </div>
+        </div>
+
+        <div class="range__element second" data-type="sound-volume">
+          <span class="title" data-value="soundVolume"></span>
+          <div class="range">
+            <div class="overlay"></div>
+            <span class="slider"></span>
+          </div>
+        </div>
+      </div>
+
+      <div class="switch__row">
+        <div class="switch__element">
+          <label class="switch">
+            <input type="checkbox" data-type="mute">
+            <span class="slider"></span>
+          </label>
+          <span class="title" data-value="mute"></span>
+        </div>
+      </div>
+
+      <div class="switch__row onboarding-switcher">
+        <div class="switch__element">
+            <label class="switch">
+                <input type="checkbox" data-type="showOnboarding">
+                <span class="slider"></span>
+            </label>
+            <span class="title" data-value="showOnboarding"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="history help-page__section">
+      <p class="title title-history"></p>
+      <div class="history__loading"></div>
+      <div class="history__no-history"></div>
+      <div class="history__reels">
+          <div class="history__reels-column"></div>
+          <div class="history__reels-column"></div>
+          <div class="history__reels-column"></div>
+          <div class="history__reels-column"></div>
+          <div class="history__reels-column"></div>
+          <div class="history__reels-column"></div>
+          <div class="history__arrows-reels arrows">
+              <button type="button" tabindex="-1" class="history__arrow-left arrow left"></button>
+              <button type="button" tabindex="-1" class="history__arrow-right arrow right"></button>
+          </div>
+      </div>
+      <div class="history__free-spins"></div>
+      <div class="history__content">
+          <div class="history__info">
+              <div class="history__transaction">
+                  <div class="history__info-title"></div>
+                  <div class="history__info-content">
+                      <div class="history__info-item">
+                          <div class="history__info-left"></div>
+                          <div class="history__info-right"></div>
+                      </div>
+                      <div class="history__info-item">
+                          <div class="history__info-left"></div>
+                          <div class="history__info-right"></div>
+                      </div>
+                      <div class="history__info-item">
+                          <div class="history__info-left"></div>
+                          <div class="history__info-right"></div>
+                      </div>
+                      <div class="history__info-item">
+                          <div class="history__info-left"></div>
+                          <div class="history__info-right"></div>
+                      </div>
+                  </div>
+              </div>
+              <div class="history__game-data">
+                  <div class="history__info-title"></div>
+                  <div class="history__info-content">
+                      <div class="history__info-item">
+                          <div class="history__info-left"></div>
+                          <div class="history__info-right"></div>
+                      </div>
+                      <div class="history__info-item">
+                          <div class="history__info-left"></div>
+                          <div class="history__info-right"></div>
+                      </div>
+                      <div class="history__info-item">
+                          <div class="history__info-left"></div>
+                          <div class="history__info-right"></div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+      <div class="arrows">
+          <button type="button" tabindex="-1" class="arrow left"></button>
+          <span class="page"></span>
+          <button type="button" tabindex="-1" class="arrow right"></button>
+      </div>
+  </div>
+
+    <span class="close"></span>
+  </section>
+</section>
+</body>
+</html>

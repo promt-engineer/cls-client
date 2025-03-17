@@ -1,0 +1,272 @@
+
+WILD sun_animation_size_3_0910.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D
+  rotate: false
+  xy: 763, 196
+  size: 64, 73
+  orig: 66, 75
+  offset: 1, 1
+  index: -1
+I
+  rotate: false
+  xy: 597, 387
+  size: 25, 73
+  orig: 27, 75
+  offset: 1, 1
+  index: -1
+L
+  rotate: true
+  xy: 235, 2
+  size: 51, 73
+  orig: 53, 75
+  offset: 1, 1
+  index: -1
+W
+  rotate: true
+  xy: 86, 14
+  size: 92, 73
+  orig: 94, 75
+  offset: 1, 1
+  index: -1
+gold_stroke_1
+  rotate: false
+  xy: 589, 193
+  size: 172, 172
+  orig: 174, 174
+  offset: 1, 1
+  index: -1
+gold_stroke_2
+  rotate: false
+  xy: 238, 55
+  size: 178, 178
+  orig: 180, 180
+  offset: 1, 1
+  index: -1
+hand_1
+  rotate: false
+  xy: 627, 367
+  size: 198, 128
+  orig: 201, 130
+  offset: 1, 1
+  index: -1
+hand_10
+  rotate: false
+  xy: 210, 410
+  size: 184, 147
+  orig: 187, 150
+  offset: 1, 2
+  index: -1
+hand_11
+  rotate: true
+  xy: 753, 19
+  size: 172, 163
+  orig: 174, 165
+  offset: 1, 1
+  index: -1
+hand_12
+  rotate: true
+  xy: 396, 275
+  size: 139, 191
+  orig: 142, 194
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 633, 676
+  size: 226, 61
+  orig: 228, 64
+  offset: 1, 1
+  index: -1
+hand_3
+  rotate: false
+  xy: 633, 555
+  size: 225, 56
+  orig: 228, 59
+  offset: 1, 1
+  index: -1
+hand_4
+  rotate: false
+  xy: 211, 559
+  size: 184, 148
+  orig: 186, 150
+  offset: 1, 1
+  index: -1
+hand_5
+  rotate: true
+  xy: 588, 19
+  size: 172, 163
+  orig: 174, 165
+  offset: 1, 1
+  index: -1
+hand_6
+  rotate: false
+  xy: 876, 828
+  size: 139, 191
+  orig: 142, 193
+  offset: 2, 1
+  index: -1
+hand_7
+  rotate: false
+  xy: 396, 416
+  size: 199, 128
+  orig: 202, 130
+  offset: 2, 1
+  index: -1
+hand_8
+  rotate: false
+  xy: 633, 613
+  size: 226, 61
+  orig: 228, 64
+  offset: 1, 1
+  index: -1
+hand_9
+  rotate: false
+  xy: 633, 497
+  size: 225, 56
+  orig: 227, 59
+  offset: 1, 1
+  index: -1
+plate_1
+  rotate: false
+  xy: 2, 709
+  size: 395, 310
+  orig: 397, 312
+  offset: 1, 1
+  index: -1
+shine_1
+  rotate: false
+  xy: 399, 546
+  size: 232, 232
+  orig: 400, 312
+  offset: 85, 75
+  index: -1
+shine_2
+  rotate: false
+  xy: 399, 780
+  size: 239, 239
+  orig: 400, 316
+  offset: 82, 71
+  index: -1
+stone_stroke_D
+  rotate: false
+  xy: 161, 24
+  size: 72, 82
+  orig: 74, 84
+  offset: 1, 1
+  index: -1
+stone_stroke_I
+  rotate: false
+  xy: 597, 462
+  size: 28, 82
+  orig: 30, 84
+  offset: 1, 1
+  index: -1
+stone_stroke_L
+  rotate: false
+  xy: 184, 151
+  size: 52, 82
+  orig: 54, 84
+  offset: 1, 1
+  index: -1
+stone_stroke_W
+  rotate: true
+  xy: 2, 7
+  size: 99, 82
+  orig: 101, 84
+  offset: 1, 1
+  index: -1
+stone_stroke_hand_1
+  rotate: false
+  xy: 2, 431
+  size: 206, 137
+  orig: 211, 140
+  offset: 2, 2
+  index: -1
+stone_stroke_hand_10
+  rotate: false
+  xy: 827, 271
+  size: 192, 157
+  orig: 197, 160
+  offset: 2, 2
+  index: -1
+stone_stroke_hand_11
+  rotate: false
+  xy: 205, 235
+  size: 180, 173
+  orig: 184, 176
+  offset: 2, 2
+  index: -1
+stone_stroke_hand_12
+  rotate: true
+  xy: 2, 282
+  size: 147, 201
+  orig: 151, 205
+  offset: 2, 2
+  index: -1
+stone_stroke_hand_2
+  rotate: false
+  xy: 640, 948
+  size: 234, 71
+  orig: 238, 75
+  offset: 2, 2
+  index: -1
+stone_stroke_hand_3
+  rotate: false
+  xy: 640, 807
+  size: 233, 66
+  orig: 238, 70
+  offset: 2, 2
+  index: -1
+stone_stroke_hand_4
+  rotate: true
+  xy: 861, 430
+  size: 193, 157
+  orig: 197, 161
+  offset: 2, 2
+  index: -1
+stone_stroke_hand_5
+  rotate: false
+  xy: 2, 108
+  size: 180, 172
+  orig: 184, 176
+  offset: 2, 2
+  index: -1
+stone_stroke_hand_6
+  rotate: false
+  xy: 875, 625
+  size: 147, 201
+  orig: 151, 204
+  offset: 2, 2
+  index: -1
+stone_stroke_hand_7
+  rotate: false
+  xy: 2, 570
+  size: 207, 137
+  orig: 212, 140
+  offset: 3, 2
+  index: -1
+stone_stroke_hand_8
+  rotate: false
+  xy: 640, 875
+  size: 234, 71
+  orig: 238, 75
+  offset: 2, 2
+  index: -1
+stone_stroke_hand_9
+  rotate: false
+  xy: 640, 739
+  size: 233, 66
+  orig: 237, 70
+  offset: 2, 2
+  index: -1
+sun_base
+  rotate: false
+  xy: 418, 105
+  size: 168, 168
+  orig: 170, 170
+  offset: 1, 1
+  index: -1

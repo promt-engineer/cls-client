@@ -1,0 +1,11 @@
+{
+  "width": 190,
+  "height": 230,
+  "radius": 50,
+  "textPosition": {
+    "x": 5,
+    "y": 0
+  },
+  "textFill": "#fda633",
+  "typeSpin": true
+}

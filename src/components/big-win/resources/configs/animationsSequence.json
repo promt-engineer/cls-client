@@ -1,0 +1,26 @@
+{
+  "big_win": [
+    "big_in",
+    "big_loop",
+    "big_loop",
+    "big_out"
+  ],
+  "super_win": [
+    "big_in",
+    "big_loop",
+    "big_super",
+    "super_loop",
+    "super_loop",
+    "super_out"
+  ],
+  "mega_win": [
+    "big_in",
+    "big_loop",
+    "big_super",
+    "super_loop",
+    "super_in_mega",
+    "mega_loop",
+    "mega_loop",
+    "mega_out"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "designSize": {
+    "width": 2048,
+    "height": 1080
+  },
+  "mobile": {
+    "width": 1080
+  },
+  "initBackgroundHeight": 2003.5
+}

@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+dist/
+assets/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Others
+*.log
+*.log.*
+.DS_Store
+.history
+/src/components/network/resources/configs/sessionConfigLocal.json

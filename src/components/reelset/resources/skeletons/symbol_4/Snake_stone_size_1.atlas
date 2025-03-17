@@ -1,0 +1,272 @@
+
+Snake_stone_size_1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 79, 5
+  size: 14, 8
+  orig: 17, 10
+  offset: 2, 1
+  index: -1
+10
+  rotate: true
+  xy: 2, 2
+  size: 17, 32
+  orig: 19, 34
+  offset: 1, 1
+  index: -1
+11
+  rotate: false
+  xy: 389, 241
+  size: 201, 115
+  orig: 204, 117
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 1014, 350
+  size: 49, 49
+  orig: 51, 51
+  offset: 1, 1
+  index: -1
+13
+  rotate: false
+  xy: 967, 401
+  size: 71, 44
+  orig: 73, 46
+  offset: 1, 1
+  index: -1
+14
+  rotate: false
+  xy: 396, 4
+  size: 84, 28
+  orig: 86, 30
+  offset: 1, 1
+  index: -1
+15
+  rotate: false
+  xy: 689, 360
+  size: 84, 38
+  orig: 86, 40
+  offset: 1, 1
+  index: -1
+16
+  rotate: false
+  xy: 825, 365
+  size: 60, 33
+  orig: 62, 35
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 36, 4
+  size: 41, 15
+  orig: 43, 17
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 937, 366
+  size: 75, 32
+  orig: 77, 34
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 482, 5
+  size: 27, 23
+  orig: 29, 25
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 569, 14
+  size: 53, 18
+  orig: 56, 20
+  offset: 2, 1
+  index: -1
+6
+  rotate: false
+  xy: 89, 10
+  size: 19, 9
+  orig: 21, 11
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 775, 364
+  size: 48, 34
+  orig: 50, 36
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 1197, 5
+  size: 49, 43
+  orig: 51, 45
+  offset: 1, 1
+  index: -1
+9
+  rotate: true
+  xy: 887, 365
+  size: 33, 48
+  orig: 35, 50
+  offset: 1, 1
+  index: -1
+glow
+  rotate: false
+  xy: 2, 241
+  size: 385, 557
+  orig: 431, 601
+  offset: 23, 22
+  index: -1
+gold_1
+  rotate: false
+  xy: 2, 1424
+  size: 395, 622
+  orig: 398, 622
+  offset: 2, 0
+  index: -1
+gold_2
+  rotate: false
+  xy: 399, 1633
+  size: 395, 413
+  orig: 396, 414
+  offset: 0, 0
+  index: -1
+gold_3
+  rotate: true
+  xy: 967, 447
+  size: 396, 310
+  orig: 397, 310
+  offset: 0, 0
+  index: -1
+gold_4
+  rotate: false
+  xy: 794, 8
+  size: 401, 249
+  orig: 401, 249
+  offset: 0, 0
+  index: -1
+gold_5
+  rotate: false
+  xy: 396, 34
+  size: 396, 205
+  orig: 396, 205
+  offset: 0, 0
+  index: -1
+gold_6
+  rotate: false
+  xy: 398, 819
+  size: 397, 176
+  orig: 397, 176
+  offset: 0, 0
+  index: -1
+gold_stroke_1
+  rotate: false
+  xy: 689, 400
+  size: 276, 417
+  orig: 278, 419
+  offset: 1, 1
+  index: -1
+gold_stroke_2
+  rotate: false
+  xy: 398, 997
+  size: 284, 425
+  orig: 286, 427
+  offset: 1, 1
+  index: -1
+jaw
+  rotate: false
+  xy: 507, 8
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+size_1
+  rotate: false
+  xy: 2, 800
+  size: 394, 622
+  orig: 396, 624
+  offset: 1, 1
+  index: -1
+size_2
+  rotate: false
+  xy: 796, 1633
+  size: 394, 413
+  orig: 394, 413
+  offset: 0, 0
+  index: -1
+size_3
+  rotate: true
+  xy: 1197, 50
+  size: 395, 310
+  orig: 395, 310
+  offset: 0, 0
+  index: -1
+size_4
+  rotate: true
+  xy: 684, 1023
+  size: 401, 249
+  orig: 401, 249
+  offset: 0, 0
+  index: -1
+size_5
+  rotate: false
+  xy: 399, 1426
+  size: 396, 205
+  orig: 396, 205
+  offset: 0, 0
+  index: -1
+size_6
+  rotate: false
+  xy: 797, 845
+  size: 396, 176
+  orig: 396, 176
+  offset: 0, 0
+  index: -1
+snake_base
+  rotate: true
+  xy: 2, 21
+  size: 218, 392
+  orig: 218, 394
+  offset: 0, 2
+  index: -1
+snake_shadow_1
+  rotate: false
+  xy: 880, 1539
+  size: 242, 92
+  orig: 251, 95
+  offset: 4, 2
+  index: -1
+snake_shadow_2
+  rotate: true
+  xy: 797, 1460
+  size: 171, 81
+  orig: 179, 87
+  offset: 4, 5
+  index: -1
+stand
+  rotate: false
+  xy: 592, 259
+  size: 272, 97
+  orig: 274, 99
+  offset: 1, 1
+  index: -1
+stone_stroke
+  rotate: false
+  xy: 389, 358
+  size: 298, 440
+  orig: 301, 442
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 866, 267
+  size: 146, 96
+  orig: 146, 97
+  offset: 0, 0
+  index: -1

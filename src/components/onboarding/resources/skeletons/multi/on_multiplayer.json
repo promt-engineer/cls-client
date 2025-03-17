@@ -1,0 +1,272 @@
+{
+"skeleton": { "hash": "Wuaeuqa3wnYo/ZhUtiOyPdTXxrU", "spine": "3.8.99", "x": -591, "y": -248, "width": 1183, "height": 783 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "X6", "parent": "root", "y": 87.9 },
+	{ "name": "X7", "parent": "root", "y": 87.9 },
+	{ "name": "no_export", "parent": "root" }
+],
+"slots": [
+	{ "name": "bg", "bone": "no_export" },
+	{ "name": "Flexiways_counter_plate", "bone": "no_export", "attachment": "Flexiways_counter_plate" },
+	{ "name": "FLEXIWAYS", "bone": "no_export", "attachment": "FLEXIWAYS" },
+	{ "name": "1350", "bone": "no_export", "attachment": "1350" },
+	{ "name": "Multiplier_counter_plate", "bone": "root", "attachment": "Multiplier_counter_plate" },
+	{ "name": "5", "bone": "root", "attachment": "5" },
+	{ "name": "6", "bone": "root" },
+	{ "name": "X", "bone": "root", "attachment": "X" },
+	{ "name": "MULTIPLIER", "bone": "root", "attachment": "MULTIPLIER" },
+	{ "name": "reels", "bone": "no_export", "attachment": "reels" },
+	{ "name": "A_size_5", "bone": "root", "attachment": "g_j_5" },
+	{ "name": "Cat_size_5_new", "bone": "root" },
+	{ "name": "Royals_stone_size_5", "bone": "root", "attachment": "g_j_5" },
+	{ "name": "Royals_stone_size_7", "bone": "root", "attachment": "g_j_5" },
+	{ "name": "Cleo_size_5", "bone": "root", "attachment": "g_j_5" },
+	{ "name": "10_size_5", "bone": "root", "attachment": "g_j_5" },
+	{ "name": "10_size_6", "bone": "root", "attachment": "g_j_5" },
+	{ "name": "Eye_size_5_new", "bone": "root" },
+	{ "name": "Scatter_size_6_new", "bone": "root", "attachment": "g_eye_6" },
+	{ "name": "Hawk_size_6_new", "bone": "root", "attachment": "g_eye_6" },
+	{ "name": "A_size_6", "bone": "root", "attachment": "g_eye_6" },
+	{ "name": "J_size_6", "bone": "root", "attachment": "g_6" },
+	{ "name": "Snake_size_6_new", "bone": "root", "attachment": "g_6" },
+	{ "name": "Q_size_6", "bone": "root", "attachment": "g_6" },
+	{ "name": "Cleo_size_6", "bone": "root", "attachment": "g_6" },
+	{ "name": "Royals_stone_size_2", "bone": "root", "attachment": "g_2" },
+	{ "name": "Hawk_size_2_new", "bone": "root", "attachment": "g_2" },
+	{ "name": "Scatter_size_2_new", "bone": "root", "attachment": "g_2" },
+	{ "name": "Scatter_size_3_new", "bone": "root", "attachment": "Scatter_size_3_new" },
+	{ "name": "Fireball_WILD", "bone": "root", "attachment": "g_10_3" },
+	{ "name": "Cleo_size_3", "bone": "root", "attachment": "Scatter_size_3_new" },
+	{ "name": "K_size_3", "bone": "root", "attachment": "Scatter_size_3_new" },
+	{ "name": "J_size_3", "bone": "root", "attachment": "Scatter_size_3_new" },
+	{ "name": "Q_size_3", "bone": "root", "attachment": "g_10_3" },
+	{ "name": "Scatter_size_3_new1", "bone": "root", "attachment": "g_10_3" },
+	{ "name": "Snake_size_3_new", "bone": "root", "attachment": "g_3" },
+	{ "name": "Cleo_size_1", "bone": "root", "attachment": "g_10_1" },
+	{ "name": "Cleo_size_2", "bone": "root", "attachment": "g_10_1" },
+	{ "name": "Cat_size_1_new", "bone": "root" },
+	{ "name": "Royals_stone_size_4", "bone": "root", "attachment": "g_j_4" },
+	{ "name": "Royals_stone_size_6", "bone": "root", "attachment": "g_j_4" },
+	{ "name": "Eye_size_4_new", "bone": "root" },
+	{ "name": "10_size_4", "bone": "root", "attachment": "g_j_4" },
+	{ "name": "Scatter_size_4_new", "bone": "root", "attachment": "g_j_4" },
+	{ "name": "Hawk_size_4_new", "bone": "root", "attachment": "g_4" },
+	{ "name": "UNLIMITED WIN MULTIPLIER IN FREE SPINS", "bone": "no_export" },
+	{ "name": "continue_button_normal", "bone": "no_export" },
+	{ "name": "continue_normal/hover/disabled", "bone": "no_export" },
+	{ "name": "Cleo's Riches Flexiways_logo", "bone": "no_export" },
+	{ "name": "Dot_3_normal", "bone": "no_export" },
+	{ "name": "Dot_2_normal", "bone": "no_export" },
+	{ "name": "Dot_1_active", "bone": "no_export" },
+	{ "name": "X6", "bone": "X6", "attachment": "X6" },
+	{ "name": "X7", "bone": "X7", "attachment": "X6" },
+	{ "name": "root", "bone": "root", "attachment": "root" }
+],
+"path": [
+	{
+		"name": "root",
+		"bones": [ "X7" ],
+		"target": "root",
+		"rotateMix": 0
+	}
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"5": {
+				"5": { "x": -501, "y": 416.5, "width": 72, "height": 83 }
+			},
+			"6": {
+				"6": { "x": -499.5, "y": 416.5, "width": 73, "height": 83 }
+			},
+			"10_size_4": {
+				"g_j_4": { "x": -448, "y": 66.5, "scaleX": 0.9, "scaleY": 0.9, "width": 202, "height": 126 }
+			},
+			"10_size_5": {
+				"g_j_5": { "x": 268, "y": -71, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 104 }
+			},
+			"10_size_6": {
+				"g_j_5": { "x": 268, "y": -162.73, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 104 }
+			},
+			"1350": {
+				"1350": { "x": 478, "y": 418, "width": 170, "height": 84 }
+			},
+			"A_size_5": {
+				"g_j_5": { "x": 268, "y": 293.5, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 104 }
+			},
+			"A_size_6": {
+				"g_eye_6": { "x": 447.5, "y": 144.5, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 105 }
+			},
+			"Cleo_size_1": {
+				"g_10_1": { "x": -267.5, "y": -67.85, "scaleX": 0.9, "scaleY": 0.9, "width": 200, "height": 314 }
+			},
+			"Cleo_size_2": {
+				"g_10_1": { "x": -267.5, "y": 206.21, "scaleX": 0.9, "scaleY": 0.9, "width": 200, "height": 314 }
+			},
+			"Cleo_size_3": {
+				"Scatter_size_3_new": { "x": 89.5, "y": 427.5, "width": 175, "height": 137 }
+			},
+			"Cleo_size_5": {
+				"g_j_5": { "x": 268, "y": 20, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 104 }
+			},
+			"Cleo_size_6": {
+				"g_6": { "x": 447, "y": -167.5, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 88 }
+			},
+			"FLEXIWAYS": {
+				"FLEXIWAYS": { "x": 481.5, "y": 468.5, "width": 189, "height": 35 }
+			},
+			"Fireball_WILD": {
+				"g_10_3": { "x": -90, "y": 271, "scaleX": 0.9, "scaleY": 0.9, "width": 200, "height": 156 }
+			},
+			"Hawk_size_2_new": {
+				"g_2": { "x": 89.5, "y": 67, "scaleX": 0.9, "scaleY": 0.9, "width": 198, "height": 218 }
+			},
+			"Hawk_size_4_new": {
+				"g_4": { "x": -448, "y": -153, "scaleX": 0.9, "scaleY": 0.9, "width": 201, "height": 125 }
+			},
+			"Hawk_size_6_new": {
+				"g_eye_6": { "x": 447.5, "y": 222.5, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 105 }
+			},
+			"J_size_3": {
+				"Scatter_size_3_new": { "x": -90, "y": 427.5, "width": 175, "height": 137 }
+			},
+			"J_size_6": {
+				"g_6": { "x": 447.5, "y": 66.5, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 88 }
+			},
+			"K_size_3": {
+				"Scatter_size_3_new": { "x": 268, "y": 427.5, "width": 175, "height": 137 }
+			},
+			"MULTIPLIER": {
+				"MULTIPLIER": { "x": -477, "y": 465, "width": 186, "height": 42 }
+			},
+			"Multiplier_counter_plate": {
+				"Multiplier_counter_plate": { "x": -478, "y": 435.5, "width": 226, "height": 159 }
+			},
+			"Q_size_3": {
+				"g_10_3": { "x": -90, "y": 134, "scaleX": 0.9, "scaleY": 0.9, "width": 200, "height": 156 }
+			},
+			"Q_size_6": {
+				"g_6": { "x": 447.5, "y": -89.5, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 88 }
+			},
+			"Royals_stone_size_2": {
+				"g_2": { "x": 89.5, "y": 248.5, "scaleX": 0.9, "scaleY": 0.9, "width": 198, "height": 218 }
+			},
+			"Royals_stone_size_4": {
+				"g_j_4": { "x": -448, "y": 285.5, "scaleX": 0.9, "scaleY": 0.9, "width": 202, "height": 126 }
+			},
+			"Royals_stone_size_5": {
+				"g_j_5": { "x": 268, "y": 111, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 104 }
+			},
+			"Royals_stone_size_6": {
+				"g_j_4": { "x": -448, "y": 173.88, "scaleX": 0.9, "scaleY": 0.9, "width": 202, "height": 126 }
+			},
+			"Royals_stone_size_7": {
+				"g_j_5": { "x": 268, "y": 202.73, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 104 }
+			},
+			"Scatter_size_2_new": {
+				"g_2": { "x": 89.5, "y": -119.44, "scaleX": 0.9, "scaleY": 0.9, "width": 198, "height": 218 }
+			},
+			"Scatter_size_3_new": {
+				"Scatter_size_3_new": { "x": -268.5, "y": 427.5, "width": 175, "height": 137 }
+			},
+			"Scatter_size_3_new1": {
+				"g_10_3": { "x": -90, "y": -3, "scaleX": 0.9, "scaleY": 0.9, "width": 200, "height": 156 }
+			},
+			"Scatter_size_4_new": {
+				"g_j_4": { "x": -448, "y": -43, "scaleX": 0.9, "scaleY": 0.9, "width": 202, "height": 126 }
+			},
+			"Scatter_size_6_new": {
+				"g_eye_6": { "x": 447, "y": 300.5, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 105 }
+			},
+			"Snake_size_3_new": {
+				"g_3": { "x": -90, "y": -140, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 162 }
+			},
+			"Snake_size_6_new": {
+				"g_6": { "x": 447.5, "y": -11.5, "scaleX": 0.9, "scaleY": 0.9, "width": 199, "height": 88 }
+			},
+			"X": {
+				"X": { "x": -458.5, "y": 416.5, "width": 71, "height": 81 }
+			},
+			"X6": {
+				"X6": { "width": 230, "height": 132 }
+			},
+			"X7": {
+				"X6": { "y": 86.09, "width": 230, "height": 132 }
+			},
+			"reels": {
+				"reels": { "x": -0.5, "y": 143.5, "width": 1153, "height": 783 }
+			},
+			"root": {
+				"root": {
+					"type": "path",
+					"lengths": [ 644.78, 1310.33 ],
+					"vertexCount": 6,
+					"vertices": [ 147.91, 118.74, 0.09, 0.34, -75.07, -59.86, -298.91, 433.13, -475.88, 415.08, -664.3, 395.87 ]
+				}
+			},
+			"Flexiways_counter_plate": {
+				"Flexiways_counter_plate": { "x": 479.5, "y": 436, "width": 225, "height": 158 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"5": {
+				"attachment": [
+					{ "time": 3.3333, "name": null },
+					{ "time": 4.3333, "name": null }
+				]
+			},
+			"6": {
+				"attachment": [
+					{ "time": 3.3333, "name": "6" },
+					{ "time": 4.3333, "name": "6" }
+				]
+			},
+			"X6": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff00" },
+					{ "time": 1.8333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 2, "name": null }
+				]
+			},
+			"X7": {
+				"color": [
+					{ "time": 3, "color": "ffffffff" },
+					{ "time": 3.3333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 4.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 2, "name": "X6" }
+				]
+			}
+		},
+		"bones": {
+			"X7": {
+				"scale": [
+					{ "time": 2 },
+					{ "time": 3.3333, "x": 0.4, "y": 0.4, "curve": "stepped" },
+					{ "time": 4.3333, "x": 0.4, "y": 0.4 }
+				]
+			}
+		},
+		"path": {
+			"root": {
+				"position": [
+					{ "time": 2 },
+					{ "time": 3.3333, "position": 1, "curve": "stepped" },
+					{ "time": 4.3333, "position": 1 }
+				]
+			}
+		}
+	}
+}
+}

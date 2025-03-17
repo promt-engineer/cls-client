@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "ES6",
+    "module": "esnext",
+    "lib": [
+      "esnext",
+      "DOM"
+    ],
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "strictPropertyInitialization": false,
+    "outDir": "./dist",
+    "strict": true,
+    "baseUrl": "./src", // Base URL for module resolution
+    "paths": {
+      "pixi.js": ["../node_modules/pixi.js"], // Path mapping for PixiJS
+      "@base/*": ["../node_modules/gh-client-base/src/components/*"], // Path mapping for gh-client-base
+      "@utils/*": ["../node_modules/gh-client-base/src/utils/*"], // Path mapping for gh-client-base
+      // Add other path mappings if needed
+      "@/*": [
+        "./*"
+      ],
+    },
+    "types": ["node", "webpack-env"],
+  }
+}

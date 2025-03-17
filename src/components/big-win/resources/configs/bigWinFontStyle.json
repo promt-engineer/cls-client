@@ -1,0 +1,20 @@
+{
+  "fontFamily": "sudburb",
+  "fontSize": 86,
+  "fill": [
+    "#fffee4",
+    "#f5ed10",
+    "#f5e999",
+    "#f5c40c",
+    "#f5efa7",
+    "#f5e933"
+  ],
+  "align": "center",
+  "dropShadow": true,
+  "dropShadowDistance": 0,
+  "dropShadowBlur": 15,
+  "dropShadowAngle": 0,
+  "dropShadowColor": "#330d00",
+  "stroke": "#330d00",
+  "strokeThickness": 5
+}

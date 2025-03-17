@@ -1,0 +1,223 @@
+
+Eye_stone_size_1.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 86, 13
+  size: 10, 34
+  orig: 12, 36
+  offset: 1, 1
+  index: -1
+10
+  rotate: true
+  xy: 86, 3
+  size: 8, 27
+  orig: 10, 29
+  offset: 1, 1
+  index: -1
+11
+  rotate: true
+  xy: 39, 7
+  size: 10, 45
+  orig: 12, 47
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 122, 13
+  size: 10, 13
+  orig: 12, 15
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 557, 31
+  size: 40, 36
+  orig: 42, 38
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 39, 19
+  size: 44, 17
+  orig: 46, 19
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 126, 4
+  size: 7, 7
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+6
+  rotate: true
+  xy: 137, 18
+  size: 18, 16
+  orig: 20, 18
+  offset: 1, 1
+  index: -1
+7
+  rotate: true
+  xy: 85, 25
+  size: 11, 39
+  orig: 13, 41
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 115, 2
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 35, 34
+  orig: 37, 36
+  offset: 1, 1
+  index: -1
+bubble_02
+  rotate: false
+  xy: 981, 1633
+  size: 206, 206
+  orig: 218, 218
+  offset: 6, 6
+  index: -1
+diamant
+  rotate: false
+  xy: 797, 66
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1
+eye_base
+  rotate: true
+  xy: 794, 1197
+  size: 318, 244
+  orig: 320, 246
+  offset: 1, 1
+  index: -1
+glow
+  rotate: true
+  xy: 2, 350
+  size: 448, 386
+  orig: 482, 418
+  offset: 17, 16
+  index: -1
+gold_1
+  rotate: false
+  xy: 2, 1424
+  size: 395, 622
+  orig: 398, 622
+  offset: 2, 0
+  index: -1
+gold_2
+  rotate: false
+  xy: 390, 385
+  size: 395, 413
+  orig: 396, 414
+  offset: 0, 0
+  index: -1
+gold_3
+  rotate: false
+  xy: 2, 38
+  size: 396, 310
+  orig: 397, 310
+  offset: 0, 0
+  index: -1
+gold_4
+  rotate: false
+  xy: 797, 148
+  size: 401, 249
+  orig: 401, 249
+  offset: 0, 0
+  index: -1
+gold_5
+  rotate: false
+  xy: 672, 1841
+  size: 396, 205
+  orig: 396, 205
+  offset: 0, 0
+  index: -1
+gold_6
+  rotate: false
+  xy: 794, 1019
+  size: 397, 176
+  orig: 397, 176
+  offset: 0, 0
+  index: -1
+gold_stroke_1
+  rotate: true
+  xy: 731, 1517
+  size: 322, 248
+  orig: 324, 250
+  offset: 1, 1
+  index: -1
+gold_stroke_2
+  rotate: false
+  xy: 399, 1446
+  size: 330, 256
+  orig: 332, 258
+  offset: 1, 1
+  index: -1
+size_1
+  rotate: false
+  xy: 2, 800
+  size: 394, 622
+  orig: 396, 624
+  offset: 1, 1
+  index: -1
+size_2
+  rotate: false
+  xy: 398, 1009
+  size: 394, 413
+  orig: 396, 415
+  offset: 1, 1
+  index: -1
+size_3
+  rotate: false
+  xy: 400, 73
+  size: 395, 310
+  orig: 395, 310
+  offset: 0, 0
+  index: -1
+size_4
+  rotate: true
+  xy: 787, 399
+  size: 401, 249
+  orig: 401, 249
+  offset: 0, 0
+  index: -1
+size_5
+  rotate: false
+  xy: 398, 802
+  size: 396, 205
+  orig: 396, 205
+  offset: 0, 0
+  index: -1
+size_6
+  rotate: false
+  xy: 796, 841
+  size: 396, 176
+  orig: 396, 176
+  offset: 0, 0
+  index: -1
+stone_stroke
+  rotate: true
+  xy: 399, 1704
+  size: 342, 271
+  orig: 346, 273
+  offset: 2, 1
+  index: -1
+white_eye
+  rotate: false
+  xy: 400, 9
+  size: 155, 62
+  orig: 157, 64
+  offset: 1, 1
+  index: -1

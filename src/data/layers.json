@@ -1,0 +1,101 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "game",
+      "x": 0,
+      "y": 0,
+      "children": [
+        {
+          "name": "camera",
+          "x": 0,
+          "y": 0,
+          "children": [
+            {
+              "name": "reelset",
+              "x": "$[50sw]",
+              "y": "$[45sh]",
+              "portrait": {
+                "y": "$[40sh]"
+              },
+              "landscape": {
+                "y": "$[46sh]"
+              },
+              "children": [
+                {
+                  "name": "reels",
+                  "pivot": {
+                    "x": 610,
+                    "y": 224
+                  }
+                },
+                {
+                  "name": "topReels",
+                  "pivot": {
+                    "x": 610,
+                    "y": 400
+                  }
+                }
+              ]
+            },
+            {
+              "name": "overlay",
+              "x": "$[50sw]",
+              "y": "$[50sh]"
+            },
+            {
+              "name": "foreground",
+              "x": "$[50sw]",
+              "y": "$[50sh]",
+              "portrait": {
+                "y": "$[40sh]"
+              },
+              "children": [
+                {
+                  "name": "win-foreground"
+                },
+                {
+                  "name": "freespin",
+                  "children": [
+                    {
+                      "name": "freespinIntro"
+                    },
+                    {
+                      "name": "freespinOutro"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "popups",
+              "x": "$[50sw]",
+              "y": "$[50sh]",
+              "portrait": {
+                "y": "$[40sh]"
+              },
+              "children": [
+                {
+                  "name": "buy_bonus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "background",
+      "x": "$[50sw]",
+      "y": "$[50sh]"
+    },
+    {
+      "name": "onboarding",
+      "x": "$[50sw]",
+      "y": "$[50sh]",
+      "landscape": {
+        "y": "$[52sh]"
+      }
+    }
+  ]
+}

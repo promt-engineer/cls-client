@@ -1,0 +1,211 @@
+{
+  "audios": [
+    {
+      "name": "back",
+      "file": "main_theme.ogg",
+      "params": {
+        "group": "music",
+        "channel": "background",
+        "loop": true,
+        "playAgain": "repeat"
+      }
+    },
+    {
+      "name": "back_fs",
+      "file": "Freespins_theme.ogg",
+      "params": {
+        "group": "music",
+        "channel": "background",
+        "loop": true,
+        "playAgain": "repeat"
+      }
+    },
+    {
+      "name": "reels_move",
+      "file": "reels_run.ogg",
+      "params": {
+        "group": "sfx",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "spin_click",
+      "file": "reel_start_button.ogg",
+      "params": {
+        "group": "sfx",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "tiles_drop",
+      "file": "tiles_drop.ogg",
+      "params": {
+        "group": "sfx",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "choose_fs",
+      "file": "UI_Freespins_tile_tap.ogg",
+      "params": {
+        "group": "sfx",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "reels_stop",
+      "file": "reels_stop.ogg",
+      "params": {
+        "group": "sfx",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "multiplicator",
+      "file": "multiplicator.ogg",
+      "params": {
+        "group": "sfx",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "scatter",
+      "file": "scatter.ogg",
+      "params": {
+        "group": "sfx",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "scatter_landing_1",
+      "file": "scatter_landing_1.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "scatter_landing",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "scatter_landing_2",
+      "file": "scatter_landing_2.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "scatter_landing",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "scatter_landing_3",
+      "file": "scatter_landing_3.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "scatter_landing",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "big_win_theme",
+      "file": "big_wins_theme.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "celebration",
+        "groupLower": "music",
+        "loop": true,
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "big_win",
+      "file": "big_win.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "celebration_intro"
+      }
+    },
+    {
+      "name": "super_win",
+      "file": "super_win.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "celebration_intro"
+      }
+    },
+    {
+      "name": "mega_win",
+      "file": "mega_win.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "celebration_intro"
+      }
+    },
+    {
+      "name": "stop_wins",
+      "file": "stop_wins.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "celebration",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "counter",
+      "file": "counter.ogg",
+      "params": {
+        "group": "sfx",
+        "loop": true
+      }
+    },
+    {
+      "name": "stage_end",
+      "file": "win_end.ogg",
+      "params": {
+        "group": "sfx",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "match",
+      "file": "match_reels.ogg",
+      "params": {
+        "group": "sfx",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "freespin_start",
+      "file": "Freespins_start.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "freespins",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "freespin_end",
+      "file": "Freespins_end.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "freespins",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "fs_choice_popup",
+      "file": "Freespins_window_open.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "freespins",
+        "playAgain": "skip"
+      }
+    },
+    {
+      "name": "total_win_popup",
+      "file": "Freespins_end_window_open.ogg",
+      "params": {
+        "group": "sfx",
+        "channel": "freespins",
+        "playAgain": "skip"
+      }
+    }
+  ]
+}

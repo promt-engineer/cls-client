@@ -1,0 +1,16 @@
+.arrows {
+    .arrow {
+      background-image: url('../public/images/help-page/arrow/normal.png');
+  
+      &:not(:disabled) {
+        &:hover {
+             background-image: url('../public/images/help-page/arrow/hover.png');
+        }
+  
+        &:active {
+            background-image: url('../public/images/help-page/arrow/pressed.png');
+        }
+      }
+    }
+}
+  

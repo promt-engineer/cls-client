@@ -1,0 +1,107 @@
+{
+  "fsChoice": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 49,
+    "fill": "#f5efa5",
+    "align": "center",
+    "wordWrap": true,
+    "wordWrapWidth": 350
+  },
+  "choice1": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 36,
+    "fill": "0x00c9f9",
+    "align": "center",
+    "fontWeight": "bolder",
+    "wordWrap": true,
+    "wordWrapWidth": 250
+  },
+  "choice2": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 36,
+    "fill": "0x00ee36",
+    "align": "center",
+    "fontWeight": "bolder",
+    "wordWrap": true,
+    "wordWrapWidth": 250
+  },
+  "choice3": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 36,
+    "fill": "0xc52fc4",
+    "align": "center",
+    "fontWeight": "bolder",
+    "wordWrap": true,
+    "wordWrapWidth": 250
+  },
+  "choice4": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 36,
+    "fill": "0xf9e600",
+    "align": "center",
+    "fontWeight": "bolder",
+    "wordWrap": true,
+    "wordWrapWidth": 250
+  },
+  "mainText": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 86,
+    "fill": [
+      "#fffee4",
+      "#f5ed10",
+      "#f5e999",
+      "#f5c40c",
+      "#f5efa7",
+      "#f5e933"
+    ],
+    "align": "center",
+    "dropShadow": true,
+    "dropShadowDistance": 0,
+    "dropShadowBlur": 15,
+    "dropShadowAngle": 0,
+    "dropShadowColor": "#330d00",
+    "stroke": "#330d00",
+    "strokeThickness": 5
+  },
+  "counterText": {
+    "fontFamily": "sudburb",
+    "fontSize": 129,
+    "fill": [
+      "#fffee4",
+      "#f5ed10",
+      "#f5e999",
+      "#f5c40c",
+      "#f5efa7",
+      "#f5e933"
+    ],
+    "align": "center",
+    "dropShadow": true,
+    "dropShadowDistance": 0,
+    "dropShadowBlur": 15,
+    "dropShadowAngle": 0,
+    "dropShadowColor": "#330d00",
+    "stroke": "#330d00",
+    "strokeThickness": 5
+  },
+  "lowerText": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 70,
+    "fill": [
+      "#fffee4",
+      "#f5ed10",
+      "#f5e999",
+      "#f5c40c",
+      "#f5efa7",
+      "#f5e933"
+    ],
+    "align": "center",
+    "dropShadow": true,
+    "dropShadowDistance": 0,
+    "dropShadowBlur": 15,
+    "dropShadowAngle": 0,
+    "dropShadowColor": "#330d00",
+    "stroke": "#330d00",
+    "strokeThickness": 5,
+    "padding": 5
+  }
+}

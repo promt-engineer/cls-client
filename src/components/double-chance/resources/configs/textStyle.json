@@ -1,0 +1,64 @@
+{
+  "switcher": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 28,
+    "fill": "#ffffff",
+    "align": "center",
+    "dropShadow": true,
+    "dropShadowDistance": 0,
+    "dropShadowBlur": 6,
+    "dropShadowAngle": 0,
+    "dropShadowColor": "#000000",
+    "stroke": "#000000",
+    "strokeThickness": 2
+  },
+  "betText": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 50,
+    "fill": "#ffffff",
+    "align": "center",
+    "dropShadow": true,
+    "dropShadowDistance": 0,
+    "dropShadowBlur": 10,
+    "dropShadowAngle": 0,
+    "dropShadowColor": "#000000",
+    "stroke": "#000000",
+    "strokeThickness": 2,
+    "padding": 5
+  },
+  "doubleChance": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 22,
+    "fill": "#ffffff",
+    "align": "center",
+    "dropShadow": true,
+    "dropShadowDistance": 0,
+    "dropShadowBlur": 6,
+    "dropShadowAngle": 0,
+    "dropShadowColor": "#000000",
+    "wordWrapWidth": 150,
+    "wordWrap": true,
+    "stroke": "#000000",
+    "strokeThickness": 2
+  },
+  "numberText": {
+    "fontFamily": "AntiquaSTBold",
+    "fontSize": 63,
+    "fill": [
+      "#fffee4",
+      "#f5ed10",
+      "#f5e999",
+      "#f5c40c",
+      "#f5efa7",
+      "#f5e933"
+    ],
+    "align": "center",
+    "dropShadow": true,
+    "dropShadowDistance": 0,
+    "dropShadowBlur": 15,
+    "dropShadowAngle": 0,
+    "dropShadowColor": "#330d00",
+    "stroke": "#330d00",
+    "strokeThickness": 5
+  }
+}

@@ -1,0 +1,342 @@
+
+Cleo's Riches_free spins summary_animation.png
+size: 1991,1428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 1425, 69
+  size: 121, 169
+  orig: 128, 186
+  offset: 1, 1
+  index: -1
+frame
+  rotate: true
+  xy: 1174, 376
+  size: 1050, 656
+  orig: 1168, 718
+  offset: 59, 39
+  index: -1
+general_glow
+  rotate: false
+  xy: 2, 630
+  size: 1170, 796
+  orig: 2050, 1082
+  offset: 438, 185
+  index: -1
+general_glow_sparkles_1
+  rotate: true
+  xy: 1597, 135
+  size: 37, 36
+  orig: 41, 40
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_10
+  rotate: false
+  xy: 1797, 310
+  size: 37, 37
+  orig: 41, 40
+  offset: 2, 1
+  index: -1
+general_glow_sparkles_12
+  rotate: false
+  xy: 1548, 174
+  size: 65, 64
+  orig: 69, 68
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_13
+  rotate: false
+  xy: 1548, 174
+  size: 65, 64
+  orig: 69, 68
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_14
+  rotate: false
+  xy: 1797, 272
+  size: 37, 36
+  orig: 41, 40
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_15
+  rotate: false
+  xy: 1548, 125
+  size: 47, 47
+  orig: 50, 49
+  offset: 2, 1
+  index: -1
+general_glow_sparkles_16
+  rotate: false
+  xy: 1602, 57
+  size: 37, 37
+  orig: 41, 40
+  offset: 2, 1
+  index: -1
+general_glow_sparkles_17
+  rotate: false
+  xy: 1635, 115
+  size: 36, 36
+  orig: 40, 41
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_18
+  rotate: false
+  xy: 1602, 19
+  size: 37, 36
+  orig: 41, 40
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_19
+  rotate: false
+  xy: 1664, 192
+  size: 46, 46
+  orig: 50, 50
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_2
+  rotate: false
+  xy: 1425, 2
+  size: 65, 65
+  orig: 69, 68
+  offset: 2, 1
+  index: -1
+general_glow_sparkles_20
+  rotate: false
+  xy: 1673, 154
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 1
+  index: -1
+general_glow_sparkles_21
+  rotate: false
+  xy: 1548, 77
+  size: 47, 46
+  orig: 50, 50
+  offset: 1, 2
+  index: -1
+general_glow_sparkles_22
+  rotate: false
+  xy: 1615, 191
+  size: 47, 47
+  orig: 50, 49
+  offset: 1, 1
+  index: -1
+general_glow_sparkles_23
+  rotate: false
+  xy: 1231, 21
+  size: 42, 41
+  orig: 46, 44
+  offset: 2, 1
+  index: -1
+general_glow_sparkles_24
+  rotate: false
+  xy: 1797, 349
+  size: 25, 25
+  orig: 29, 28
+  offset: 2, 1
+  index: -1
+general_glow_sparkles_25
+  rotate: false
+  xy: 1361, 22
+  size: 42, 40
+  orig: 46, 45
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_26
+  rotate: false
+  xy: 1361, 22
+  size: 42, 40
+  orig: 46, 45
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_3
+  rotate: true
+  xy: 1559, 33
+  size: 42, 41
+  orig: 46, 45
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_4
+  rotate: false
+  xy: 1143, 20
+  size: 42, 42
+  orig: 46, 46
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_5
+  rotate: false
+  xy: 1275, 21
+  size: 41, 41
+  orig: 46, 45
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_6
+  rotate: true
+  xy: 1597, 96
+  size: 37, 36
+  orig: 41, 40
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_7
+  rotate: false
+  xy: 1318, 21
+  size: 41, 41
+  orig: 45, 45
+  offset: 2, 2
+  index: -1
+general_glow_sparkles_8
+  rotate: false
+  xy: 1635, 153
+  size: 36, 36
+  orig: 41, 40
+  offset: 3, 2
+  index: -1
+general_glow_sparkles_9
+  rotate: false
+  xy: 1492, 2
+  size: 65, 65
+  orig: 68, 68
+  offset: 1, 1
+  index: -1
+general_glow_sparkles_11
+  rotate: false
+  xy: 1492, 2
+  size: 65, 65
+  orig: 68, 68
+  offset: 1, 1
+  index: -1
+hand_left_1
+  rotate: true
+  xy: 1886, 377
+  size: 36, 49
+  orig: 39, 51
+  offset: 2, 1
+  index: -1
+hand_left_2
+  rotate: false
+  xy: 1088, 27
+  size: 53, 38
+  orig: 55, 45
+  offset: 1, 1
+  index: -1
+hand_left_3
+  rotate: true
+  xy: 1017, 20
+  size: 45, 69
+  orig: 47, 74
+  offset: 1, 1
+  index: -1
+hand_right_1
+  rotate: true
+  xy: 1937, 378
+  size: 35, 49
+  orig: 38, 51
+  offset: 1, 1
+  index: -1
+hand_right_2
+  rotate: false
+  xy: 1832, 375
+  size: 52, 38
+  orig: 54, 45
+  offset: 1, 1
+  index: -1
+hand_right_3
+  rotate: true
+  xy: 1716, 248
+  size: 45, 69
+  orig: 47, 74
+  offset: 1, 1
+  index: -1
+plate
+  rotate: false
+  xy: 2, 2
+  size: 1013, 626
+  orig: 1015, 628
+  offset: 1, 1
+  index: -1
+scarab_shadow
+  rotate: false
+  xy: 1153, 64
+  size: 270, 174
+  orig: 305, 184
+  offset: 17, 9
+  index: -1
+slot_numb
+  rotate: false
+  xy: 1143, 64
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sparkle_1
+  rotate: false
+  xy: 1787, 233
+  size: 37, 37
+  orig: 40, 40
+  offset: 1, 2
+  index: -1
+sparkle_2
+  rotate: false
+  xy: 1836, 336
+  size: 37, 37
+  orig: 41, 40
+  offset: 2, 2
+  index: -1
+sparkle_3
+  rotate: false
+  xy: 1187, 20
+  size: 42, 42
+  orig: 45, 46
+  offset: 2, 2
+  index: -1
+sparkle_4
+  rotate: false
+  xy: 1836, 297
+  size: 37, 37
+  orig: 41, 41
+  offset: 2, 2
+  index: -1
+sparkle_5
+  rotate: false
+  xy: 1836, 259
+  size: 37, 36
+  orig: 41, 40
+  offset: 2, 2
+  index: -1
+sparkle_6
+  rotate: false
+  xy: 1826, 220
+  size: 37, 37
+  orig: 40, 41
+  offset: 1, 2
+  index: -1
+sparkle_7
+  rotate: false
+  xy: 1716, 295
+  size: 79, 79
+  orig: 83, 83
+  offset: 2, 2
+  index: -1
+wing_left
+  rotate: true
+  xy: 1017, 67
+  size: 561, 134
+  orig: 561, 134
+  offset: 0, 0
+  index: -1
+wing_right
+  rotate: false
+  xy: 1153, 240
+  size: 561, 134
+  orig: 561, 134
+  offset: 0, 0
+  index: -1
+wings_shadow
+  rotate: true
+  xy: 1832, 415
+  size: 1011, 157
+  orig: 1014, 190
+  offset: 1, 32
+  index: -1

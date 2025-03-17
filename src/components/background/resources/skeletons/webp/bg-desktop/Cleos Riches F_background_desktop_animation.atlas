@@ -1,0 +1,442 @@
+
+Cleos Riches F_background_desktop_animation.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lotus_1
+  rotate: false
+  xy: 131, 1304
+  size: 30, 17
+  orig: 34, 20
+  offset: 3, 1
+  index: -1
+Lotus_1_fs
+  rotate: false
+  xy: 100, 1305
+  size: 29, 16
+  orig: 33, 18
+  offset: 3, 1
+  index: -1
+Lotus_2
+  rotate: false
+  xy: 801, 1287
+  size: 63, 34
+  orig: 66, 40
+  offset: 1, 2
+  index: -1
+Lotus_3
+  rotate: false
+  xy: 801, 1287
+  size: 63, 34
+  orig: 66, 40
+  offset: 1, 2
+  index: -1
+Lotus_2_fs
+  rotate: false
+  xy: 866, 1287
+  size: 63, 34
+  orig: 66, 40
+  offset: 1, 2
+  index: -1
+Lotus_2_shadow1
+  rotate: false
+  xy: 163, 1298
+  size: 43, 23
+  orig: 52, 29
+  offset: 4, 5
+  index: -1
+Lotus_2_shadow1_fs
+  rotate: false
+  xy: 208, 1298
+  size: 43, 23
+  orig: 52, 29
+  offset: 4, 5
+  index: -1
+Lotus_2_shadow2
+  rotate: false
+  xy: 253, 1297
+  size: 45, 24
+  orig: 47, 27
+  offset: 1, 2
+  index: -1
+Lotus_2_shadow2_fs
+  rotate: false
+  xy: 300, 1297
+  size: 45, 24
+  orig: 47, 27
+  offset: 1, 2
+  index: -1
+Lotus_3_fs
+  rotate: false
+  xy: 931, 1287
+  size: 63, 34
+  orig: 66, 40
+  offset: 1, 2
+  index: -1
+Lotus_3_shadow
+  rotate: false
+  xy: 2, 1306
+  size: 47, 15
+  orig: 53, 18
+  offset: 3, 2
+  index: -1
+Lotus_3_shadow_fs
+  rotate: false
+  xy: 51, 1306
+  size: 47, 15
+  orig: 53, 18
+  offset: 3, 2
+  index: -1
+Lotus_4
+  rotate: false
+  xy: 1344, 1280
+  size: 72, 41
+  orig: 75, 46
+  offset: 1, 2
+  index: -1
+Lotus_4_fs
+  rotate: false
+  xy: 1418, 1280
+  size: 72, 41
+  orig: 75, 46
+  offset: 1, 2
+  index: -1
+Lotus_4_shadow1
+  rotate: false
+  xy: 457, 1294
+  size: 42, 27
+  orig: 48, 29
+  offset: 1, 1
+  index: -1
+Lotus_4_shadow1_fs
+  rotate: false
+  xy: 501, 1294
+  size: 42, 27
+  orig: 48, 29
+  offset: 1, 1
+  index: -1
+Lotus_4_shadow2
+  rotate: false
+  xy: 347, 1297
+  size: 53, 24
+  orig: 59, 28
+  offset: 1, 1
+  index: -1
+Lotus_4_shadow2_fs
+  rotate: false
+  xy: 402, 1297
+  size: 53, 24
+  orig: 59, 28
+  offset: 1, 1
+  index: -1
+Lotus_5
+  rotate: false
+  xy: 1492, 1277
+  size: 80, 44
+  orig: 84, 51
+  offset: 1, 3
+  index: -1
+Lotus_5_fs
+  rotate: false
+  xy: 1574, 1277
+  size: 80, 44
+  orig: 84, 51
+  offset: 1, 3
+  index: -1
+Lotus_5_shadow1
+  rotate: false
+  xy: 545, 1291
+  size: 56, 30
+  orig: 73, 32
+  offset: 9, 1
+  index: -1
+Lotus_5_shadow1_fs
+  rotate: false
+  xy: 603, 1291
+  size: 56, 30
+  orig: 73, 32
+  offset: 9, 1
+  index: -1
+Lotus_5_shadow2
+  rotate: false
+  xy: 1178, 1281
+  size: 81, 40
+  orig: 87, 44
+  offset: 3, 3
+  index: -1
+Lotus_5_shadow2_fs
+  rotate: false
+  xy: 1261, 1281
+  size: 81, 40
+  orig: 87, 44
+  offset: 3, 3
+  index: -1
+Monstera_1
+  rotate: true
+  xy: 1122, 1173
+  size: 106, 210
+  orig: 106, 212
+  offset: 0, 0
+  index: -1
+Monstera_1_fs
+  rotate: true
+  xy: 1334, 1169
+  size: 106, 210
+  orig: 106, 212
+  offset: 0, 0
+  index: -1
+Monstera_2
+  rotate: false
+  xy: 1834, 1114
+  size: 197, 142
+  orig: 199, 145
+  offset: 1, 1
+  index: -1
+Monstera_2_fs
+  rotate: false
+  xy: 674, 1054
+  size: 197, 142
+  orig: 199, 145
+  offset: 1, 1
+  index: -1
+Monstera_3
+  rotate: false
+  xy: 873, 1041
+  size: 214, 150
+  orig: 214, 151
+  offset: 0, 0
+  index: -1
+Monstera_3_fs
+  rotate: false
+  xy: 1089, 1021
+  size: 214, 150
+  orig: 214, 151
+  offset: 0, 0
+  index: -1
+Monstera_4
+  rotate: true
+  xy: 1546, 1138
+  size: 137, 142
+  orig: 141, 142
+  offset: 4, 0
+  index: -1
+Monstera_4_fs
+  rotate: true
+  xy: 1690, 1138
+  size: 137, 142
+  orig: 141, 142
+  offset: 4, 0
+  index: -1
+Monstera_5
+  rotate: true
+  xy: 2, 1100
+  size: 125, 334
+  orig: 129, 340
+  offset: 3, 6
+  index: -1
+Monstera_5_fs
+  rotate: true
+  xy: 338, 1094
+  size: 125, 334
+  orig: 129, 340
+  offset: 3, 6
+  index: -1
+curtains_left
+  rotate: true
+  xy: 2, 2
+  size: 617, 1785
+  orig: 617, 1785
+  offset: 0, 0
+  index: -1
+curtains_left_fs
+  rotate: true
+  xy: 2, 2
+  size: 617, 1785
+  orig: 617, 1785
+  offset: 0, 0
+  index: -1
+leaf_1
+  rotate: false
+  xy: 1656, 1277
+  size: 102, 44
+  orig: 102, 46
+  offset: 0, 2
+  index: -1
+leaf_1_fs
+  rotate: false
+  xy: 1760, 1277
+  size: 102, 44
+  orig: 102, 46
+  offset: 0, 2
+  index: -1
+leaf_1_shadow
+  rotate: false
+  xy: 1864, 1258
+  size: 160, 63
+  orig: 178, 76
+  offset: 9, 5
+  index: -1
+leaf_1_shadow_fs
+  rotate: false
+  xy: 157, 1232
+  size: 160, 63
+  orig: 178, 76
+  offset: 9, 5
+  index: -1
+leaf_2
+  rotate: false
+  xy: 661, 1291
+  size: 68, 30
+  orig: 68, 31
+  offset: 0, 1
+  index: -1
+leaf_2_fs
+  rotate: false
+  xy: 731, 1291
+  size: 68, 30
+  orig: 68, 31
+  offset: 0, 1
+  index: -1
+leaf_2_shadow
+  rotate: false
+  xy: 319, 1227
+  size: 130, 68
+  orig: 142, 77
+  offset: 6, 4
+  index: -1
+leaf_2_shadow_fs
+  rotate: false
+  xy: 606, 1221
+  size: 130, 68
+  orig: 142, 77
+  offset: 6, 4
+  index: -1
+leaf_3
+  rotate: false
+  xy: 996, 1282
+  size: 89, 39
+  orig: 89, 41
+  offset: 0, 2
+  index: -1
+leaf_3_fs
+  rotate: false
+  xy: 1087, 1282
+  size: 89, 39
+  orig: 89, 41
+  offset: 0, 2
+  index: -1
+palm
+  rotate: false
+  xy: 1305, 641
+  size: 665, 471
+  orig: 665, 471
+  offset: 0, 0
+  index: -1
+palm_fs
+  rotate: false
+  xy: 2, 621
+  size: 665, 471
+  orig: 665, 471
+  offset: 0, 0
+  index: -1
+water lines_1
+  rotate: false
+  xy: 2, 1236
+  size: 153, 66
+  orig: 160, 70
+  offset: 5, 3
+  index: -1
+water lines_1_fs
+  rotate: false
+  xy: 451, 1223
+  size: 153, 66
+  orig: 160, 70
+  offset: 5, 3
+  index: -1
+water lines_2
+  rotate: false
+  xy: 738, 1198
+  size: 190, 87
+  orig: 192, 89
+  offset: 1, 1
+  index: -1
+water lines_2_fs
+  rotate: false
+  xy: 930, 1193
+  size: 190, 87
+  orig: 192, 89
+  offset: 1, 1
+  index: -1
+
+Cleos Riches F_background_desktop_animation2.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+curtains_right
+  rotate: true
+  xy: 2, 749
+  size: 745, 1528
+  orig: 750, 1708
+  offset: 0, 180
+  index: -1
+curtains_right_fs
+  rotate: true
+  xy: 2, 2
+  size: 745, 1528
+  orig: 750, 1708
+  offset: 0, 180
+  index: -1
+
+Cleos Riches F_background_desktop_animation3.webp
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 1845, 974
+  orig: 1845, 974
+  offset: 0, 0
+  index: -1
+
+Cleos Riches F_background_desktop_animation4.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sky
+  rotate: false
+  xy: 2, 2
+  size: 1593, 1218
+  orig: 1715, 1272
+  offset: 49, 54
+  index: -1
+
+Cleos Riches F_background_desktop_animation5.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sky_fs
+  rotate: false
+  xy: 2, 2
+  size: 1835, 1331
+  orig: 1835, 1331
+  offset: 0, 0
+  index: -1
+
+Cleos Riches F_background_desktop_animation6.webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base_fs
+  rotate: false
+  xy: 2, 2
+  size: 1972, 1964
+  orig: 2012, 2004
+  offset: 20, 20
+  index: -1

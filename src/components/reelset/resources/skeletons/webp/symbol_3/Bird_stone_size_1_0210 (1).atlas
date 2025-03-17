@@ -1,0 +1,202 @@
+
+Bird_stone_size_1_0210 (1).webp
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird_1
+  rotate: false
+  xy: 302, 357
+  size: 256, 441
+  orig: 373, 646
+  offset: 62, 119
+  index: -1
+bird_base
+  rotate: false
+  xy: 862, 1056
+  size: 149, 380
+  orig: 161, 380
+  offset: 0, 0
+  index: -1
+bird_eye_base
+  rotate: false
+  xy: 34, 9
+  size: 47, 34
+  orig: 52, 42
+  offset: 1, 6
+  index: -1
+bird_eye_violet
+  rotate: true
+  xy: 101, 2
+  size: 15, 14
+  orig: 18, 16
+  offset: 1, 1
+  index: -1
+bird_eye_yellow
+  rotate: true
+  xy: 83, 15
+  size: 28, 16
+  orig: 30, 18
+  offset: 1, 1
+  index: -1
+bird_shadow_1
+  rotate: true
+  xy: 869, 1483
+  size: 160, 71
+  orig: 191, 82
+  offset: 24, 10
+  index: -1
+bird_shadow_2
+  rotate: true
+  xy: 399, 1427
+  size: 216, 70
+  orig: 239, 99
+  offset: 17, 28
+  index: -1
+gold_1
+  rotate: false
+  xy: 2, 1424
+  size: 395, 622
+  orig: 398, 622
+  offset: 2, 0
+  index: -1
+gold_2
+  rotate: false
+  xy: 838, 403
+  size: 395, 413
+  orig: 396, 414
+  offset: 0, 0
+  index: -1
+gold_3
+  rotate: false
+  xy: 2, 45
+  size: 396, 310
+  orig: 397, 310
+  offset: 0, 0
+  index: -1
+gold_4
+  rotate: true
+  xy: 650, 1645
+  size: 401, 249
+  orig: 401, 249
+  offset: 0, 0
+  index: -1
+gold_5
+  rotate: false
+  xy: 471, 1438
+  size: 396, 205
+  orig: 396, 205
+  offset: 0, 0
+  index: -1
+gold_6
+  rotate: false
+  xy: 503, 818
+  size: 397, 176
+  orig: 397, 176
+  offset: 0, 0
+  index: -1
+gold_stroke_1
+  rotate: false
+  xy: 560, 398
+  size: 276, 418
+  orig: 278, 420
+  offset: 1, 1
+  index: -1
+gold_stroke_2
+  rotate: false
+  xy: 398, 996
+  size: 284, 426
+  orig: 286, 428
+  offset: 1, 1
+  index: -1
+light_box
+  rotate: true
+  xy: 901, 1751
+  size: 295, 287
+  orig: 301, 292
+  offset: 3, 2
+  index: -1
+nose_bottom
+  rotate: true
+  xy: 101, 19
+  size: 24, 16
+  orig: 24, 18
+  offset: 0, 1
+  index: -1
+nose_top
+  rotate: false
+  xy: 2, 6
+  size: 30, 37
+  orig: 32, 37
+  offset: 1, 0
+  index: -1
+size_1
+  rotate: false
+  xy: 2, 800
+  size: 394, 622
+  orig: 396, 624
+  offset: 1, 1
+  index: -1
+size_2
+  rotate: true
+  xy: 797, 2
+  size: 394, 413
+  orig: 394, 413
+  offset: 0, 0
+  index: -1
+size_3
+  rotate: false
+  xy: 400, 45
+  size: 395, 310
+  orig: 395, 310
+  offset: 0, 0
+  index: -1
+size_4
+  rotate: true
+  xy: 399, 1645
+  size: 401, 249
+  orig: 401, 249
+  offset: 0, 0
+  index: -1
+size_5
+  rotate: true
+  xy: 1212, 5
+  size: 396, 205
+  orig: 396, 205
+  offset: 0, 0
+  index: -1
+size_6
+  rotate: true
+  xy: 684, 1040
+  size: 396, 176
+  orig: 396, 176
+  offset: 0, 0
+  index: -1
+stand
+  rotate: false
+  xy: 901, 1652
+  size: 272, 97
+  orig: 274, 99
+  offset: 1, 1
+  index: -1
+stone_stroke
+  rotate: false
+  xy: 2, 357
+  size: 298, 441
+  orig: 301, 443
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 942, 1539
+  size: 109, 111
+  orig: 111, 113
+  offset: 1, 1
+  index: -1
+wing
+  rotate: false
+  xy: 398, 801
+  size: 103, 193
+  orig: 103, 193
+  offset: 0, 0
+  index: -1

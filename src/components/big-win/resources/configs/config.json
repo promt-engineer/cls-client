@@ -1,0 +1,8 @@
+{
+  "winBaseRatio": 10,
+  "ratios": {
+    "big_win": 10,
+    "super_win": 30,
+    "mega_win": 50
+  }
+}

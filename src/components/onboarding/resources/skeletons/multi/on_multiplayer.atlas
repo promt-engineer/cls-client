@@ -1,0 +1,146 @@
+
+on_multiplayer.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1350
+  rotate: true
+  xy: 1367, 656
+  size: 164, 79
+  orig: 170, 84
+  offset: 3, 2
+  index: -1
+5
+  rotate: false
+  xy: 1373, 942
+  size: 66, 78
+  orig: 72, 83
+  offset: 3, 2
+  index: -1
+6
+  rotate: true
+  xy: 1367, 587
+  size: 67, 79
+  orig: 73, 83
+  offset: 3, 2
+  index: -1
+FLEXIWAYS
+  rotate: false
+  xy: 186, 9
+  size: 184, 32
+  orig: 189, 35
+  offset: 2, 1
+  index: -1
+MULTIPLIER
+  rotate: false
+  xy: 2, 2
+  size: 182, 39
+  orig: 186, 42
+  offset: 2, 2
+  index: -1
+Multiplier_counter_plate
+  rotate: true
+  xy: 525, 20
+  size: 221, 154
+  orig: 226, 159
+  offset: 2, 3
+  index: -1
+Scatter_size_3_new
+  rotate: false
+  xy: 1150, 248
+  size: 173, 135
+  orig: 175, 137
+  offset: 1, 1
+  index: -1
+X
+  rotate: false
+  xy: 1373, 865
+  size: 65, 75
+  orig: 71, 81
+  offset: 3, 3
+  index: -1
+X6
+  rotate: true
+  xy: 1150, 790
+  size: 230, 132
+  orig: 230, 132
+  offset: 0, 0
+  index: -1
+g_10_1
+  rotate: true
+  xy: 2, 43
+  size: 198, 313
+  orig: 200, 314
+  offset: 1, 0
+  index: -1
+g_10_3
+  rotate: true
+  xy: 837, 42
+  size: 199, 156
+  orig: 200, 156
+  offset: 0, 0
+  index: -1
+g_2
+  rotate: true
+  xy: 317, 43
+  size: 198, 206
+  orig: 198, 218
+  offset: 0, 12
+  index: -1
+g_3
+  rotate: true
+  xy: 995, 43
+  size: 198, 155
+  orig: 199, 162
+  offset: 1, 7
+  index: -1
+g_4
+  rotate: true
+  xy: 1150, 385
+  size: 200, 124
+  orig: 201, 125
+  offset: 1, 1
+  index: -1
+g_6
+  rotate: true
+  xy: 1284, 822
+  size: 198, 87
+  orig: 199, 88
+  offset: 1, 1
+  index: -1
+g_eye_6
+  rotate: true
+  xy: 1277, 590
+  size: 198, 88
+  orig: 199, 105
+  offset: 1, 9
+  index: -1
+g_j_4
+  rotate: true
+  xy: 1150, 587
+  size: 201, 125
+  orig: 202, 126
+  offset: 1, 1
+  index: -1
+g_j_5
+  rotate: true
+  xy: 1276, 387
+  size: 198, 102
+  orig: 199, 104
+  offset: 1, 1
+  index: -1
+reels
+  rotate: false
+  xy: 2, 243
+  size: 1146, 777
+  orig: 1153, 783
+  offset: 3, 3
+  index: -1
+Flexiways_counter_plate
+  rotate: true
+  xy: 681, 20
+  size: 221, 154
+  orig: 225, 158
+  offset: 2, 2
+  index: -1

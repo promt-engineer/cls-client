@@ -1,0 +1,4246 @@
+{
+  "bonus": {
+    "user_id": "298f1066-2277-4eca-812d-e13244f727c3",
+    "session_token": "d073e539-122d-45e7-90ad-8da7dd661bb2",
+    "game": "cleos-riches-flexiways",
+    "integrator": "mock",
+    "operator": "mock",
+    "currency": "xts",
+    "balance": 9999740,
+    "game_results": {
+      "is_pfr": false,
+      "restoring_indexes": {
+        "base_spin_index": 0,
+        "bonus_spin_index": 0
+      },
+      "spin": {
+        "wager": 100,
+        "award": 40,
+        "stops": [
+          7,
+          66,
+          7,
+          76,
+          73,
+          3,
+          40
+        ],
+        "buy_bonus": false,
+        "ante_bet": false,
+        "avalanches": [
+          {
+            "window": [
+              [
+                9,
+                8,
+                8,
+                12
+              ],
+              [
+                3,
+                7,
+                9,
+                4,
+                8
+              ],
+              [
+                3,
+                9,
+                10
+              ],
+              [
+                7,
+                4,
+                9,
+                10,
+                10
+              ],
+              [
+                10,
+                10,
+                12,
+                9,
+                5
+              ],
+              [
+                10,
+                12
+              ]
+            ],
+            "pay_items": [
+              {
+                "symbol": 9,
+                "indexes": [
+                  [
+                    0
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    3
+                  ]
+                ],
+                "award": 40
+              }
+            ]
+          },
+          {
+            "window": [
+              [
+                8,
+                8,
+                12,
+                8
+              ],
+              [
+                3,
+                7,
+                4,
+                4,
+                8
+              ],
+              [
+                3,
+                12,
+                10
+              ],
+              [
+                7,
+                4,
+                10,
+                8,
+                10
+              ],
+              [
+                10,
+                10,
+                12,
+                5,
+                5
+              ],
+              [
+                10,
+                12
+              ]
+            ],
+            "pay_items": [
+              {
+                "symbol": 12,
+                "indexes": [
+                  [
+                    2
+                  ],
+                  null,
+                  [
+                    1
+                  ],
+                  null,
+                  [
+                    2
+                  ],
+                  [
+                    1
+                  ]
+                ],
+                "award": 0
+              }
+            ]
+          }
+        ],
+        "bonus_choice": [
+          {
+            "spins": 15,
+            "multiplier": 1,
+            "random": false
+          },
+          {
+            "spins": 10,
+            "multiplier": 5,
+            "random": false
+          },
+          {
+            "spins": 5,
+            "multiplier": 10,
+            "random": false
+          },
+          {
+            "spins": 15,
+            "multiplier": 5,
+            "random": true
+          }
+        ],
+        "bonus": null
+      }
+    }
+  },
+  "regular": {
+    "user_id": "02bc86f9-00e3-430a-9bc7-96f849b91843",
+    "session_token": "ef98964b-8704-47fe-807a-18cbb001991e",
+    "game": "cleos-riches-flexiways",
+    "integrator": "mock",
+    "operator": "mock",
+    "currency": "xts",
+    "balance": 9999880,
+    "game_results": {
+      "is_pfr": false,
+      "restoring_indexes": {
+        "base_spin_index": 0,
+        "bonus_spin_index": 0
+      },
+      "spin": {
+        "wager": 100,
+        "award": 80,
+        "stops": [
+          11,
+          75,
+          22,
+          70,
+          74,
+          16,
+          49
+        ],
+        "buy_bonus": false,
+        "ante_bet": false,
+        "avalanches": [
+          {
+            "window": [
+              [
+                3,
+                2,
+                8,
+                6,
+                9,
+                8
+              ],
+              [
+                8,
+                8,
+                4
+              ],
+              [
+                7,
+                7,
+                8
+              ],
+              [
+                8,
+                9,
+                4,
+                10,
+                9
+              ],
+              [
+                9,
+                10,
+                10,
+                9
+              ],
+              [
+                8,
+                4
+              ]
+            ],
+            "pay_items": [
+              {
+                "symbol": 8,
+                "indexes": [
+                  [
+                    2
+                  ],
+                  [
+                    0
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    0
+                  ]
+                ],
+                "award": 20
+              },
+              {
+                "symbol": 8,
+                "indexes": [
+                  [
+                    2
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    0
+                  ]
+                ],
+                "award": 20
+              },
+              {
+                "symbol": 8,
+                "indexes": [
+                  [
+                    5
+                  ],
+                  [
+                    0
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    0
+                  ]
+                ],
+                "award": 20
+              },
+              {
+                "symbol": 8,
+                "indexes": [
+                  [
+                    5
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    0
+                  ]
+                ],
+                "award": 20
+              }
+            ]
+          },
+          {
+            "window": [
+              [
+                3,
+                2,
+                6,
+                9,
+                8,
+                12
+              ],
+              [
+                3,
+                10,
+                4
+              ],
+              [
+                7,
+                7,
+                9
+              ],
+              [
+                9,
+                4,
+                10,
+                2,
+                9
+              ],
+              [
+                9,
+                10,
+                10,
+                5
+              ],
+              [
+                8,
+                4
+              ]
+            ],
+            "pay_items": null
+          }
+        ],
+        "bonus_choice": null,
+        "bonus": null
+      }
+    }
+  },
+  "wildCrash": {
+    "user_id": "0c97cdf4-07f7-48aa-922e-1344091695a7",
+    "session_token": "8a6690b1-eedb-438c-8a3a-e6d08dc97b5f",
+    "game": "cleos-riches-flexiways",
+    "integrator": "mock",
+    "operator": "mock",
+    "currency": "usd",
+    "balance": 10000520,
+    "game_results": {
+      "is_pfr": false,
+      "restoring_indexes": {
+        "base_spin_index": 0,
+        "bonus_spin_index": 0
+      },
+      "spin": {
+        "wager": 100,
+        "award": 40,
+        "stops": [
+          16,
+          40,
+          75,
+          3,
+          38,
+          20,
+          88
+        ],
+        "buy_bonus": false,
+        "ante_bet": false,
+        "avalanches": [
+          {
+            "window": [
+              [
+                6,
+                4
+              ],
+              [
+                6,
+                3,
+                9,
+                5
+              ],
+              [
+                8,
+                6,
+                8,
+                7
+              ],
+              [
+                5,
+                7,
+                9,
+                7,
+                7,
+                10,
+                11
+              ],
+              [
+                7,
+                8,
+                7
+              ],
+              [
+                2,
+                10,
+                10
+              ]
+            ],
+            "pay_items": [
+              {
+                "symbol": 6,
+                "indexes": [
+                  [
+                    0
+                  ],
+                  [
+                    0
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    6
+                  ]
+                ],
+                "award": 40
+              }
+            ]
+          },
+          {
+            "window": [
+              [
+                4,
+                8
+              ],
+              [
+                3,
+                9,
+                7,
+                5
+              ],
+              [
+                8,
+                8,
+                12,
+                7
+              ],
+              [
+                5,
+                7,
+                9,
+                7,
+                7,
+                10,
+                7
+              ],
+              [
+                7,
+                8,
+                3
+              ],
+              [
+                2,
+                10,
+                10
+              ]
+            ],
+            "pay_items": null
+          }
+        ],
+        "bonus_choice": null,
+        "bonus": null
+      }
+    }
+  },
+  "bonusGame": {
+    "user_id": "5f440968-4b3a-4d10-851f-73147f587858",
+    "session_token": "46ed3649-4f53-4702-ae4e-ec206935214b",
+    "game": "cleos-riches-flexiways",
+    "integrator": "mock",
+    "operator": "mock",
+    "currency": "xts",
+    "balance": 9996160,
+    "game_results": {
+      "is_pfr": false,
+      "restoring_indexes": {
+        "base_spin_index": 1,
+        "bonus_spin_index": 0
+      },
+      "spin": {
+        "wager": 100,
+        "award": 0,
+        "stops": [
+          5,
+          6,
+          6,
+          36,
+          0,
+          0,
+          0
+        ],
+        "buy_bonus": true,
+        "ante_bet": false,
+        "avalanches": [
+          {
+            "window": [
+              [
+                8,
+                12,
+                8
+              ],
+              [
+                8,
+                12,
+                10,
+                10,
+                4
+              ],
+              [
+                9,
+                12,
+                5,
+                9
+              ],
+              [
+                5,
+                12,
+                4,
+                5,
+                6,
+                3,
+                6,
+                5
+              ],
+              [
+                6,
+                9,
+                8,
+                7
+              ],
+              [
+                8,
+                6,
+                6
+              ]
+            ],
+            "pay_items": [
+              {
+                "symbol": 12,
+                "indexes": [
+                  [
+                    1
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    1
+                  ],
+                  null,
+                  null
+                ],
+                "award": 0
+              }
+            ]
+          }
+        ],
+        "bonus_choice": [
+          {
+            "spins": 15,
+            "multiplier": 1,
+            "random": false
+          },
+          {
+            "spins": 10,
+            "multiplier": 5,
+            "random": false
+          },
+          {
+            "spins": 5,
+            "multiplier": 10,
+            "random": false
+          },
+          {
+            "spins": 15,
+            "multiplier": 5,
+            "random": true
+          }
+        ],
+        "bonus": {
+          "award": 6160,
+          "spins": [
+            {
+              "stops": [
+                60,
+                24,
+                8,
+                87,
+                35,
+                83,
+                62
+              ],
+              "award": 0,
+              "bonus_spins_left": 10,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                5
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      10,
+                      5
+                    ],
+                    [
+                      8,
+                      8,
+                      8,
+                      8
+                    ],
+                    [
+                      9,
+                      3,
+                      9,
+                      12,
+                      9
+                    ],
+                    [
+                      9,
+                      8,
+                      4
+                    ],
+                    [
+                      6,
+                      6,
+                      10,
+                      10,
+                      9
+                    ],
+                    [
+                      8,
+                      3,
+                      3
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                14,
+                51,
+                78,
+                15,
+                44,
+                20,
+                57
+              ],
+              "award": 0,
+              "bonus_spins_left": 9,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                5
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      8,
+                      6
+                    ],
+                    [
+                      4,
+                      3,
+                      10
+                    ],
+                    [
+                      7,
+                      3,
+                      5
+                    ],
+                    [
+                      2,
+                      5,
+                      6
+                    ],
+                    [
+                      10,
+                      8,
+                      6
+                    ],
+                    [
+                      12,
+                      2,
+                      10
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                40,
+                79,
+                44,
+                89,
+                62,
+                2,
+                40
+              ],
+              "award": 4000,
+              "bonus_spins_left": 8,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                5,
+                6
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      9,
+                      10,
+                      6,
+                      10,
+                      7
+                    ],
+                    [
+                      10,
+                      10,
+                      8
+                    ],
+                    [
+                      10,
+                      4,
+                      10
+                    ],
+                    [
+                      9,
+                      7,
+                      10
+                    ],
+                    [
+                      8,
+                      10,
+                      7,
+                      5
+                    ],
+                    [
+                      10,
+                      9
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 100,
+                      "multiplier": 5,
+                      "award_with_multiplier": 500
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 100,
+                      "multiplier": 5,
+                      "award_with_multiplier": 500
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 100,
+                      "multiplier": 5,
+                      "award_with_multiplier": 500
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 100,
+                      "multiplier": 5,
+                      "award_with_multiplier": 500
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 100,
+                      "multiplier": 5,
+                      "award_with_multiplier": 500
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 100,
+                      "multiplier": 5,
+                      "award_with_multiplier": 500
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 100,
+                      "multiplier": 5,
+                      "award_with_multiplier": 500
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 100,
+                      "multiplier": 5,
+                      "award_with_multiplier": 500
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      9,
+                      6,
+                      7,
+                      6,
+                      10
+                    ],
+                    [
+                      5,
+                      8,
+                      8
+                    ],
+                    [
+                      4,
+                      8,
+                      5
+                    ],
+                    [
+                      9,
+                      7,
+                      4
+                    ],
+                    [
+                      8,
+                      7,
+                      8,
+                      10
+                    ],
+                    [
+                      9,
+                      8
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                21,
+                17,
+                10,
+                24,
+                73,
+                29,
+                63
+              ],
+              "award": 260,
+              "bonus_spins_left": 7,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                6,
+                7,
+                8
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      6,
+                      9,
+                      9,
+                      9
+                    ],
+                    [
+                      6,
+                      8,
+                      10
+                    ],
+                    [
+                      6,
+                      9,
+                      9,
+                      3,
+                      8
+                    ],
+                    [
+                      10,
+                      8,
+                      9
+                    ],
+                    [
+                      9,
+                      10,
+                      10,
+                      4
+                    ],
+                    [
+                      8,
+                      4
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 6,
+                      "indexes": [
+                        [
+                          0
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 20,
+                      "multiplier": 6,
+                      "award_with_multiplier": 120
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      9,
+                      9,
+                      9,
+                      8
+                    ],
+                    [
+                      8,
+                      5,
+                      10
+                    ],
+                    [
+                      9,
+                      9,
+                      3,
+                      9,
+                      8
+                    ],
+                    [
+                      10,
+                      8,
+                      9
+                    ],
+                    [
+                      9,
+                      10,
+                      10,
+                      4
+                    ],
+                    [
+                      8,
+                      4
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          1
+                        ]
+                      ],
+                      "award": 20,
+                      "multiplier": 7,
+                      "award_with_multiplier": 140
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      9,
+                      9,
+                      9,
+                      6
+                    ],
+                    [
+                      5,
+                      10,
+                      10
+                    ],
+                    [
+                      9,
+                      9,
+                      3,
+                      9,
+                      9
+                    ],
+                    [
+                      10,
+                      10,
+                      4
+                    ],
+                    [
+                      9,
+                      10,
+                      10,
+                      9
+                    ],
+                    [
+                      8,
+                      4
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                45,
+                58,
+                14,
+                21,
+                19,
+                20,
+                86
+              ],
+              "award": 320,
+              "bonus_spins_left": 6,
+              "bonus_spins_triggered": 5,
+              "multiplier": [
+                8,
+                9
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      7,
+                      12
+                    ],
+                    [
+                      4,
+                      7,
+                      9,
+                      12,
+                      11
+                    ],
+                    [
+                      5,
+                      5,
+                      6,
+                      7
+                    ],
+                    [
+                      3,
+                      6,
+                      3
+                    ],
+                    [
+                      9,
+                      7,
+                      5,
+                      8
+                    ],
+                    [
+                      12,
+                      2,
+                      10
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 7,
+                      "indexes": [
+                        [
+                          0
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 20,
+                      "multiplier": 8,
+                      "award_with_multiplier": 160
+                    },
+                    {
+                      "symbol": 7,
+                      "indexes": [
+                        [
+                          0
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 20,
+                      "multiplier": 8,
+                      "award_with_multiplier": 160
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      12,
+                      9
+                    ],
+                    [
+                      4,
+                      9,
+                      12,
+                      8,
+                      3
+                    ],
+                    [
+                      5,
+                      5,
+                      6,
+                      8
+                    ],
+                    [
+                      3,
+                      6,
+                      6
+                    ],
+                    [
+                      9,
+                      7,
+                      5,
+                      10
+                    ],
+                    [
+                      12,
+                      2,
+                      10
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 12,
+                      "indexes": [
+                        [
+                          0
+                        ],
+                        [
+                          2
+                        ],
+                        null,
+                        null,
+                        null,
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 0,
+                      "multiplier": 0,
+                      "award_with_multiplier": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "stops": [
+                46,
+                9,
+                22,
+                35,
+                61,
+                46,
+                78
+              ],
+              "award": 0,
+              "bonus_spins_left": 10,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                9
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      9,
+                      7
+                    ],
+                    [
+                      10,
+                      10,
+                      9
+                    ],
+                    [
+                      7,
+                      7,
+                      10
+                    ],
+                    [
+                      12,
+                      4,
+                      9
+                    ],
+                    [
+                      10,
+                      7,
+                      8,
+                      10
+                    ],
+                    [
+                      10,
+                      10
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                75,
+                43,
+                30,
+                1,
+                62,
+                44,
+                76
+              ],
+              "award": 0,
+              "bonus_spins_left": 9,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                9
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      3,
+                      10
+                    ],
+                    [
+                      7,
+                      9,
+                      6,
+                      9
+                    ],
+                    [
+                      10,
+                      8,
+                      9,
+                      10
+                    ],
+                    [
+                      9,
+                      7,
+                      7,
+                      10
+                    ],
+                    [
+                      8,
+                      10,
+                      7,
+                      8,
+                      10
+                    ],
+                    [
+                      4,
+                      10
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                6,
+                24,
+                62,
+                48,
+                62,
+                51,
+                23
+              ],
+              "award": 540,
+              "bonus_spins_left": 8,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                9,
+                10
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      8,
+                      8
+                    ],
+                    [
+                      8,
+                      8,
+                      8
+                    ],
+                    [
+                      2,
+                      10,
+                      10,
+                      8,
+                      10,
+                      3,
+                      2
+                    ],
+                    [
+                      9,
+                      9,
+                      9,
+                      6
+                    ],
+                    [
+                      8,
+                      10,
+                      6
+                    ],
+                    [
+                      5,
+                      8
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          0
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 9,
+                      "award_with_multiplier": 90
+                    },
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          0
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 9,
+                      "award_with_multiplier": 90
+                    },
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          0
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 9,
+                      "award_with_multiplier": 90
+                    },
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 9,
+                      "award_with_multiplier": 90
+                    },
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 9,
+                      "award_with_multiplier": 90
+                    },
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 9,
+                      "award_with_multiplier": 90
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      12,
+                      8
+                    ],
+                    [
+                      8,
+                      8,
+                      2
+                    ],
+                    [
+                      2,
+                      10,
+                      10,
+                      10,
+                      3,
+                      10,
+                      6
+                    ],
+                    [
+                      9,
+                      9,
+                      9,
+                      6
+                    ],
+                    [
+                      8,
+                      10,
+                      10
+                    ],
+                    [
+                      5,
+                      8
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                13,
+                7,
+                17,
+                91,
+                35,
+                89,
+                0
+              ],
+              "award": 0,
+              "bonus_spins_left": 7,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                10
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      6,
+                      6
+                    ],
+                    [
+                      10,
+                      8,
+                      12,
+                      4
+                    ],
+                    [
+                      5,
+                      8,
+                      4,
+                      9
+                    ],
+                    [
+                      10,
+                      8,
+                      9,
+                      5
+                    ],
+                    [
+                      6,
+                      6,
+                      10,
+                      10,
+                      7
+                    ],
+                    [
+                      6,
+                      10,
+                      8,
+                      4
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                65,
+                19,
+                28,
+                32,
+                43,
+                50,
+                6
+              ],
+              "award": 0,
+              "bonus_spins_left": 6,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                10
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      10,
+                      10
+                    ],
+                    [
+                      4,
+                      9,
+                      6,
+                      7
+                    ],
+                    [
+                      9,
+                      2,
+                      10
+                    ],
+                    [
+                      6,
+                      3,
+                      5
+                    ],
+                    [
+                      8,
+                      7,
+                      8
+                    ],
+                    [
+                      8,
+                      9
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                11,
+                52,
+                7,
+                90,
+                72,
+                58,
+                73
+              ],
+              "award": 1040,
+              "bonus_spins_left": 5,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                10,
+                11,
+                12
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      3,
+                      2
+                    ],
+                    [
+                      9,
+                      4,
+                      3,
+                      8,
+                      10
+                    ],
+                    [
+                      3,
+                      9,
+                      3
+                    ],
+                    [
+                      8,
+                      9,
+                      7,
+                      8
+                    ],
+                    [
+                      10,
+                      10,
+                      9,
+                      11
+                    ],
+                    [
+                      10,
+                      9,
+                      9
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 3,
+                      "indexes": [
+                        [
+                          0
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 30,
+                      "multiplier": 10,
+                      "award_with_multiplier": 300
+                    },
+                    {
+                      "symbol": 3,
+                      "indexes": [
+                        [
+                          0
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 30,
+                      "multiplier": 10,
+                      "award_with_multiplier": 300
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      2,
+                      8
+                    ],
+                    [
+                      9,
+                      4,
+                      8,
+                      7,
+                      10
+                    ],
+                    [
+                      9,
+                      12,
+                      8
+                    ],
+                    [
+                      8,
+                      9,
+                      7,
+                      11
+                    ],
+                    [
+                      10,
+                      10,
+                      9,
+                      4
+                    ],
+                    [
+                      10,
+                      9,
+                      9
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 20,
+                      "multiplier": 11,
+                      "award_with_multiplier": 220
+                    },
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 20,
+                      "multiplier": 11,
+                      "award_with_multiplier": 220
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      2,
+                      6
+                    ],
+                    [
+                      9,
+                      4,
+                      7,
+                      6,
+                      10
+                    ],
+                    [
+                      9,
+                      12,
+                      4
+                    ],
+                    [
+                      9,
+                      7,
+                      9,
+                      10
+                    ],
+                    [
+                      10,
+                      10,
+                      9,
+                      9
+                    ],
+                    [
+                      10,
+                      9,
+                      9
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                16,
+                32,
+                68,
+                13,
+                64,
+                70,
+                5
+              ],
+              "award": 0,
+              "bonus_spins_left": 4,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                12
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      6,
+                      4
+                    ],
+                    [
+                      8,
+                      5,
+                      8,
+                      5,
+                      7,
+                      10
+                    ],
+                    [
+                      8,
+                      8,
+                      9,
+                      9,
+                      5
+                    ],
+                    [
+                      10,
+                      6,
+                      10,
+                      8
+                    ],
+                    [
+                      7,
+                      9,
+                      8,
+                      2
+                    ],
+                    [
+                      7,
+                      10,
+                      6,
+                      3
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                84,
+                64,
+                79,
+                8,
+                53,
+                49,
+                33
+              ],
+              "award": 0,
+              "bonus_spins_left": 3,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                12
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      5,
+                      10,
+                      10
+                    ],
+                    [
+                      7,
+                      9,
+                      10
+                    ],
+                    [
+                      1,
+                      7,
+                      6
+                    ],
+                    [
+                      3,
+                      5,
+                      9
+                    ],
+                    [
+                      8,
+                      8,
+                      10,
+                      5
+                    ],
+                    [
+                      9,
+                      8
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                21,
+                75,
+                14,
+                22,
+                58,
+                54,
+                74
+              ],
+              "award": 0,
+              "bonus_spins_left": 2,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                12
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      6,
+                      9
+                    ],
+                    [
+                      5,
+                      8,
+                      10
+                    ],
+                    [
+                      5,
+                      5,
+                      10
+                    ],
+                    [
+                      10,
+                      3,
+                      6,
+                      3
+                    ],
+                    [
+                      2,
+                      6,
+                      8
+                    ],
+                    [
+                      9,
+                      5,
+                      2,
+                      5
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                42,
+                30,
+                34,
+                69,
+                65,
+                12,
+                23
+              ],
+              "award": 0,
+              "bonus_spins_left": 1,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                12
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      10,
+                      10,
+                      9,
+                      10
+                    ],
+                    [
+                      8,
+                      5,
+                      7,
+                      5,
+                      8
+                    ],
+                    [
+                      5,
+                      9,
+                      7,
+                      2
+                    ],
+                    [
+                      8,
+                      9,
+                      4,
+                      6
+                    ],
+                    [
+                      9,
+                      7,
+                      6
+                    ],
+                    [
+                      8,
+                      10,
+                      9
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "error": {
+    "user_id": "afddc422-3237-4390-8db7-6f9cf921fc37",
+    "session_token": "320f6124-807b-4274-b3f2-33f89e88f562",
+    "game": "cleos-riches-flexiways",
+    "integrator": "mock",
+    "operator": "mock",
+    "currency": "xts",
+    "balance": 10000080,
+    "game_results": {
+      "is_pfr": false,
+      "restoring_indexes": {
+        "base_spin_index": 0,
+        "bonus_spin_index": 0
+      },
+      "spin": {
+        "wager": 100,
+        "award": 180,
+        "stops": [
+          26,
+          1,
+          10,
+          57,
+          51,
+          25,
+          86
+        ],
+        "buy_bonus": false,
+        "ante_bet": false,
+        "avalanches": [
+          {
+            "window": [
+              [
+                6,
+                12,
+                9
+              ],
+              [
+                3,
+                9,
+                10,
+                11
+              ],
+              [
+                6,
+                9,
+                9,
+                3,
+                7
+              ],
+              [
+                8,
+                12,
+                9,
+                8,
+                7,
+                3
+              ],
+              [
+                10,
+                6,
+                8,
+                9,
+                8
+              ],
+              [
+                7,
+                8,
+                8
+              ]
+            ],
+            "pay_items": [
+              {
+                "symbol": 6,
+                "indexes": [
+                  [
+                    0
+                  ],
+                  [
+                    3
+                  ],
+                  [
+                    0
+                  ]
+                ],
+                "award": 20
+              },
+              {
+                "symbol": 9,
+                "indexes": [
+                  [
+                    2
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    3
+                  ]
+                ],
+                "award": 40
+              },
+              {
+                "symbol": 9,
+                "indexes": [
+                  [
+                    2
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    3
+                  ]
+                ],
+                "award": 40
+              },
+              {
+                "symbol": 9,
+                "indexes": [
+                  [
+                    2
+                  ],
+                  [
+                    3
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    3
+                  ]
+                ],
+                "award": 40
+              },
+              {
+                "symbol": 9,
+                "indexes": [
+                  [
+                    2
+                  ],
+                  [
+                    3
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    2
+                  ],
+                  [
+                    3
+                  ]
+                ],
+                "award": 40
+              }
+            ]
+          },
+          {
+            "window": [
+              [
+                12,
+                9,
+                10
+              ],
+              [
+                3,
+                10,
+                6,
+                7
+              ],
+              [
+                3,
+                9,
+                12,
+                5,
+                3
+              ],
+              [
+                8,
+                12,
+                8,
+                7,
+                6,
+                8
+              ],
+              [
+                10,
+                6,
+                8,
+                12,
+                6
+              ],
+              [
+                7,
+                8,
+                8
+              ]
+            ],
+            "pay_items": [
+              {
+                "symbol": 12,
+                "indexes": [
+                  [
+                    0
+                  ],
+                  null,
+                  [
+                    2
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    3
+                  ],
+                  null
+                ],
+                "award": 0
+              }
+            ]
+          }
+        ],
+        "bonus_choice": [
+          {
+            "spins": 15,
+            "multiplier": 1,
+            "random": false
+          },
+          {
+            "spins": 10,
+            "multiplier": 5,
+            "random": false
+          },
+          {
+            "spins": 5,
+            "multiplier": 10,
+            "random": false
+          },
+          {
+            "spins": 15,
+            "multiplier": 10,
+            "random": true
+          }
+        ],
+        "bonus": null
+      }
+    }
+  },
+  "scatterInBonus": {
+    "user_id": "1eebbbd7-ac28-4018-aabb-d4a457586a91",
+    "session_token": "2f62ee35-f715-4caa-8523-4dc4348b5749",
+    "game": "cleos-riches-flexiways",
+    "integrator": "mock",
+    "operator": "mock",
+    "currency": "xts",
+    "balance": 10000350,
+    "game_results": {
+      "is_pfr": false,
+      "restoring_indexes": {
+        "base_spin_index": 1,
+        "bonus_spin_index": 0
+      },
+      "spin": {
+        "wager": 100,
+        "award": 0,
+        "stops": [
+          5,
+          6,
+          6,
+          36,
+          0,
+          0,
+          0
+        ],
+        "buy_bonus": true,
+        "ante_bet": false,
+        "avalanches": [
+          {
+            "window": [
+              [
+                8,
+                12,
+                8
+              ],
+              [
+                8,
+                12,
+                10,
+                4
+              ],
+              [
+                9,
+                12,
+                9
+              ],
+              [
+                5,
+                12,
+                5
+              ],
+              [
+                6,
+                9,
+                7
+              ],
+              [
+                8,
+                6
+              ]
+            ],
+            "pay_items": [
+              {
+                "symbol": 12,
+                "indexes": [
+                  [
+                    1
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    1
+                  ],
+                  [
+                    1
+                  ],
+                  null,
+                  null
+                ],
+                "award": 0
+              }
+            ]
+          }
+        ],
+        "bonus_choice": [
+          {
+            "spins": 15,
+            "multiplier": 1,
+            "random": false
+          },
+          {
+            "spins": 10,
+            "multiplier": 5,
+            "random": false
+          },
+          {
+            "spins": 5,
+            "multiplier": 10,
+            "random": false
+          },
+          {
+            "spins": 10,
+            "multiplier": 10,
+            "random": true
+          }
+        ],
+        "bonus": {
+          "award": 10490,
+          "spins": [
+            {
+              "stops": [
+                12,
+                8,
+                0,
+                70,
+                27,
+                13,
+                86
+              ],
+              "award": 0,
+              "bonus_spins_left": 5,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                10
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      6,
+                      3,
+                      2
+                    ],
+                    [
+                      10,
+                      10,
+                      8,
+                      11
+                    ],
+                    [
+                      9,
+                      8,
+                      7,
+                      7
+                    ],
+                    [
+                      9,
+                      8,
+                      9,
+                      4,
+                      3
+                    ],
+                    [
+                      9,
+                      10,
+                      4,
+                      10,
+                      7,
+                      8,
+                      8
+                    ],
+                    [
+                      5,
+                      8,
+                      10,
+                      9
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                80,
+                3,
+                59,
+                5,
+                3,
+                18,
+                58
+              ],
+              "award": 5370,
+              "bonus_spins_left": 4,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                10,
+                11,
+                12
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      4,
+                      5,
+                      5,
+                      8,
+                      4,
+                      3,
+                      10
+                    ],
+                    [
+                      10,
+                      9,
+                      3,
+                      9,
+                      10,
+                      9
+                    ],
+                    [
+                      8,
+                      10,
+                      3,
+                      10,
+                      10,
+                      10,
+                      10
+                    ],
+                    [
+                      2,
+                      6,
+                      5,
+                      5
+                    ],
+                    [
+                      5,
+                      4,
+                      12,
+                      6
+                    ],
+                    [
+                      10,
+                      10,
+                      9,
+                      8,
+                      4
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 3,
+                      "indexes": [
+                        [
+                          5
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 30,
+                      "multiplier": 10,
+                      "award_with_multiplier": 300
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          1
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 10,
+                      "award_with_multiplier": 100
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 10,
+                      "award_with_multiplier": 100
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          4
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 10,
+                      "award_with_multiplier": 100
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          5
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 10,
+                      "award_with_multiplier": 100
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          6
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 10,
+                      "award_with_multiplier": 100
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          1
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 10,
+                      "award_with_multiplier": 100
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 10,
+                      "award_with_multiplier": 100
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          4
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 10,
+                      "award_with_multiplier": 100
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          5
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 10,
+                      "award_with_multiplier": 100
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          6
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 10,
+                      "award_with_multiplier": 100
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      4,
+                      5,
+                      5,
+                      8,
+                      4,
+                      3,
+                      10
+                    ],
+                    [
+                      9,
+                      9,
+                      6,
+                      10,
+                      5,
+                      9
+                    ],
+                    [
+                      8,
+                      5,
+                      8,
+                      3,
+                      5,
+                      10,
+                      5
+                    ],
+                    [
+                      2,
+                      6,
+                      5,
+                      6
+                    ],
+                    [
+                      5,
+                      4,
+                      12,
+                      6
+                    ],
+                    [
+                      10,
+                      10,
+                      9,
+                      8,
+                      4
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 5,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 60,
+                      "multiplier": 11,
+                      "award_with_multiplier": 660
+                    },
+                    {
+                      "symbol": 5,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 60,
+                      "multiplier": 11,
+                      "award_with_multiplier": 660
+                    },
+                    {
+                      "symbol": 5,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          6
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 60,
+                      "multiplier": 11,
+                      "award_with_multiplier": 660
+                    },
+                    {
+                      "symbol": 5,
+                      "indexes": [
+                        [
+                          2
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 60,
+                      "multiplier": 11,
+                      "award_with_multiplier": 660
+                    },
+                    {
+                      "symbol": 5,
+                      "indexes": [
+                        [
+                          2
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 60,
+                      "multiplier": 11,
+                      "award_with_multiplier": 660
+                    },
+                    {
+                      "symbol": 5,
+                      "indexes": [
+                        [
+                          2
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          6
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 60,
+                      "multiplier": 11,
+                      "award_with_multiplier": 660
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          6
+                        ],
+                        [
+                          3
+                        ],
+                        [
+                          5
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 11,
+                      "award_with_multiplier": 110
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      4,
+                      8,
+                      4,
+                      3,
+                      8,
+                      3,
+                      2
+                    ],
+                    [
+                      9,
+                      9,
+                      6,
+                      10,
+                      10,
+                      9
+                    ],
+                    [
+                      8,
+                      8,
+                      3,
+                      8,
+                      9,
+                      6,
+                      6
+                    ],
+                    [
+                      2,
+                      6,
+                      7,
+                      6
+                    ],
+                    [
+                      4,
+                      12,
+                      6,
+                      9
+                    ],
+                    [
+                      10,
+                      10,
+                      9,
+                      8,
+                      4
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                12,
+                40,
+                41,
+                48,
+                49,
+                78,
+                57
+              ],
+              "award": 0,
+              "bonus_spins_left": 3,
+              "bonus_spins_triggered": 5,
+              "multiplier": [
+                12
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      6,
+                      3,
+                      2,
+                      8
+                    ],
+                    [
+                      7,
+                      6,
+                      3,
+                      10
+                    ],
+                    [
+                      7,
+                      12,
+                      4,
+                      10,
+                      5
+                    ],
+                    [
+                      9,
+                      9,
+                      9,
+                      6
+                    ],
+                    [
+                      8,
+                      9,
+                      12,
+                      6
+                    ],
+                    [
+                      10,
+                      10,
+                      12
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 12,
+                      "indexes": [
+                        null,
+                        null,
+                        [
+                          1
+                        ],
+                        null,
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 0,
+                      "multiplier": 0,
+                      "award_with_multiplier": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "stops": [
+                64,
+                53,
+                84,
+                11,
+                71,
+                32,
+                52
+              ],
+              "award": 0,
+              "bonus_spins_left": 7,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                12
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      10,
+                      4,
+                      10
+                    ],
+                    [
+                      8,
+                      9,
+                      4,
+                      3,
+                      9
+                    ],
+                    [
+                      6,
+                      9,
+                      6,
+                      9,
+                      10,
+                      9
+                    ],
+                    [
+                      10,
+                      10,
+                      9,
+                      5
+                    ],
+                    [
+                      10,
+                      9,
+                      5,
+                      2,
+                      4
+                    ],
+                    [
+                      10,
+                      7
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                0,
+                41,
+                49,
+                64,
+                35,
+                56,
+                66
+              ],
+              "award": 0,
+              "bonus_spins_left": 6,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                12
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      7,
+                      7,
+                      7,
+                      8,
+                      8,
+                      5
+                    ],
+                    [
+                      6,
+                      7,
+                      6,
+                      3,
+                      5
+                    ],
+                    [
+                      10,
+                      8,
+                      9,
+                      10
+                    ],
+                    [
+                      4,
+                      4,
+                      9
+                    ],
+                    [
+                      6,
+                      6,
+                      10,
+                      10,
+                      10
+                    ],
+                    [
+                      9,
+                      6,
+                      9,
+                      5
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                25,
+                15,
+                44,
+                62,
+                13,
+                55,
+                87
+              ],
+              "award": 480,
+              "bonus_spins_left": 5,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                12,
+                13
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      6,
+                      9,
+                      9,
+                      10,
+                      6,
+                      9
+                    ],
+                    [
+                      5,
+                      10,
+                      10,
+                      7
+                    ],
+                    [
+                      10,
+                      4,
+                      8,
+                      11
+                    ],
+                    [
+                      8,
+                      5,
+                      9,
+                      9,
+                      7
+                    ],
+                    [
+                      9,
+                      3,
+                      5,
+                      3
+                    ],
+                    [
+                      6,
+                      9,
+                      5
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 12,
+                      "award_with_multiplier": 120
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 12,
+                      "award_with_multiplier": 120
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 12,
+                      "award_with_multiplier": 120
+                    },
+                    {
+                      "symbol": 10,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          3
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 12,
+                      "award_with_multiplier": 120
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      6,
+                      9,
+                      9,
+                      6,
+                      9,
+                      9
+                    ],
+                    [
+                      5,
+                      10,
+                      9,
+                      7
+                    ],
+                    [
+                      4,
+                      8,
+                      7,
+                      7
+                    ],
+                    [
+                      8,
+                      5,
+                      9,
+                      9,
+                      3
+                    ],
+                    [
+                      9,
+                      3,
+                      5,
+                      8
+                    ],
+                    [
+                      6,
+                      9,
+                      5
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                94,
+                56,
+                24,
+                53,
+                38,
+                0,
+                48
+              ],
+              "award": 0,
+              "bonus_spins_left": 4,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                13
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      7,
+                      8,
+                      8
+                    ],
+                    [
+                      9,
+                      12,
+                      8,
+                      8
+                    ],
+                    [
+                      9,
+                      7,
+                      7,
+                      9
+                    ],
+                    [
+                      7,
+                      6,
+                      3,
+                      9
+                    ],
+                    [
+                      7,
+                      8,
+                      3,
+                      6,
+                      5
+                    ],
+                    [
+                      8,
+                      6,
+                      6
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                46,
+                32,
+                2,
+                84,
+                28,
+                42,
+                60
+              ],
+              "award": 0,
+              "bonus_spins_left": 3,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                13
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      9,
+                      7
+                    ],
+                    [
+                      8,
+                      5,
+                      4
+                    ],
+                    [
+                      2,
+                      8,
+                      9,
+                      8,
+                      9
+                    ],
+                    [
+                      10,
+                      12,
+                      5,
+                      9,
+                      8,
+                      9
+                    ],
+                    [
+                      2,
+                      9,
+                      10,
+                      10
+                    ],
+                    [
+                      3,
+                      5,
+                      9,
+                      8
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                21,
+                54,
+                47,
+                25,
+                9,
+                16,
+                3
+              ],
+              "award": 4640,
+              "bonus_spins_left": 2,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      6,
+                      9,
+                      9,
+                      9
+                    ],
+                    [
+                      8,
+                      8,
+                      9,
+                      4,
+                      8
+                    ],
+                    [
+                      9,
+                      6,
+                      9,
+                      10,
+                      4,
+                      8,
+                      2
+                    ],
+                    [
+                      6,
+                      10,
+                      8,
+                      10,
+                      3
+                    ],
+                    [
+                      2,
+                      1,
+                      4
+                    ],
+                    [
+                      9,
+                      8
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 9,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 13,
+                      "award_with_multiplier": 130
+                    },
+                    {
+                      "symbol": 9,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 13,
+                      "award_with_multiplier": 130
+                    },
+                    {
+                      "symbol": 9,
+                      "indexes": [
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 13,
+                      "award_with_multiplier": 130
+                    },
+                    {
+                      "symbol": 9,
+                      "indexes": [
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 13,
+                      "award_with_multiplier": 130
+                    },
+                    {
+                      "symbol": 9,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 13,
+                      "award_with_multiplier": 130
+                    },
+                    {
+                      "symbol": 9,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 10,
+                      "multiplier": 13,
+                      "award_with_multiplier": 130
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      6,
+                      8,
+                      6,
+                      4
+                    ],
+                    [
+                      8,
+                      8,
+                      4,
+                      3,
+                      8
+                    ],
+                    [
+                      6,
+                      10,
+                      4,
+                      8,
+                      7,
+                      12,
+                      2
+                    ],
+                    [
+                      6,
+                      10,
+                      8,
+                      10,
+                      3
+                    ],
+                    [
+                      2,
+                      1,
+                      4
+                    ],
+                    [
+                      9,
+                      8
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          3
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 20,
+                      "multiplier": 14,
+                      "award_with_multiplier": 280
+                    },
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          1
+                        ],
+                        [
+                          3
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 20,
+                      "multiplier": 14,
+                      "award_with_multiplier": 280
+                    },
+                    {
+                      "symbol": 8,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          4
+                        ],
+                        [
+                          3
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 20,
+                      "multiplier": 14,
+                      "award_with_multiplier": 280
+                    },
+                    {
+                      "symbol": 4,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          2
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 30,
+                      "multiplier": 14,
+                      "award_with_multiplier": 420
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      6,
+                      6,
+                      8,
+                      6
+                    ],
+                    [
+                      3,
+                      8,
+                      7,
+                      6,
+                      2
+                    ],
+                    [
+                      6,
+                      10,
+                      7,
+                      12,
+                      4,
+                      10,
+                      3
+                    ],
+                    [
+                      6,
+                      10,
+                      10,
+                      3,
+                      4
+                    ],
+                    [
+                      2,
+                      1,
+                      9
+                    ],
+                    [
+                      9,
+                      8
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 6,
+                      "indexes": [
+                        [
+                          0
+                        ],
+                        [
+                          3
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 40,
+                      "multiplier": 15,
+                      "award_with_multiplier": 600
+                    },
+                    {
+                      "symbol": 6,
+                      "indexes": [
+                        [
+                          1
+                        ],
+                        [
+                          3
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 40,
+                      "multiplier": 15,
+                      "award_with_multiplier": 600
+                    },
+                    {
+                      "symbol": 6,
+                      "indexes": [
+                        [
+                          3
+                        ],
+                        [
+                          3
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          0
+                        ]
+                      ],
+                      "award": 40,
+                      "multiplier": 15,
+                      "award_with_multiplier": 600
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      8,
+                      6,
+                      3,
+                      2
+                    ],
+                    [
+                      3,
+                      8,
+                      7,
+                      1,
+                      2
+                    ],
+                    [
+                      10,
+                      7,
+                      12,
+                      4,
+                      10,
+                      10,
+                      3
+                    ],
+                    [
+                      10,
+                      10,
+                      3,
+                      6,
+                      4
+                    ],
+                    [
+                      2,
+                      1,
+                      9
+                    ],
+                    [
+                      9,
+                      8
+                    ]
+                  ],
+                  "pay_items": [
+                    {
+                      "symbol": 3,
+                      "indexes": [
+                        [
+                          2
+                        ],
+                        [
+                          0
+                        ],
+                        [
+                          6
+                        ],
+                        [
+                          2
+                        ]
+                      ],
+                      "award": 50,
+                      "multiplier": 16,
+                      "award_with_multiplier": 800
+                    }
+                  ]
+                },
+                {
+                  "window": [
+                    [
+                      8,
+                      6,
+                      2,
+                      8
+                    ],
+                    [
+                      8,
+                      7,
+                      1,
+                      6,
+                      2
+                    ],
+                    [
+                      10,
+                      7,
+                      12,
+                      4,
+                      10,
+                      10,
+                      4
+                    ],
+                    [
+                      10,
+                      10,
+                      6,
+                      8,
+                      9
+                    ],
+                    [
+                      2,
+                      1,
+                      5
+                    ],
+                    [
+                      9,
+                      8
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            },
+            {
+              "stops": [
+                38,
+                16,
+                71,
+                86,
+                9,
+                63,
+                32
+              ],
+              "award": 0,
+              "bonus_spins_left": 1,
+              "bonus_spins_triggered": 0,
+              "multiplier": [
+                17
+              ],
+              "avalanches": [
+                {
+                  "window": [
+                    [
+                      6,
+                      10
+                    ],
+                    [
+                      8,
+                      5,
+                      10,
+                      6
+                    ],
+                    [
+                      8,
+                      4,
+                      3,
+                      9
+                    ],
+                    [
+                      8,
+                      8,
+                      10,
+                      12,
+                      5,
+                      5
+                    ],
+                    [
+                      2,
+                      1,
+                      7
+                    ],
+                    [
+                      3,
+                      8,
+                      9
+                    ]
+                  ],
+                  "pay_items": []
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}
